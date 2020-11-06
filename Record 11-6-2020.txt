@@ -1,0 +1,1978 @@
+Start: ====== 11-6 11.12.58
+6 Keep alive ------ 11-6	11.12.58	Sleep:31	Token:682e5484-ca81-4710-9d47-02a0239a068e	yu=62 FinishTime=31
+0 Keep alive ------ 11-6	11.12.58	Sleep:31	Token:639ac72a-9d06-4294-a6c8-9c7620bb1d95	yu=62 FinishTime=31
+4 Keep alive ------ 11-6	11.12.58	Sleep:31	Token:9ec8ed4a-a7eb-4850-8bb7-19639ce2c28e	yu=62 FinishTime=31
+5 Keep alive ------ 11-6	11.12.58	Sleep:31	Token:e7b70f85-f296-48bb-83f1-2d5c3e0a200c	yu=62 FinishTime=31
+2 Keep alive ------ 11-6	11.12.58	Sleep:31	Token:6dc75464-c084-4604-9064-54d70596ebe1	yu=62 FinishTime=31
+1 Keep alive ------ 11-6	11.12.58	Sleep:31	Token:d630313d-d37c-429c-8a8b-4982e90e18d0	yu=62 FinishTime=31
+3 Keep alive ------ 11-6	11.12.58	Sleep:31	Token:a6b39445-56f4-4714-a2bc-75689a15c16c	yu=62 FinishTime=31
+0 Ready do post ------ 11-6	11.13.29	Sleep:32	Token:ec69ae60-70ea-435d-95fd-4d7712bb8b16	yu=31
+6 Ready do post ------ 11-6	11.13.29	Sleep:32	Token:0ba32263-3fbf-4c2e-97f2-5921d8029330	yu=31
+4 Ready do post ------ 11-6	11.13.29	Sleep:32	Token:6b6414c4-a58d-4487-828a-1a5b6dddf91d	yu=31
+5 Ready do post ------ 11-6	11.13.29	Sleep:32	Token:946c2db9-d8ae-4d0b-8caf-88ad5f85404f	yu=31
+2 Ready do post ------ 11-6	11.13.30	Sleep:31	Token:dfbc9f69-db21-422a-aaae-0371fe938140	yu=30
+3 Ready do post ------ 11-6	11.13.30	Sleep:31	Token:ca51385c-7f3b-4de4-a929-cc72f1a274c7	yu=30
+1 Ready do post ------ 11-6	11.13.30	Sleep:31	Token:fd20091a-7e5d-42cc-88ac-71115ec73ea7	yu=30
+2 Sended post ------ 11-6	11.14.1	Token:dfbc9f69-db21-422a-aaae-0371fe938140
+3 Sended post ------ 11-6	11.14.1	Token:ca51385c-7f3b-4de4-a929-cc72f1a274c7
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Sended post ------ 11-6	11.14.1	Token:fd20091a-7e5d-42cc-88ac-71115ec73ea7
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Sended post ------ 11-6	11.14.1	Token:0ba32263-3fbf-4c2e-97f2-5921d8029330
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Sended post ------ 11-6	11.14.1	Token:6b6414c4-a58d-4487-828a-1a5b6dddf91d
+0 Sended post ------ 11-6	11.14.1	Token:ec69ae60-70ea-435d-95fd-4d7712bb8b16
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Sended post ------ 11-6	11.14.1	Token:946c2db9-d8ae-4d0b-8caf-88ad5f85404f
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Insurance! ------ 
+3 Insurance! ------ 
+1 Insurance! ------ 
+6 Insurance! ------ 
+4 Insurance! ------ 
+0 Insurance! ------ 
+5 Insurance! ------ 
+3 Single One ------ 11-6	11.14.3	Seat:80	Token:72327b1e-b97f-489c-a018-d54c482f2ac0
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Single One ------ 11-6	11.14.3	Seat:80	Token:884fd694-7d44-4cfb-815a-8044a142d285
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	11.14.3	Seat:80	Token:79198ee0-0614-4af1-8db3-62add17f5c4f
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Single One ------ 11-6	11.14.3	Seat:80	Token:ed420c0d-93de-45a6-9673-9a982880204c
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Single One ------ 11-6	11.14.3	Seat:80	Token:88ecec0b-b2a6-4d8d-bd7f-94ddb8ac54e1
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Single One ------ 11-6	11.14.3	Seat:80	Token:df33a516-9ab5-40d5-acf4-f2e30a0a6c81
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Single One ------ 11-6	11.14.3	Seat:80	Token:8a6184ff-faac-4ee0-bc00-52f5ba3dafd7
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	11.14.4	Seat:77	Token:78de13a3-d5b0-4cb0-85e1-c41875b9417e
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Single One ------ 11-6	11.14.4	Seat:77	Token:f19e4a35-506a-4c42-86f1-4ad82935d346
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	11.14.4	Seat:77	Token:859dda26-29e7-462d-812c-d3abbd0b5224
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Single One ------ 11-6	11.14.4	Seat:77	Token:62576cc5-1f0b-45b0-a276-5600960042da
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Single One ------ 11-6	11.14.4	Seat:77	Token:c0ca0759-c981-4504-b8ee-f468a7442e55
+5 Single One ------ 11-6	11.14.4	Seat:77	Token:c0af3c71-eb24-4e83-854a-fc2e50ca5854
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Single One ------ 11-6	11.14.4	Seat:77	Token:6e7e9e8f-623f-4cb4-b071-2885332e47fa
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Single One ------ 11-6	11.14.4	Seat:79	Token:b0ac7084-fb7e-45cc-8390-f2ed69a85a6a
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	11.14.4	Seat:79	Token:06f462f1-b0ac-4a58-905c-33d814ca6765
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	11.14.4	Seat:79	Token:c84c2a69-8908-4517-be39-f7574559ad65
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Single One ------ 11-6	11.14.5	Seat:79	Token:439bc735-eec6-40c1-9a41-83eea5c9608b
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Single One ------ 11-6	11.14.5	Seat:79	Token:43b06d08-a055-4a79-bbd6-896627bdff29
+5 reply:No result
+4 Single One ------ 11-6	11.14.5	Seat:79	Token:fbd6494d-3402-432a-87a3-9c167763fce3
+4 reply:No result
+6 Single One ------ 11-6	11.14.5	Seat:79	Token:25ad2981-a5b8-4fdb-b506-3ea63e763f42
+6 reply:No result
+Finish all
+Start: ====== 11-6 11.14.12
+3 Ready do post ------ 11-6	11.14.13	Sleep:-12	Token:5f035790-dbf9-4c2b-94ba-b871bfdd91e9	yu=-13
+6 Ready do post ------ 11-6	11.14.13	Sleep:-12	Token:c990521b-5396-4784-ac45-0114824e18e1	yu=-13
+0 Ready do post ------ 11-6	11.14.13	Sleep:-12	Token:eed745fc-65d6-48aa-b0b4-038502a39642	yu=-13
+1 Ready do post ------ 11-6	11.14.13	Sleep:-12	Token:ea2dce1c-caa3-40f8-a53d-3e88059959ac	yu=-13
+5 Ready do post ------ 11-6	11.14.13	Sleep:-12	Token:66a6a7a0-f543-47ba-a8cb-883b5f194229	yu=-13
+2 Ready do post ------ 11-6	11.14.13	Sleep:-12	Token:5f9f60c6-231c-4afe-9250-4f84ca94e6e8	yu=-13
+4 Ready do post ------ 11-6	11.14.13	Sleep:-12	Token:866cdb0f-4b35-42ef-ad70-2ebd9d7249ea	yu=-13
+3 Sended post ------ 11-6	11.14.13	Token:5f035790-dbf9-4c2b-94ba-b871bfdd91e9
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Sended post ------ 11-6	11.14.13	Token:c990521b-5396-4784-ac45-0114824e18e1
+0 Sended post ------ 11-6	11.14.13	Token:eed745fc-65d6-48aa-b0b4-038502a39642
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Sended post ------ 11-6	11.14.13	Token:66a6a7a0-f543-47ba-a8cb-883b5f194229
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Sended post ------ 11-6	11.14.13	Token:ea2dce1c-caa3-40f8-a53d-3e88059959ac
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Sended post ------ 11-6	11.14.13	Token:5f9f60c6-231c-4afe-9250-4f84ca94e6e8
+4 Sended post ------ 11-6	11.14.13	Token:866cdb0f-4b35-42ef-ad70-2ebd9d7249ea
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 reply:No result
+3 Insurance! ------ 
+6 Insurance! ------ 
+0 Insurance! ------ 
+5 Insurance! ------ 
+1 Insurance! ------ 
+2 Insurance! ------ 
+2 Insurance! ------ 
+4 Insurance! ------ 
+3 Single One ------ 11-6	11.14.15	Seat:80	Token:cab3981e-2ccf-4463-aabf-1a30d746bdd1
+0 Single One ------ 11-6	11.14.15	Seat:80	Token:b1e99e66-81a3-44f2-bdea-e44dcbe0ce10
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Single One ------ 11-6	11.14.15	Seat:80	Token:ea596683-0d70-43dc-bf99-43db3363c8cc
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	11.14.15	Seat:80	Token:0a7aa45d-eacf-48d5-8cad-526c73fd71f9
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Single One ------ 11-6	11.14.15	Seat:80	Token:c782300b-82c0-42ca-81e1-2a71e72a2691
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Single One ------ 11-6	11.14.15	Seat:80	Token:cbb266e3-947e-47d4-b663-b14cacabfa98
+2 Single One ------ 11-6	11.14.15	Seat:80	Token:300cfcb3-c64a-43f7-8b73-f0187e7decde
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	11.14.16	Seat:77	Token:325dcd2d-1417-423f-9d25-8cbb7a00639f
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	11.14.16	Seat:77	Token:5f3ffb7c-209e-481c-9e18-6e5c4ef2a4d3
+0 Single One ------ 11-6	11.14.16	Seat:77	Token:37fcc0f0-c4b0-4586-bb75-30e46358740e
+4 Single One ------ 11-6	11.14.16	Seat:77	Token:dddc861a-b329-4d94-8625-efd61ebe40bc
+2 Single One ------ 11-6	11.14.16	Seat:77	Token:264e16ec-f257-4ebe-9489-69d307be0c38
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Single One ------ 11-6	11.14.16	Seat:77	Token:22187269-5ef9-4742-a830-1780f2d9e565
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Single One ------ 11-6	11.14.16	Seat:77	Token:e227e6c7-537d-44ad-81df-100e5c7a1837
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	11.14.17	Seat:79	Token:0a4eecad-922b-4bb7-9ee7-353739aea7c7
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Single One ------ 11-6	11.14.17	Seat:79	Token:4bbc3b27-dbf1-44a2-8edf-a141cd88df6c
+0 Single One ------ 11-6	11.14.17	Seat:79	Token:49ac2943-ee49-45a0-89ef-340e38058880
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	11.14.17	Seat:79	Token:944b9fc8-8765-4c4d-8d7b-bef75948a7aa
+6 Single One ------ 11-6	11.14.17	Seat:79	Token:6359c62f-48af-477f-b50e-8805c8551add
+2 Single One ------ 11-6	11.14.17	Seat:79	Token:a1851815-3956-459f-a9fa-9e76c3f301b8
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Single One ------ 11-6	11.14.17	Seat:79	Token:dbf5f5d2-f0ce-466e-b700-84870e58569a
+5 reply:No result
+Finish all
+Start: ====== 11-6 11.15.44
+1 Keep alive ------ 11-6	11.15.44	Sleep:600	Token:a94d3ad2-726b-41b0-b96b-6a3b4588c72b	yu=29656 FinishTime=81
+5 Keep alive ------ 11-6	11.15.44	Sleep:600	Token:180fd74e-5c7b-462d-bde1-3c66855ef104	yu=29656 FinishTime=230
+3 Keep alive ------ 11-6	11.15.44	Sleep:600	Token:058404ff-eeac-4a21-9f9b-f808d3f1e198	yu=29656 FinishTime=272
+2 Keep alive ------ 11-6	11.15.44	Sleep:600	Token:7db1a582-260d-48f7-8ee2-7bbfeb5fe56d	yu=29656 FinishTime=327
+4 Keep alive ------ 11-6	11.15.44	Sleep:600	Token:fe5f6b9a-e668-4d95-ab0f-a0580183af0e	yu=29656 FinishTime=217
+0 Keep alive ------ 11-6	11.15.44	Sleep:600	Token:c414865b-8cb9-4b86-a0ff-3febf0ed6451	yu=29656 FinishTime=68
+6 Keep alive ------ 11-6	11.15.44	Sleep:600	Token:436f4c1f-54bd-494d-b5b3-2365b0546875	yu=29656 FinishTime=176
+Start: ====== 11-6 11.15.52
+4 Keep alive ------ 11-6	11.15.53	Sleep:600	Token:734997da-3cbf-4981-9dc1-ab63ed5b6e4f	yu=29647 FinishTime=35
+1 Keep alive ------ 11-6	11.15.53	Sleep:600	Token:8f02b542-eaae-4a99-af13-f3a1e19187a0	yu=29647 FinishTime=111
+6 Keep alive ------ 11-6	11.15.53	Sleep:600	Token:c62484cf-6e5f-4e41-9769-84c5590a5fa9	yu=29647 FinishTime=52
+0 Keep alive ------ 11-6	11.15.53	Sleep:600	Token:f9f4e15f-8603-49cf-8c10-e8e6c81e05aa	yu=29647 FinishTime=68
+3 Keep alive ------ 11-6	11.15.53	Sleep:600	Token:d5a91bf8-6e7b-4c05-a57d-b0a897517b5a	yu=29647 FinishTime=60
+5 Keep alive ------ 11-6	11.15.53	Sleep:600	Token:b4749ef4-f9ff-43ba-b604-6d49f2e1bcea	yu=29647 FinishTime=77
+2 Keep alive ------ 11-6	11.15.53	Sleep:600	Token:5bceaa17-7ffc-412e-9700-69e689a6ed4f	yu=29647 FinishTime=85
+Start: ====== 11-6 11.16.36
+4 Keep alive ------ 11-6	11.16.36	Sleep:600	Token:66ff3822-bef1-4f8c-845c-7f7f5afc37b5	yu=29604 FinishTime=296
+2 Keep alive ------ 11-6	11.16.36	Sleep:600	Token:7220ce30-e10a-46c6-a45a-6e7a988e95b7	yu=29604 FinishTime=66
+3 Keep alive ------ 11-6	11.16.36	Sleep:600	Token:f5bedc39-bb35-411e-9734-76f101311cb4	yu=29604 FinishTime=181
+6 Keep alive ------ 11-6	11.16.36	Sleep:600	Token:e262fa08-3519-4e5a-89a8-2c7b240f25c0	yu=29604 FinishTime=294
+1 Keep alive ------ 11-6	11.16.36	Sleep:600	Token:11c59bbb-7d24-4568-bcda-8355c155da63	yu=29604 FinishTime=251
+5 Keep alive ------ 11-6	11.16.36	Sleep:600	Token:52d153c9-de17-4a34-bd03-d4d94e1def41	yu=29604 FinishTime=179
+0 Keep alive ------ 11-6	11.16.36	Sleep:600	Token:517ee0ab-74aa-49e4-b25b-92257655f0a7	yu=29604 FinishTime=68
+Start: ====== 11-6 11.18.43
+6 Keep alive ------ 11-6	11.18.44	Sleep:600	Token:bdf97808-f27b-429e-b2b4-f4160453a963	yu=29476 FinishTime=83
+0 Keep alive ------ 11-6	11.18.44	Sleep:600	Token:0902fc0f-0f93-4290-95a0-ef2f155cdd0c	yu=29476 FinishTime=68
+1 Keep alive ------ 11-6	11.18.44	Sleep:600	Token:fccfcd10-895a-408f-a51a-a9b7270e2627	yu=29476 FinishTime=66
+4 Keep alive ------ 11-6	11.18.44	Sleep:600	Token:4f25a1fa-9113-4d86-9a38-1046972e72a6	yu=29476 FinishTime=155
+4 Keep alive ------ 11-6	11.18.44	Sleep:600	Token:4f25a1fa-9113-4d86-9a38-1046972e72a6	yu=29476 FinishTime=155
+3 Keep alive ------ 11-6	11.18.44	Sleep:600	Token:58d5b540-cc0e-4a9b-9b85-7e40a0e5d645	yu=29476 FinishTime=225
+5 Keep alive ------ 11-6	11.18.44	Sleep:600	Token:6988e047-77a3-4334-8ba2-0f5d4c687845	yu=29476 FinishTime=153
+2 Keep alive ------ 11-6	11.18.44	Sleep:600	Token:ef76248e-0137-4c8e-a7cd-6a3754d9cb08	yu=29476 FinishTime=296
+Start: ====== 11-6 11.22.7
+3 Keep alive ------ 11-6	11.22.7	Sleep:600	Token:35a4781a-385a-4952-83c9-7c1b94dc46db	yu=29273 FinishTime=124
+6 Keep alive ------ 11-6	11.22.7	Sleep:600	Token:3e25332f-1da9-4bb3-9ed5-a52ca87d22fd	yu=29273 FinishTime=180
+4 Keep alive ------ 11-6	11.22.7	Sleep:600	Token:e7fd4d3a-ff94-444b-9ec0-51d536f1f3aa	yu=29273 FinishTime=120
+2 Keep alive ------ 11-6	11.22.7	Sleep:600	Token:e9cb44b2-a8f5-48e1-a4c3-cc693ad05caa	yu=29273 FinishTime=128
+5 Keep alive ------ 11-6	11.22.7	Sleep:600	Token:2a69f577-6a67-41e1-98f7-bacce1f66176	yu=29273 FinishTime=116
+0 Keep alive ------ 11-6	11.22.7	Sleep:600	Token:b135fb78-9e4c-4cc1-9ad1-5f40d8ea97dd	yu=29273 FinishTime=68
+1 Keep alive ------ 11-6	11.22.7	Sleep:600	Token:0a7c7fe0-6ed6-497a-a931-4144dd3c27c7	yu=29273 FinishTime=132
+3 Keep alive ------ 11-6	11.32.7	Sleep:600	Token:35a4781a-385a-4952-83c9-7c1b94dc46db	yu=28673 FinishTime=124
+6 Keep alive ------ 11-6	11.32.7	Sleep:600	Token:3e25332f-1da9-4bb3-9ed5-a52ca87d22fd	yu=28673 FinishTime=180
+4 Keep alive ------ 11-6	11.32.7	Sleep:600	Token:e7fd4d3a-ff94-444b-9ec0-51d536f1f3aa	yu=28673 FinishTime=120
+2 Keep alive ------ 11-6	11.32.7	Sleep:600	Token:e9cb44b2-a8f5-48e1-a4c3-cc693ad05caa	yu=28673 FinishTime=128
+5 Keep alive ------ 11-6	11.32.7	Sleep:600	Token:2a69f577-6a67-41e1-98f7-bacce1f66176	yu=28673 FinishTime=116
+0 Keep alive ------ 11-6	11.32.7	Sleep:600	Token:b135fb78-9e4c-4cc1-9ad1-5f40d8ea97dd	yu=28673 FinishTime=68
+1 Keep alive ------ 11-6	11.32.7	Sleep:600	Token:0a7c7fe0-6ed6-497a-a931-4144dd3c27c7	yu=28673 FinishTime=132
+3 Keep alive ------ 11-6	11.42.7	Sleep:600	Token:35a4781a-385a-4952-83c9-7c1b94dc46db	yu=28073 FinishTime=124
+6 Keep alive ------ 11-6	11.42.7	Sleep:600	Token:3e25332f-1da9-4bb3-9ed5-a52ca87d22fd	yu=28073 FinishTime=180
+4 Keep alive ------ 11-6	11.42.7	Sleep:600	Token:e7fd4d3a-ff94-444b-9ec0-51d536f1f3aa	yu=28073 FinishTime=120
+2 Keep alive ------ 11-6	11.42.7	Sleep:600	Token:e9cb44b2-a8f5-48e1-a4c3-cc693ad05caa	yu=28073 FinishTime=128
+5 Keep alive ------ 11-6	11.42.7	Sleep:600	Token:2a69f577-6a67-41e1-98f7-bacce1f66176	yu=28073 FinishTime=116
+0 Keep alive ------ 11-6	11.42.7	Sleep:600	Token:b135fb78-9e4c-4cc1-9ad1-5f40d8ea97dd	yu=28073 FinishTime=68
+1 Keep alive ------ 11-6	11.42.7	Sleep:600	Token:0a7c7fe0-6ed6-497a-a931-4144dd3c27c7	yu=28073 FinishTime=132
+3 Keep alive ------ 11-6	11.52.8	Sleep:600	Token:35a4781a-385a-4952-83c9-7c1b94dc46db	yu=27472 FinishTime=124
+6 Keep alive ------ 11-6	11.52.8	Sleep:600	Token:3e25332f-1da9-4bb3-9ed5-a52ca87d22fd	yu=27472 FinishTime=180
+4 Keep alive ------ 11-6	11.52.8	Sleep:600	Token:e7fd4d3a-ff94-444b-9ec0-51d536f1f3aa	yu=27472 FinishTime=120
+2 Keep alive ------ 11-6	11.52.8	Sleep:600	Token:e9cb44b2-a8f5-48e1-a4c3-cc693ad05caa	yu=27472 FinishTime=128
+5 Keep alive ------ 11-6	11.52.8	Sleep:600	Token:2a69f577-6a67-41e1-98f7-bacce1f66176	yu=27472 FinishTime=116
+0 Keep alive ------ 11-6	11.52.8	Sleep:600	Token:b135fb78-9e4c-4cc1-9ad1-5f40d8ea97dd	yu=27472 FinishTime=68
+1 Keep alive ------ 11-6	11.52.8	Sleep:600	Token:0a7c7fe0-6ed6-497a-a931-4144dd3c27c7	yu=27472 FinishTime=132
+3 Keep alive ------ 11-6	12.2.8	Sleep:600	Token:35a4781a-385a-4952-83c9-7c1b94dc46db	yu=26872 FinishTime=124
+6 Keep alive ------ 11-6	12.2.8	Sleep:600	Token:3e25332f-1da9-4bb3-9ed5-a52ca87d22fd	yu=26872 FinishTime=180
+4 Keep alive ------ 11-6	12.2.8	Sleep:600	Token:e7fd4d3a-ff94-444b-9ec0-51d536f1f3aa	yu=26872 FinishTime=120
+2 Keep alive ------ 11-6	12.2.8	Sleep:600	Token:e9cb44b2-a8f5-48e1-a4c3-cc693ad05caa	yu=26872 FinishTime=128
+5 Keep alive ------ 11-6	12.2.8	Sleep:600	Token:2a69f577-6a67-41e1-98f7-bacce1f66176	yu=26872 FinishTime=116
+0 Keep alive ------ 11-6	12.2.8	Sleep:600	Token:b135fb78-9e4c-4cc1-9ad1-5f40d8ea97dd	yu=26872 FinishTime=68
+1 Keep alive ------ 11-6	12.2.8	Sleep:600	Token:0a7c7fe0-6ed6-497a-a931-4144dd3c27c7	yu=26872 FinishTime=132
+3 Keep alive ------ 11-6	12.12.8	Sleep:600	Token:35a4781a-385a-4952-83c9-7c1b94dc46db	yu=26272 FinishTime=124
+6 Keep alive ------ 11-6	12.12.8	Sleep:600	Token:3e25332f-1da9-4bb3-9ed5-a52ca87d22fd	yu=26272 FinishTime=180
+4 Keep alive ------ 11-6	12.12.8	Sleep:600	Token:e7fd4d3a-ff94-444b-9ec0-51d536f1f3aa	yu=26272 FinishTime=120
+2 Keep alive ------ 11-6	12.12.8	Sleep:600	Token:e9cb44b2-a8f5-48e1-a4c3-cc693ad05caa	yu=26272 FinishTime=128
+5 Keep alive ------ 11-6	12.12.8	Sleep:600	Token:2a69f577-6a67-41e1-98f7-bacce1f66176	yu=26272 FinishTime=116
+0 Keep alive ------ 11-6	12.12.8	Sleep:600	Token:b135fb78-9e4c-4cc1-9ad1-5f40d8ea97dd	yu=26272 FinishTime=68
+1 Keep alive ------ 11-6	12.12.8	Sleep:600	Token:0a7c7fe0-6ed6-497a-a931-4144dd3c27c7	yu=26272 FinishTime=132
+3 Keep alive ------ 11-6	12.22.8	Sleep:600	Token:35a4781a-385a-4952-83c9-7c1b94dc46db	yu=25672 FinishTime=124
+6 Keep alive ------ 11-6	12.22.8	Sleep:600	Token:3e25332f-1da9-4bb3-9ed5-a52ca87d22fd	yu=25672 FinishTime=180
+4 Keep alive ------ 11-6	12.22.8	Sleep:600	Token:e7fd4d3a-ff94-444b-9ec0-51d536f1f3aa	yu=25672 FinishTime=120
+2 Keep alive ------ 11-6	12.22.8	Sleep:600	Token:e9cb44b2-a8f5-48e1-a4c3-cc693ad05caa	yu=25672 FinishTime=128
+5 Keep alive ------ 11-6	12.22.8	Sleep:600	Token:2a69f577-6a67-41e1-98f7-bacce1f66176	yu=25672 FinishTime=116
+0 Keep alive ------ 11-6	12.22.8	Sleep:600	Token:b135fb78-9e4c-4cc1-9ad1-5f40d8ea97dd	yu=25672 FinishTime=68
+1 Keep alive ------ 11-6	12.22.8	Sleep:600	Token:0a7c7fe0-6ed6-497a-a931-4144dd3c27c7	yu=25672 FinishTime=132
+3 Keep alive ------ 11-6	12.32.8	Sleep:600	Token:35a4781a-385a-4952-83c9-7c1b94dc46db	yu=25072 FinishTime=124
+6 Keep alive ------ 11-6	12.32.8	Sleep:600	Token:3e25332f-1da9-4bb3-9ed5-a52ca87d22fd	yu=25072 FinishTime=180
+4 Keep alive ------ 11-6	12.32.8	Sleep:600	Token:e7fd4d3a-ff94-444b-9ec0-51d536f1f3aa	yu=25072 FinishTime=120
+2 Keep alive ------ 11-6	12.32.8	Sleep:600	Token:e9cb44b2-a8f5-48e1-a4c3-cc693ad05caa	yu=25072 FinishTime=128
+5 Keep alive ------ 11-6	12.32.8	Sleep:600	Token:2a69f577-6a67-41e1-98f7-bacce1f66176	yu=25072 FinishTime=116
+0 Keep alive ------ 11-6	12.32.8	Sleep:600	Token:b135fb78-9e4c-4cc1-9ad1-5f40d8ea97dd	yu=25072 FinishTime=68
+1 Keep alive ------ 11-6	12.32.8	Sleep:600	Token:0a7c7fe0-6ed6-497a-a931-4144dd3c27c7	yu=25072 FinishTime=132
+3 Keep alive ------ 11-6	12.42.9	Sleep:600	Token:35a4781a-385a-4952-83c9-7c1b94dc46db	yu=24471 FinishTime=124
+6 Keep alive ------ 11-6	12.42.9	Sleep:600	Token:3e25332f-1da9-4bb3-9ed5-a52ca87d22fd	yu=24471 FinishTime=180
+4 Keep alive ------ 11-6	12.42.9	Sleep:600	Token:e7fd4d3a-ff94-444b-9ec0-51d536f1f3aa	yu=24471 FinishTime=120
+2 Keep alive ------ 11-6	12.42.9	Sleep:600	Token:e9cb44b2-a8f5-48e1-a4c3-cc693ad05caa	yu=24471 FinishTime=128
+5 Keep alive ------ 11-6	12.42.9	Sleep:600	Token:2a69f577-6a67-41e1-98f7-bacce1f66176	yu=24471 FinishTime=116
+1 Keep alive ------ 11-6	12.42.9	Sleep:600	Token:0a7c7fe0-6ed6-497a-a931-4144dd3c27c7	yu=24471 FinishTime=132
+0 Keep alive ------ 11-6	12.42.9	Sleep:600	Token:b135fb78-9e4c-4cc1-9ad1-5f40d8ea97dd	yu=24471 FinishTime=68
+Start: ====== 11-6 12.45.42
+4 Error: Init Token Dismiss!
+3 Error: Init Token Dismiss!
+1 Error: Init Token Dismiss!
+5 Error: Init Token Dismiss!
+0 Error: Init Token Dismiss!
+2 Error: Init Token Dismiss!
+6 Error: Init Token Dismiss!
+4 Keep alive ------ 11-6	12.45.44	Sleep:600	Token:	yu=24256 FinishTime=105
+0 Keep alive ------ 11-6	12.45.44	Sleep:600	Token:	yu=24256 FinishTime=68
+3 Keep alive ------ 11-6	12.45.44	Sleep:600	Token:	yu=24256 FinishTime=296
+5 Keep alive ------ 11-6	12.45.44	Sleep:600	Token:	yu=24256 FinishTime=281
+1 Keep alive ------ 11-6	12.45.44	Sleep:600	Token:	yu=24256 FinishTime=244
+6 Keep alive ------ 11-6	12.45.44	Sleep:600	Token:	yu=24256 FinishTime=157
+2 Keep alive ------ 11-6	12.45.44	Sleep:600	Token:	yu=24256 FinishTime=120
+Start: ====== 11-6 12.47.14
+3 Keep alive ------ 11-6	12.47.14	Sleep:600	Token:1293bea7-cd11-4bd5-8e4e-37d792b396b1	yu=24166 FinishTime=288
+6 Keep alive ------ 11-6	12.47.14	Sleep:600	Token:090c57a8-6949-4b0d-bb05-6cf6e680e1b2	yu=24166 FinishTime=140
+1 Keep alive ------ 11-6	12.47.14	Sleep:600	Token:2e6156ba-d742-4b50-bc3a-b81f8274ee42	yu=24166 FinishTime=241
+5 Keep alive ------ 11-6	12.47.14	Sleep:600	Token:7c8ae6a4-80e0-4e8b-8c3b-5be5e283ad74	yu=24166 FinishTime=267
+4 Keep alive ------ 11-6	12.47.15	Sleep:600	Token:64153753-ef1e-41fe-a9ef-fe3cdddec8be	yu=24165 FinishTime=93
+0 Keep alive ------ 11-6	12.47.15	Sleep:600	Token:39ddfb40-eec2-4647-8ccc-d93b611c093a	yu=24165 FinishTime=68
+2 Keep alive ------ 11-6	12.47.15	Sleep:600	Token:329eabf9-c31b-440a-a17d-29c7e6285b2c	yu=24165 FinishTime=115
+Start: ====== 11-6 12.49.8
+4 Keep alive ------ 11-6	12.49.9	Sleep:600	Token:7c841d35-41d7-427b-a74f-abb54cf3dc77	yu=24051 FinishTime=82
+3 Keep alive ------ 11-6	12.49.9	Sleep:600	Token:7d4d02a0-c26b-4b88-be5a-0a128bf87640	yu=24051 FinishTime=137
+6 Keep alive ------ 11-6	12.49.9	Sleep:600	Token:579db056-aa50-4af4-8451-d58efd6aed44	yu=24051 FinishTime=205
+1 Keep alive ------ 11-6	12.49.9	Sleep:600	Token:aabc71ee-d54d-4637-ba77-962bbea2fa4d	yu=24051 FinishTime=314
+5 Keep alive ------ 11-6	12.49.9	Sleep:600	Token:7fd30faf-c892-4d69-88f8-657d27689dcd	yu=24051 FinishTime=328
+2 Keep alive ------ 11-6	12.49.9	Sleep:600	Token:59f90bfd-2f01-4ba8-ac89-eb85b0a716e2	yu=24051 FinishTime=259
+0 Keep alive ------ 11-6	12.49.9	Sleep:600	Token:de086d87-cc04-4232-8a10-3a64c5ece0b7	yu=24051 FinishTime=68
+Start: ====== 11-6 12.49.22
+3 Keep alive ------ 11-6	12.49.22	Sleep:600	Token:8b81ae97-dec4-4bc5-89aa-665f82a759ad	yu=24038 FinishTime=274
+2 Keep alive ------ 11-6	12.49.22	Sleep:600	Token:83244f87-8cd5-44a5-a37f-d2d073c129cc	yu=24038 FinishTime=51
+1 Keep alive ------ 11-6	12.49.22	Sleep:600	Token:808c9838-4f6f-405d-b736-ec81f5f1c513	yu=24038 FinishTime=59
+6 Keep alive ------ 11-6	12.49.22	Sleep:600	Token:9a4d7309-05e3-449c-862d-510886ca43d0	yu=24038 FinishTime=180
+4 Keep alive ------ 11-6	12.49.22	Sleep:600	Token:9bed7ffd-0e36-4e53-8bba-9b11432bec3d	yu=24038 FinishTime=265
+5 Keep alive ------ 11-6	12.49.22	Sleep:600	Token:435bb508-4a48-41c2-be71-5b01c4e4767f	yu=24038 FinishTime=256
+0 Keep alive ------ 11-6	12.49.22	Sleep:600	Token:4363575a-803b-4418-bde0-f3c66df7a3cd	yu=24038 FinishTime=68
+Start: ====== 11-6 12.49.41
+2 Keep alive ------ 11-6	12.49.42	Sleep:600	Token:3a01b8cc-24e1-4f72-ad91-8541c9ca6160	yu=24018 FinishTime=181
+4 Keep alive ------ 11-6	12.49.42	Sleep:600	Token:ffab9d27-c825-4026-ba9a-9a4a743869b1	yu=24018 FinishTime=226
+0 Keep alive ------ 11-6	12.49.42	Sleep:600	Token:22eaee2d-9807-43bf-bc27-381b2972cf2b	yu=24018 FinishTime=68
+6 Keep alive ------ 11-6	12.49.42	Sleep:600	Token:018ad8c4-f996-4cd0-87c1-aa6bb05c78ed	yu=24018 FinishTime=272
+5 Keep alive ------ 11-6	12.49.42	Sleep:600	Token:6aa12192-5d2b-4674-a0f9-4ba6fe575e65	yu=24018 FinishTime=283
+1 Keep alive ------ 11-6	12.49.42	Sleep:600	Token:65f26cc7-ee3e-443e-a9fe-70b90ae0fd98	yu=24018 FinishTime=125
+3 Keep alive ------ 11-6	12.49.42	Sleep:600	Token:f240a19b-3837-4fbf-b2ca-fa2434ae8c60	yu=24018 FinishTime=170
+Start: ====== 11-6 12.50.17
+4 Keep alive ------ 11-6	12.50.18	Sleep:600	Token:0eb4a772-710a-4f60-8c92-4e5d12fd6d18	yu=23982 FinishTime=97
+2 Keep alive ------ 11-6	12.50.18	Sleep:600	Token:b5ecba12-218e-4338-994a-895e6862bcff	yu=23982 FinishTime=116
+6 Keep alive ------ 11-6	12.50.18	Sleep:600	Token:dfb086bd-3265-47d9-8605-ef49ed974a13	yu=23982 FinishTime=77
+0 Keep alive ------ 11-6	12.50.18	Sleep:600	Token:3afa6055-b8c7-49d8-94f6-4a475d51be87	yu=23982 FinishTime=68
+1 Keep alive ------ 11-6	12.50.18	Sleep:600	Token:a1234417-b60f-46c8-87e8-08b0102a5b27	yu=23982 FinishTime=242
+3 Keep alive ------ 11-6	12.50.18	Sleep:600	Token:4acb0578-f570-4534-81ff-37b251286d42	yu=23982 FinishTime=223
+5 Keep alive ------ 11-6	12.50.18	Sleep:600	Token:8e374384-de16-4cbd-8600-6bf15ce48ac7	yu=23982 FinishTime=271
+Start: ====== 11-6 13.1.46
+4 Keep alive ------ 11-6	13.1.47	Sleep:600	Token:6535c551-58d7-45c5-994d-5fce34cec8b8	yu=23293 FinishTime=97
+6 Keep alive ------ 11-6	13.1.47	Sleep:600	Token:470d761d-32fe-4266-8f9a-266609b8de2f	yu=23293 FinishTime=77
+0 Keep alive ------ 11-6	13.1.47	Sleep:600	Token:ac53195e-d74c-4d9b-9d29-50d929cafd1d	yu=23293 FinishTime=68
+5 Keep alive ------ 11-6	13.1.47	Sleep:600	Token:c86edad2-eed3-46aa-bf59-5b89d930a0e8	yu=23293 FinishTime=53
+3 Keep alive ------ 11-6	13.1.47	Sleep:600	Token:630f1e53-47a8-4f9c-90b9-b40d36ee85a8	yu=23293 FinishTime=73
+2 Keep alive ------ 11-6	13.1.47	Sleep:600	Token:2ca79fe5-87bc-4557-8312-ad81e61fcbf1	yu=23293 FinishTime=116
+1 Keep alive ------ 11-6	13.1.47	Sleep:600	Token:37eb93bb-8486-4bce-9619-26f83ad0f886	yu=23293 FinishTime=92
+Start: ====== 11-6 13.1.51
+2 Keep alive ------ 11-6	13.1.51	Sleep:600	Token:9e3c0fc5-ffe4-4040-87d1-0468229d4af4	yu=23289 FinishTime=143
+1 Keep alive ------ 11-6	13.1.51	Sleep:600	Token:07bbad97-dba4-47a7-b1fa-a41bdab7dd8b	yu=23289 FinishTime=105
+3 Keep alive ------ 11-6	13.1.51	Sleep:600	Token:56af6fe2-943f-4caa-85c8-80d001e4a62c	yu=23289 FinishTime=112
+5 Keep alive ------ 11-6	13.1.51	Sleep:600	Token:189f4297-2672-4a5f-88a4-366237ca6014	yu=23289 FinishTime=118
+4 Keep alive ------ 11-6	13.1.51	Sleep:600	Token:09d00185-ad95-49b0-8fd6-328771adc96d	yu=23289 FinishTime=149
+0 Keep alive ------ 11-6	13.1.51	Sleep:600	Token:3dea8d8c-ff2d-4e1d-9d80-928871f19192	yu=23289 FinishTime=68
+6 Keep alive ------ 11-6	13.1.51	Sleep:600	Token:effd9f4e-8fe9-4381-824d-0bff788598c4	yu=23289 FinishTime=155
+Start: ====== 11-6 13.2.28
+0 Error: Init Token Dismiss!
+4 Error: Init Token Dismiss!
+6 Error: Init Token Dismiss!
+0 Keep alive ------ 11-6	13.2.29	Sleep:600	Token:e332e478-6f5e-413b-bf68-5ad3fd9ffec2	yu=23251 FinishTime=68
+3 Keep alive ------ 11-6	13.2.29	Sleep:600	Token:e92e7366-d0af-4695-a375-1d7cc3d246e0	yu=23251 FinishTime=174
+4 Keep alive ------ 11-6	13.2.29	Sleep:600	Token:d5e74ab0-5f39-408d-b4fb-e5096c943b0e	yu=23251 FinishTime=32
+6 Keep alive ------ 11-6	13.2.29	Sleep:600	Token:f4bc53e4-6abd-44c0-9995-9cc8392fbf2b	yu=23251 FinishTime=280
+1 Keep alive ------ 11-6	13.2.29	Sleep:600	Token:109e9006-73e7-4b5a-9ae8-99b7b5ef1ec7	yu=23251 FinishTime=226
+2 Keep alive ------ 11-6	13.2.29	Sleep:600	Token:0f91f88c-fabc-438a-8a90-0810d3badf61	yu=23251 FinishTime=84
+5 Keep alive ------ 11-6	13.2.29	Sleep:600	Token:4af991a4-64e2-4771-90b5-83a0775bc01e	yu=23251 FinishTime=122
+Start: ====== 11-6 13.3.16
+4 Error: Init Token Dismiss!
+3 Error: Init Token Dismiss!
+0 Keep alive ------ 11-6	13.3.17	Sleep:480	Token:6f4dac8c-cbc4-45c0-945e-0223b884877b	yu=23203 FinishTime=68
+5 Keep alive ------ 11-6	13.3.17	Sleep:480	Token:7fd3ca8a-5ee7-46d1-b041-1e788c68bc96	yu=23203 FinishTime=306
+4 Keep alive ------ 11-6	13.3.17	Sleep:480	Token:49fd7fd5-6573-4e4e-8726-7b4bb8ea8402	yu=23203 FinishTime=59
+3 Keep alive ------ 11-6	13.3.17	Sleep:480	Token:9da93222-19db-4793-bf6b-829a86b5f127	yu=23203 FinishTime=44
+6 Keep alive ------ 11-6	13.3.17	Sleep:480	Token:6f7d8d40-429c-4422-bc4c-1a5302ec4fe3	yu=23203 FinishTime=321
+2 Keep alive ------ 11-6	13.3.17	Sleep:480	Token:b5d68e84-eac6-4ede-b26e-7c035a4e501b	yu=23203 FinishTime=98
+1 Keep alive ------ 11-6	13.3.17	Sleep:480	Token:3a0dc1d0-8fa1-429c-bf99-0ab9cf481d7a	yu=23203 FinishTime=83
+Start: ====== 11-6 13.3.36
+0 Error: Init Token Dismiss!
+6 Error: Init Token Dismiss!
+6 Keep alive ------ 11-6	13.3.37	Sleep:480	Token:bbf05dc9-9fdc-496d-a596-d1669bdc1bad	yu=23183 FinishTime=113
+0 Keep alive ------ 11-6	13.3.37	Sleep:480	Token:ce3f2130-0a7f-41ce-b265-4acb72fb386e	yu=23183 FinishTime=68
+1 Keep alive ------ 11-6	13.3.37	Sleep:480	Token:0e393344-3856-477a-a71a-d39b9b8aff02	yu=23183 FinishTime=148
+2 Keep alive ------ 11-6	13.3.37	Sleep:480	Token:8fcbe005-756b-432c-b755-c5f5efe222f7	yu=23183 FinishTime=228
+5 Keep alive ------ 11-6	13.3.37	Sleep:480	Token:078a8bc8-b400-48ef-b5e4-6abf3af0fe04	yu=23183 FinishTime=33
+4 Keep alive ------ 11-6	13.3.37	Sleep:480	Token:934fb9ae-e8ad-43f4-8ca7-1ffb661077cf	yu=23183 FinishTime=320
+3 Keep alive ------ 11-6	13.3.37	Sleep:480	Token:5ac8c2e3-2820-40ce-91bc-ea3d51e77095	yu=23183 FinishTime=240
+Start: ====== 11-6 13.4.18
+0 Keep alive ------ 11-6	13.4.19	Sleep:480	Token:1075818e-5d48-4a18-9fc2-9b22b7889692	yu=23141 FinishTime=68
+4 Keep alive ------ 11-6	13.4.19	Sleep:480	Token:defdd00c-22da-46cb-aa5e-1629e1d0038c	yu=23141 FinishTime=282
+1 Keep alive ------ 11-6	13.4.19	Sleep:480	Token:b4329bed-0d68-4527-bd25-d0b9d654f006	yu=23141 FinishTime=289
+2 Keep alive ------ 11-6	13.4.19	Sleep:480	Token:0bd5014c-5f34-4efc-82b4-a6c1c054fb2f	yu=23141 FinishTime=209
+3 Keep alive ------ 11-6	13.4.19	Sleep:480	Token:eb029b88-d016-4fb2-aa73-f20dcbc9a86f	yu=23141 FinishTime=62
+5 Keep alive ------ 11-6	13.4.19	Sleep:480	Token:060da69a-a5a8-48b1-81fc-830b9b19cf37	yu=23141 FinishTime=135
+6 Keep alive ------ 11-6	13.4.19	Sleep:480	Token:7348e94b-dcec-42c3-818d-e49594c9bf6b	yu=23141 FinishTime=55
+Start: ====== 11-6 13.5.29
+5 Keep alive ------ 11-6	13.5.30	Sleep:1	Token:94928243-97f4-44cb-a355-6d205b60e72d	yu=23070 FinishTime=94
+3 Keep alive ------ 11-6	13.5.30	Sleep:1	Token:88ed096a-da6a-4a2b-a0e9-cf27c4c8ed6e	yu=23070 FinishTime=157
+1 Keep alive ------ 11-6	13.5.30	Sleep:1	Token:47854f86-8f68-41fd-ab92-34d2b4063896	yu=23070 FinishTime=220
+2 Keep alive ------ 11-6	13.5.30	Sleep:1	Token:3447ac46-3235-4d6c-b503-57641f37ec00	yu=23070 FinishTime=73
+6 Keep alive ------ 11-6	13.5.30	Sleep:1	Token:971cebd7-426a-4c1a-8def-4056bae5cef1	yu=23070 FinishTime=246
+4 Keep alive ------ 11-6	13.5.30	Sleep:1	Token:e1e34ce2-6245-4e0a-b7b6-59ad195ab045	yu=23070 FinishTime=310
+0 Keep alive ------ 11-6	13.5.30	Sleep:1	Token:cdd38330-916a-4aba-9357-92d5c524f586	yu=23070 FinishTime=68
+5 Keep alive ------ 11-6	13.5.31	Sleep:1	Token:ada77c19-5ef7-4262-881f-ce83d313ca1a	yu=23069 FinishTime=94
+3 Keep alive ------ 11-6	13.5.32	Sleep:1	Token:3b15dbfc-9135-4e95-8ddf-c9732c85fff0	yu=23068 FinishTime=157
+6 Keep alive ------ 11-6	13.5.32	Sleep:1	Token:28ddb1f8-8b3d-40d8-ac4d-3d3a2f596eef	yu=23068 FinishTime=246
+2 Keep alive ------ 11-6	13.5.32	Sleep:1	Token:eedc0831-ee6a-4a80-bb83-c9be6cf5451b	yu=23068 FinishTime=73
+4 Keep alive ------ 11-6	13.5.32	Sleep:1	Token:8f8205a0-7626-40db-8c3f-c46f03df6ba2	yu=23068 FinishTime=310
+0 Keep alive ------ 11-6	13.5.32	Sleep:1	Token:1d90436a-8533-42cf-838c-adf0d9e70709	yu=23068 FinishTime=68
+1 Keep alive ------ 11-6	13.5.32	Sleep:1	Token:47854f86-8f68-41fd-ab92-34d2b4063896	yu=23068 FinishTime=220
+5 Keep alive ------ 11-6	13.5.33	Sleep:1	Token:069b6656-354a-4de3-b2aa-61bbc4f8076f	yu=23067 FinishTime=94
+4 Keep alive ------ 11-6	13.5.33	Sleep:1	Token:8f8205a0-7626-40db-8c3f-c46f03df6ba2	yu=23067 FinishTime=310
+0 Keep alive ------ 11-6	13.5.33	Sleep:1	Token:1d90436a-8533-42cf-838c-adf0d9e70709	yu=23067 FinishTime=68
+3 Keep alive ------ 11-6	13.5.33	Sleep:1	Token:3b15dbfc-9135-4e95-8ddf-c9732c85fff0	yu=23067 FinishTime=157
+2 Keep alive ------ 11-6	13.5.33	Sleep:1	Token:eedc0831-ee6a-4a80-bb83-c9be6cf5451b	yu=23067 FinishTime=73
+1 Keep alive ------ 11-6	13.5.33	Sleep:1	Token:ae708d86-57e8-431a-8877-eb6a9683fbae	yu=23067 FinishTime=220
+6 Keep alive ------ 11-6	13.5.33	Sleep:1	Token:28ddb1f8-8b3d-40d8-ac4d-3d3a2f596eef	yu=23067 FinishTime=246
+5 Keep alive ------ 11-6	13.5.34	Sleep:1	Token:fe6b268d-0183-4e30-b8dd-e3093178db7e	yu=23066 FinishTime=94
+0 Keep alive ------ 11-6	13.5.34	Sleep:1	Token:5b4a920e-b5d6-4606-a274-1cb3958039e1	yu=23066 FinishTime=68
+4 Keep alive ------ 11-6	13.5.34	Sleep:1	Token:e1ab537a-07cb-49a4-8c93-f993c5498337	yu=23066 FinishTime=310
+2 Keep alive ------ 11-6	13.5.34	Sleep:1	Token:29ec02df-ff55-4062-a24d-9e0d4fb0276a	yu=23066 FinishTime=73
+3 Keep alive ------ 11-6	13.5.34	Sleep:1	Token:892565e6-a20d-4b84-b593-9b52149200f1	yu=23066 FinishTime=157
+1 Keep alive ------ 11-6	13.5.34	Sleep:1	Token:79c0fc93-01c1-466a-bc91-d0a117be144f	yu=23066 FinishTime=220
+6 Keep alive ------ 11-6	13.5.34	Sleep:1	Token:d9b4c4ed-7fb9-4594-a192-e1595f452352	yu=23066 FinishTime=246
+Start: ====== 11-6 13.5.42
+2 Keep alive ------ 11-6	13.5.43	Sleep:1	Token:39bb6556-02e8-4bd7-91f7-13274f541021	yu=23057 FinishTime=158
+1 Keep alive ------ 11-6	13.5.43	Sleep:1	Token:62eb99d6-2c0d-4246-960b-b182f3e43440	yu=23057 FinishTime=263
+4 Keep alive ------ 11-6	13.5.43	Sleep:1	Token:abfbe41f-0f1d-427f-8482-5ebac39de442	yu=23057 FinishTime=179
+0 Keep alive ------ 11-6	13.5.43	Sleep:1	Token:ef41a66f-ba4d-44e3-bf7e-6101bcd89e2a	yu=23057 FinishTime=68
+6 Keep alive ------ 11-6	13.5.43	Sleep:1	Token:43990d96-2c71-42c5-8770-6a410ccc4da4	yu=23057 FinishTime=201
+3 Keep alive ------ 11-6	13.5.43	Sleep:1	Token:97791417-522e-41b0-b3be-ebe555592840	yu=23057 FinishTime=285
+5 Keep alive ------ 11-6	13.5.43	Sleep:1	Token:6338d946-cfd6-49cc-9c7f-6cf349319a0d	yu=23057 FinishTime=306
+2 Keep alive ------ 11-6	13.5.44	Sleep:1	Token:39bb6556-02e8-4bd7-91f7-13274f541021	yu=23056 FinishTime=158
+1 Keep alive ------ 11-6	13.5.44	Sleep:1	Token:62eb99d6-2c0d-4246-960b-b182f3e43440	yu=23056 FinishTime=263
+4 Keep alive ------ 11-6	13.5.44	Sleep:1	Token:abfbe41f-0f1d-427f-8482-5ebac39de442	yu=23056 FinishTime=179
+0 Keep alive ------ 11-6	13.5.44	Sleep:1	Token:ef41a66f-ba4d-44e3-bf7e-6101bcd89e2a	yu=23056 FinishTime=68
+6 Keep alive ------ 11-6	13.5.44	Sleep:1	Token:43990d96-2c71-42c5-8770-6a410ccc4da4	yu=23056 FinishTime=201
+3 Keep alive ------ 11-6	13.5.44	Sleep:1	Token:97791417-522e-41b0-b3be-ebe555592840	yu=23056 FinishTime=285
+5 Keep alive ------ 11-6	13.5.45	Sleep:1	Token:6338d946-cfd6-49cc-9c7f-6cf349319a0d	yu=23055 FinishTime=306
+1 Keep alive ------ 11-6	13.5.46	Sleep:1	Token:62eb99d6-2c0d-4246-960b-b182f3e43440	yu=23054 FinishTime=263
+2 Keep alive ------ 11-6	13.5.46	Sleep:1	Token:39bb6556-02e8-4bd7-91f7-13274f541021	yu=23054 FinishTime=158
+4 Keep alive ------ 11-6	13.5.46	Sleep:1	Token:abfbe41f-0f1d-427f-8482-5ebac39de442	yu=23054 FinishTime=179
+0 Keep alive ------ 11-6	13.5.46	Sleep:1	Token:ef41a66f-ba4d-44e3-bf7e-6101bcd89e2a	yu=23054 FinishTime=68
+3 Keep alive ------ 11-6	13.5.46	Sleep:1	Token:97791417-522e-41b0-b3be-ebe555592840	yu=23054 FinishTime=285
+6 Keep alive ------ 11-6	13.5.46	Sleep:1	Token:43990d96-2c71-42c5-8770-6a410ccc4da4	yu=23054 FinishTime=201
+5 Keep alive ------ 11-6	13.5.46	Sleep:1	Token:6338d946-cfd6-49cc-9c7f-6cf349319a0d	yu=23054 FinishTime=306
+1 Keep alive ------ 11-6	13.5.47	Sleep:1	Token:62eb99d6-2c0d-4246-960b-b182f3e43440	yu=23053 FinishTime=263
+2 Keep alive ------ 11-6	13.5.47	Sleep:1	Token:39bb6556-02e8-4bd7-91f7-13274f541021	yu=23053 FinishTime=158
+Start: ====== 11-6 13.5.56
+1 Keep alive ------ 11-6	13.5.57	Sleep:480	Token:a0518d22-59f4-4f5b-94fd-3c8cb7a8314b	yu=23043 FinishTime=305
+4 Keep alive ------ 11-6	13.5.57	Sleep:480	Token:db4117bb-2073-4685-ab39-fe989a4f300e	yu=23043 FinishTime=49
+6 Keep alive ------ 11-6	13.5.57	Sleep:480	Token:44ab4f9b-9977-4ed4-a6ce-60014f47a100	yu=23043 FinishTime=156
+0 Keep alive ------ 11-6	13.5.57	Sleep:480	Token:5b188042-0d5d-43c7-ad43-1921dab25785	yu=23043 FinishTime=68
+3 Keep alive ------ 11-6	13.5.57	Sleep:480	Token:8c06d996-2921-455a-9b4a-f6339132bf6f	yu=23043 FinishTime=112
+2 Keep alive ------ 11-6	13.5.57	Sleep:480	Token:21a2de33-1493-447d-8b42-4a0e3c2f4da7	yu=23043 FinishTime=243
+5 Keep alive ------ 11-6	13.5.57	Sleep:480	Token:bc9df6e8-515c-4c50-bc57-3453414f9d31	yu=23043 FinishTime=218
+Start: ====== 11-6 13.17.32
+4 Keep alive ------ 11-6	13.17.32	Sleep:480	Token:ac34f2dd-0a0d-44ea-97b1-1e9cb480782e	yu=22348 FinishTime=73
+5 Keep alive ------ 11-6	13.17.32	Sleep:480	Token:0ade19e8-06ee-4aae-9cff-6803cb31e477	yu=22348 FinishTime=183
+2 Keep alive ------ 11-6	13.17.32	Sleep:480	Token:9fc782ec-51c8-4f89-8b2e-ee3dda308966	yu=22348 FinishTime=220
+0 Keep alive ------ 11-6	13.17.32	Sleep:480	Token:9dbe739d-9a7f-4ce9-945f-6077165e71ef	yu=22348 FinishTime=68
+6 Keep alive ------ 11-6	13.17.32	Sleep:480	Token:13c4033e-75ba-444e-8306-8ef5c4a4df38	yu=22348 FinishTime=225
+3 Keep alive ------ 11-6	13.17.32	Sleep:480	Token:c984eb5a-9cb3-44eb-be9f-6abf4580fa98	yu=22348 FinishTime=30
+1 Keep alive ------ 11-6	13.17.32	Sleep:480	Token:503bdacb-a7c4-42f9-bafd-c42e2467948c	yu=22348 FinishTime=178
+Start: ====== 11-6 13.20.29
+0 Keep alive ------ 11-6	13.20.31	Sleep:480	Token:ce25456c-181f-441b-b357-988cabedd38a	yu=22169 FinishTime=68
+1 Keep alive ------ 11-6	13.20.32	Sleep:480	Token:ee884a8b-53a4-49a0-b4bc-47ba00cc6f87	yu=22168 FinishTime=166
+2 Keep alive ------ 11-6	13.20.33	Sleep:480	Token:2b7545eb-aeaa-47c0-8683-9010f0fa35ae	yu=22167 FinishTime=202
+3 Keep alive ------ 11-6	13.20.34	Sleep:480	Token:1df224e7-1bac-458d-a6b3-d1685588bba6	yu=22166 FinishTime=313
+4 Keep alive ------ 11-6	13.20.35	Sleep:480	Token:8faa1a9c-2c65-4b2d-8d14-be3034d4634d	yu=22165 FinishTime=63
+5 Keep alive ------ 11-6	13.20.36	Sleep:480	Token:8fe35e06-7a31-42d0-8043-b28d4673be35	yu=22164 FinishTime=187
+6 Keep alive ------ 11-6	13.20.37	Sleep:480	Token:ff79a76c-f274-4a0d-bfc5-1779a4a1ab3f	yu=22163 FinishTime=250
+Start: ====== 11-6 13.26.13
+0 Keep alive ------ 11-6	13.26.14	Sleep:480	Token:348b7de9-d468-4f91-a213-8dc621b9515b	yu=21826 FinishTime=68
+1 Keep alive ------ 11-6	13.26.15	Sleep:480	Token:bdf320a5-43d8-4b90-81ea-d53b92cbe8bc	yu=21825 FinishTime=86
+2 Keep alive ------ 11-6	13.26.16	Sleep:480	Token:235e72df-d34c-4db7-8250-5c9c339e37b7	yu=21824 FinishTime=43
+3 Keep alive ------ 11-6	13.26.17	Sleep:480	Token:a12673c8-549e-4cdd-99d3-5e8068b0bec3	yu=21823 FinishTime=74
+4 Keep alive ------ 11-6	13.26.18	Sleep:480	Token:9388f8df-5f08-4998-b123-fc4802359cce	yu=21822 FinishTime=43
+5 Keep alive ------ 11-6	13.26.19	Sleep:480	Token:772a3f6c-0be2-44bb-b0b0-20f5359274b6	yu=21821 FinishTime=87
+6 Keep alive ------ 11-6	13.26.20	Sleep:480	Token:c2f60dbd-836d-4172-8912-1b33e5c4d837	yu=21820 FinishTime=70
+Start: ====== 11-6 13.30.43
+0 Keep alive ------ 11-6	13.30.45	Sleep:480	Token:9e4edd19-88e6-4599-9171-94a3fa72502e	yu=21555 FinishTime=68
+1 Keep alive ------ 11-6	13.30.46	Sleep:480	Token:637ddf68-4f8f-49f5-a151-b013ef46f8db	yu=21554 FinishTime=68
+Start: ====== 11-6 13.33.5
+0 Keep alive ------ 11-6	13.33.7	Sleep:480	Token:ab864e2b-0001-4064-9676-89256fa1539f	yu=21413 FinishTime=68
+Start: ====== 11-6 13.33.14
+0 Keep alive ------ 11-6	13.33.15	Sleep:480	Token:4d360b85-6b9b-429e-b76f-7c107cc64fae	yu=21405 FinishTime=68
+Start: ====== 11-6 13.51.20
+0 Keep alive ------ 11-6	13.51.22	Sleep:480	Token:51f3c274-3492-4dce-aa15-e5195c2fa188	yu=20318 FinishTime=68
+Start: ====== 11-6 13.51.52
+0 Keep alive ------ 11-6	13.51.53	Sleep:1	Token:50d6e129-c2c8-4467-96f5-4ed44495f003	yu=20287 FinishTime=68
+0 Keep alive ------ 11-6	13.51.55	Sleep:1	Token:c9e94414-7bca-4a47-aee5-208e307f5b6e	yu=20285 FinishTime=68
+0 Keep alive ------ 11-6	13.51.56	Sleep:1	Token:4eab803d-a4f6-43ff-9782-f7ff1b391345	yu=20284 FinishTime=68
+0 Keep alive ------ 11-6	13.51.57	Sleep:1	Token:4ea3e576-3958-4842-b02e-bea735cf494c	yu=20283 FinishTime=68
+0 Keep alive ------ 11-6	13.51.59	Sleep:1	Token:0daea035-7ba1-49c9-be93-c1ff0b29764e	yu=20281 FinishTime=68
+0 Keep alive ------ 11-6	13.52.0	Sleep:1	Token:91daf2ab-0ca3-489a-80fe-066bc0149010	yu=20280 FinishTime=68
+0 Keep alive ------ 11-6	13.52.1	Sleep:1	Token:e2fbc30c-b38c-4602-b6b5-ba9f5b2fd29e	yu=20279 FinishTime=68
+0 Keep alive ------ 11-6	13.52.2	Sleep:1	Token:109761e4-5b6b-4d80-8e5c-719c6f395810	yu=20278 FinishTime=68
+0 Keep alive ------ 11-6	13.52.4	Sleep:1	Token:df021254-e466-496f-ab5b-69f89fa0e10f	yu=20276 FinishTime=68
+0 Keep alive ------ 11-6	13.52.5	Sleep:1	Token:79109304-f51a-404a-bba6-9a5bb477be52	yu=20275 FinishTime=68
+0 Keep alive ------ 11-6	13.52.6	Sleep:1	Token:d71f14ee-6cd5-4a33-8070-391719265b32	yu=20274 FinishTime=68
+0 Keep alive ------ 11-6	13.52.7	Sleep:1	Token:3b758ce9-db68-4d3c-bf96-e13fa00e0c93	yu=20273 FinishTime=68
+0 Keep alive ------ 11-6	13.52.9	Sleep:1	Token:527545eb-654f-442e-9af0-47c2277517e4	yu=20271 FinishTime=68
+0 Keep alive ------ 11-6	13.52.10	Sleep:1	Token:799a74a1-332b-4745-a884-d79b8b2b0738	yu=20270 FinishTime=68
+0 Keep alive ------ 11-6	13.52.11	Sleep:1	Token:4b9b7565-0c31-4c2c-98d6-09c1b58a16b9	yu=20269 FinishTime=68
+0 Keep alive ------ 11-6	13.52.12	Sleep:1	Token:c3fb02bc-2bdc-4a28-9b37-28ce543b04a8	yu=20268 FinishTime=68
+Start: ====== 11-6 13.52.51
+0 Ready do post ------ 11-6	13.52.52	Sleep:9	Token:8de24edf-498e-467a-9858-7db6cada1c66	yu=8
+0 Sended post ------ 11-6	13.53.1	Token:8de24edf-498e-467a-9858-7db6cada1c66
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Insurance! ------ 
+0 Single One ------ 11-6	13.53.3	Seat:80	Token:745a471a-e490-4b72-8a20-e2b31cce2077
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Single One ------ 11-6	13.53.5	Seat:77	Token:6acaed7b-2d92-498d-a034-8954e4c54984
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+Start: ====== 11-6 13.53.23
+0 Ready do post ------ 11-6	13.53.24	Sleep:-23	Token:7797b729-e6e2-4048-8bc3-e5587e39d2c9	yu=-24
+0 Sended post ------ 11-6	13.53.25	Token:7797b729-e6e2-4048-8bc3-e5587e39d2c9
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Insurance! ------ 
+0 Single One ------ 11-6	13.53.27	Seat:80	Token:49463f29-4bef-4ab6-a6c6-ac444969bbd6
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+Start: ====== 11-6 13.53.38
+0 Ready do post ------ 11-6	13.53.39	Sleep:-38	Token:393550df-a2c6-4c32-8940-dc984f346be3	yu=-39
+0 Sended post ------ 11-6	13.53.40	Token:393550df-a2c6-4c32-8940-dc984f346be3
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Ready do post ------ 11-6	13.53.40	Sleep:-39	Token:2f023b33-9c51-4117-ab35-270eff3e6aac	yu=-40
+0 Insurance! ------ 
+1 Sended post ------ 11-6	13.53.41	Token:2f023b33-9c51-4117-ab35-270eff3e6aac
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Ready do post ------ 11-6	13.53.41	Sleep:-40	Token:616583a1-74fb-4cc7-80bf-33d129795c91	yu=-41
+2 Sended post ------ 11-6	13.53.42	Token:616583a1-74fb-4cc7-80bf-33d129795c91
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Insurance! ------ 
+0 Single One ------ 11-6	13.53.42	Seat:80	Token:ad76ca01-448f-4087-9bcf-aa847ada3869
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Ready do post ------ 11-6	13.53.42	Sleep:-41	Token:3d81e23c-3732-4c35-966a-7116007e5e2a	yu=-42
+3 Sended post ------ 11-6	13.53.43	Token:3d81e23c-3732-4c35-966a-7116007e5e2a
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Insurance! ------ 
+1 Single One ------ 11-6	13.53.43	Seat:80	Token:d35568f6-751e-4ed9-936a-ecbc239d3513
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Single One ------ 11-6	13.53.43	Seat:77	Token:949eb177-e6dc-4687-afd2-f162e54c19b1
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Ready do post ------ 11-6	13.53.43	Sleep:-42	Token:81d4314f-e578-4c73-badd-5dabec440495	yu=-43
+4 Sended post ------ 11-6	13.53.44	Token:81d4314f-e578-4c73-badd-5dabec440495
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Insurance! ------ 
+2 Single One ------ 11-6	13.53.44	Seat:80	Token:9904f022-0745-430e-913b-a0a6e31a19cc
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	13.53.44	Seat:77	Token:b6435b8f-0873-4cb3-8ea9-f81cac1d8d11
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Ready do post ------ 11-6	13.53.44	Sleep:-43	Token:ae3fde3f-9fc2-4632-8ccb-643680131c42	yu=-44
+4 Insurance! ------ 
+5 Sended post ------ 11-6	13.53.45	Token:ae3fde3f-9fc2-4632-8ccb-643680131c42
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Single One ------ 11-6	13.53.45	Seat:79	Token:7460ee4d-9d0f-4c9b-8aaf-b751d4800392
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	13.53.45	Seat:80	Token:a7428627-0400-410d-ba14-1a4f56402529
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Single One ------ 11-6	13.53.45	Seat:77	Token:5ef48851-7da0-42d8-9e33-d57569639653
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Ready do post ------ 11-6	13.53.45	Sleep:-44	Token:c9b98834-94a0-4bd2-a966-94c3d5558c5a	yu=-45
+5 Sended post ------ 11-6	13.53.46	Token:c9b98834-94a0-4bd2-a966-94c3d5558c5a
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Insurance! ------ 
+1 Single One ------ 11-6	13.53.46	Seat:79	Token:e4438ce2-7dd6-4854-bc39-8a1832e240c4
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Single One ------ 11-6	13.53.46	Seat:80	Token:7078ad60-afb2-4e74-ba66-790b6d2df18b
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	13.53.46	Seat:77	Token:576b3f8b-7ec6-4cf4-ad80-b1d0243fa5a2
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Insurance! ------ 
+2 Single One ------ 11-6	13.53.47	Seat:79	Token:5238158d-7a81-4450-9b6b-6a4b21c7e30a
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Single One ------ 11-6	13.53.47	Seat:80	Token:e606e9ac-7c53-4ee1-926d-7b5f8945f8f5
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Single One ------ 11-6	13.53.47	Seat:77	Token:9db4aeed-96c6-4b8d-8180-37ae3d6e23ab
+4 reply:No result
+3 Single One ------ 11-6	13.53.47	Seat:79	Token:9b1bf2fa-c237-4778-90da-dcaaf1f170b4
+3 reply:No result
+5 Single One ------ 11-6	13.53.47	Seat:80	Token:f8d8c3d8-2f7d-4084-ab58-9baf5b4809de
+5 reply:No result
+5 Single One ------ 11-6	13.53.48	Seat:77	Token:752eac01-a8fe-4184-b652-5bf875b9f67f
+5 reply:No result
+4 Single One ------ 11-6	13.53.48	Seat:79	Token:
+4 reply:No result
+5 Single One ------ 11-6	13.53.48	Seat:77	Token:df0c861e-b93a-470c-b6c1-fe27f19deafb
+5 reply:No result
+5 Single One ------ 11-6	13.53.48	Seat:79	Token:
+5 reply:No result
+5 Single One ------ 11-6	13.53.48	Seat:79	Token:2e1f6da9-0775-46cb-800f-010223f3e91a
+5 reply:No result
+Start: ====== 11-6 13.54.39
+0 Ready do post ------ 11-6	13.54.41	Sleep:-100	Token:8b9f51ef-0658-4c2c-88fc-13e6ea6df02a	yu=-101
+0 Sended post ------ 11-6	13.54.41	Token:8b9f51ef-0658-4c2c-88fc-13e6ea6df02a
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Ready do post ------ 11-6	13.54.42	Sleep:-101	Token:1a140fda-51db-4389-8aec-10b9bfdf47ba	yu=-102
+1 Sended post ------ 11-6	13.54.42	Token:1a140fda-51db-4389-8aec-10b9bfdf47ba
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Insurance! ------ 
+2 Ready do post ------ 11-6	13.54.43	Sleep:-102	Token:031b8ada-9450-4b21-ab52-1a2ecf23da79	yu=-103
+2 Sended post ------ 11-6	13.54.43	Token:031b8ada-9450-4b21-ab52-1a2ecf23da79
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Insurance! ------ 
+0 Single One ------ 11-6	13.54.43	Seat:80	Token:e9f22e54-f458-41b3-9c22-ca7f46335805
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Ready do post ------ 11-6	13.54.44	Sleep:-103	Token:d4832ead-80c0-49d9-9b58-d92d1c1062d8	yu=-104
+3 Sended post ------ 11-6	13.54.44	Token:d4832ead-80c0-49d9-9b58-d92d1c1062d8
+2 Insurance! ------ 
+2 Insurance! ------ 
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	13.54.44	Seat:80	Token:ca6cae77-38b1-4be7-8653-3ca64cb0d16e
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Ready do post ------ 11-6	13.54.45	Sleep:-104	Token:684d6f10-1776-46fb-a50e-3f629969e43a	yu=-105
+3 Insurance! ------ 
+4 Sended post ------ 11-6	13.54.45	Token:684d6f10-1776-46fb-a50e-3f629969e43a
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Single One ------ 11-6	13.54.45	Seat:80	Token:3cf2b151-d7bf-4bc2-aa36-98387f47bcb4
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Single One ------ 11-6	13.54.46	Seat:77	Token:799aede9-b84d-4eae-b4ab-7acbdd50d8c9
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Ready do post ------ 11-6	13.54.46	Sleep:-105	Token:fe3a5aa3-5341-426e-a58e-a969e8da2571	yu=-106
+5 Sended post ------ 11-6	13.54.46	Token:fe3a5aa3-5341-426e-a58e-a969e8da2571
+4 Insurance! ------ 
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	13.54.46	Seat:80	Token:02805abc-b592-441c-a8ff-636f16778108
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	13.54.47	Seat:77	Token:90064eca-9608-467e-9dc4-f33d9e1dc907
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Ready do post ------ 11-6	13.54.47	Sleep:-106	Token:0655f123-afab-4375-a968-62f5bc95e477	yu=-107
+6 Sended post ------ 11-6	13.54.47	Token:0655f123-afab-4375-a968-62f5bc95e477
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Insurance! ------ 
+4 Single One ------ 11-6	13.54.47	Seat:80	Token:b2bff67c-fd68-422b-8d18-0582a893129a
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Single One ------ 11-6	13.54.48	Seat:77	Token:24af7a01-f0bc-4f1a-b35e-dc889000f252
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Insurance! ------ 
+0 Single One ------ 11-6	13.54.48	Seat:79	Token:9393486f-e76d-49a5-af65-7897a3cb1655
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Single One ------ 11-6	13.54.48	Seat:80	Token:040bc3fd-0d1e-4c60-bba4-d29b33ab5e82
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	13.54.49	Seat:77	Token:9437fcc0-c6e7-4690-adea-53e2e326218c
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	13.54.49	Seat:79	Token:1fcedc58-4745-4c24-ac05-617164b1b0cb
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Single One ------ 11-6	13.54.49	Seat:80	Token:8ecc0414-97c1-490c-ae65-52b522ea3431
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 Single One ------ 11-6	13.54.49	Seat:77	Token:172e424b-6ba1-44a8-96c9-c9b81dda7715
+4 reply:No result
+2 Single One ------ 11-6	13.54.49	Seat:79	Token:e186ea2c-74bf-4400-a0df-be1b69d70ec0
+2 reply:No result
+5 Single One ------ 11-6	13.54.50	Seat:77	Token:711918fa-d65d-45ba-ab3a-46dff0c493d4
+5 reply:No result
+3 Single One ------ 11-6	13.54.50	Seat:79	Token:a6132ed8-1c76-4cef-bfe9-ab619b0cab89
+3 reply:No result
+6 Single One ------ 11-6	13.54.51	Seat:77	Token:
+6 reply:No result
+4 Single One ------ 11-6	13.54.51	Seat:79	Token:c3fb07d2-3261-451f-92b1-51a4e3078e2c
+4 reply:No result
+5 Single One ------ 11-6	13.54.51	Seat:79	Token:fbd60e37-8948-447c-947b-468e484893c7
+5 reply:No result
+6 Single One ------ 11-6	13.54.53	Seat:79	Token:77b18960-bacf-4418-a9a7-1275a9531272
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+Start: ====== 11-6 13.55.28
+0 Ready do post ------ 11-6	13.55.30	Sleep:-149	Token:970ca287-e5bc-4bee-99e8-cc42e3625130	yu=-150
+0 Sended post ------ 11-6	13.55.30	Token:970ca287-e5bc-4bee-99e8-cc42e3625130
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Ready do post ------ 11-6	13.55.31	Sleep:-150	Token:06e076b2-45c8-4079-ba5f-8a312de73f51	yu=-151
+0 Insurance! ------ 
+1 Sended post ------ 11-6	13.55.31	Token:06e076b2-45c8-4079-ba5f-8a312de73f51
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Ready do post ------ 11-6	13.55.32	Sleep:-151	Token:eb4a0554-7dad-4253-9eca-8499fa552e2e	yu=-152
+2 Sended post ------ 11-6	13.55.32	Token:eb4a0554-7dad-4253-9eca-8499fa552e2e
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Insurance! ------ 
+0 Single One ------ 11-6	13.55.32	Seat:80	Token:0d3b7f9d-5476-4623-985a-53909a1a69c1
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Ready do post ------ 11-6	13.55.33	Sleep:-152	Token:2019fb81-be57-4016-9c88-768a334d8d8a	yu=-153
+1 Single One ------ 11-6	13.55.33	Seat:80	Token:87f1523e-9f88-4321-bfa3-41225df14a5f
+1 reply:No result
+3 Sended post ------ 11-6	13.55.33	Token:2019fb81-be57-4016-9c88-768a334d8d8a
+3 reply:No result
+2 Insurance! ------ 
+4 Ready do post ------ 11-6	13.55.34	Sleep:-153	Token:7ff1c36c-9265-41fa-8047-d0df235814bc	yu=-154
+3 Insurance! ------ 
+4 Sended post ------ 11-6	13.55.34	Token:7ff1c36c-9265-41fa-8047-d0df235814bc
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Single One ------ 11-6	13.55.34	Seat:80	Token:04bd5113-62ab-4f38-9343-929a976c0106
+2 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+0 Single One ------ 11-6	13.55.35	Seat:77	Token:ef55df88-d863-4ace-8887-c828b528a151
+5 Ready do post ------ 11-6	13.55.35	Sleep:-154	Token:7dc45e22-d386-4ce5-b7fe-94f6247c5e2c	yu=-155
+0 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+5 Sended post ------ 11-6	13.55.35	Token:7dc45e22-d386-4ce5-b7fe-94f6247c5e2c
+4 Insurance! ------ 
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+1 Single One ------ 11-6	13.55.35	Seat:77	Token:21d72027-2d15-4ef1-b793-cccb41ae4eb2
+1 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	13.55.35	Seat:80	Token:d64a2cff-8f18-4c2a-b80c-78b5b07cad7f
+3 reply:No result
+4 Single One ------ 11-6	13.55.35	Seat:80	Token:
+4 reply:No result
+6 Ready do post ------ 11-6	13.55.36	Sleep:-155	Token:522de2bf-6cff-426e-b467-3a8e88eab487	yu=-156
+6 Sended post ------ 11-6	13.55.36	Token:522de2bf-6cff-426e-b467-3a8e88eab487
+6 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+2 Single One ------ 11-6	13.55.36	Seat:77	Token:1ddc563c-61ce-4afb-b779-bbed342a0426
+2 reply:No result
+5 Insurance! ------ 
+0 Single One ------ 11-6	13.55.36	Seat:79	Token:
+0 reply:No result
+5 Single One ------ 11-6	13.55.36	Seat:80	Token:464536b7-a46b-47ca-97ac-4c788160d07f
+5 reply:No result
+1 Single One ------ 11-6	13.55.36	Seat:79	Token:49c96c3f-d820-4046-8796-00e35dc14343
+1 reply:No result
+6 Insurance! ------ 
+3 Single One ------ 11-6	13.55.37	Seat:77	Token:173d73f6-1699-46b2-ade1-1564e31931a0
+3 reply:No result
+4 Single One ------ 11-6	13.55.37	Seat:77	Token:be6f2000-263c-424d-b28a-508347827013
+4 reply:No result
+6 Single One ------ 11-6	13.55.37	Seat:80	Token:
+2 Single One ------ 11-6	13.55.37	Seat:79	Token:
+6 reply:No result
+2 reply:No result
+5 Single One ------ 11-6	13.55.39	Seat:77	Token:133c3d27-8227-4761-830b-2818b05d3af1
+5 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+3 Single One ------ 11-6	13.55.39	Seat:79	Token:2f9f9353-f5da-491b-8c31-1567297b0982
+4 Single One ------ 11-6	13.55.39	Seat:79	Token:eadf87be-1ebd-4622-b797-6300ed739d28
+3 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+4 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+6 Single One ------ 11-6	13.55.39	Seat:77	Token:39c03884-190a-453a-9e90-ce87ea9cafd9
+6 reply:No result
+Start: ====== 11-6 13.56.5
+0 Keep alive ------ 11-6	13.56.7	Sleep:300	Token:7f0dcd6b-031e-491f-a7eb-6c8e762e145c	yu=20033 FinishTime=68
+1 Keep alive ------ 11-6	13.56.8	Sleep:300	Token:8b3eaf93-2154-41bb-878b-f087d260196f	yu=20032 FinishTime=241
+2 Keep alive ------ 11-6	13.56.9	Sleep:300	Token:2bd4e158-8f57-4370-ba81-ef9c670f4eec	yu=20031 FinishTime=53
+3 Keep alive ------ 11-6	13.56.10	Sleep:300	Token:f5092ae8-bd15-4f6a-ad3d-64f533594c7e	yu=20030 FinishTime=171
+4 Keep alive ------ 11-6	13.56.11	Sleep:300	Token:8f22a591-c4f8-449a-987c-b9de9d9f55f7	yu=20029 FinishTime=64
+5 Keep alive ------ 11-6	13.56.12	Sleep:300	Token:87a479b2-a90f-455b-b0e9-85d895183dc7	yu=20028 FinishTime=195
+6 Keep alive ------ 11-6	13.56.13	Sleep:300	Token:a9becca5-b4fb-4e9c-a4a0-0413930edd18	yu=20027 FinishTime=33
+Start: ====== 11-6 14.32.45
+Start: ====== 11-6 14.33.11
+Start: ====== 11-6 14.34.5
+Start: ====== 11-6 14.34.29
+Start: ====== 11-6 14.34.53
+Start: ====== 11-6 14.35.9
+Start: ====== 11-6 14.35.36
+Start: ====== 11-6 14.35.49
+Start: ====== 11-6 14.36.13
+Start: ====== 11-6 14.37.52
+Start: ====== 11-6 14.38.9
+0 Error: Init Token Dismiss!
+0 Keep alive ------ 11-6	14.38.10	Sleep:180	Token:	yu=17510 FinishTime=68
+1 Error: Init Token Dismiss!
+1 Keep alive ------ 11-6	14.38.11	Sleep:180	Token:	yu=17509 FinishTime=80
+2 Error: Init Token Dismiss!
+2 Keep alive ------ 11-6	14.38.12	Sleep:180	Token:	yu=17508 FinishTime=31
+3 Error: Init Token Dismiss!
+3 Keep alive ------ 11-6	14.38.13	Sleep:180	Token:	yu=17507 FinishTime=138
+4 Error: Init Token Dismiss!
+4 Keep alive ------ 11-6	14.38.14	Sleep:180	Token:	yu=17506 FinishTime=102
+5 Error: Init Token Dismiss!
+5 Keep alive ------ 11-6	14.38.15	Sleep:180	Token:	yu=17505 FinishTime=73
+6 Error: Init Token Dismiss!
+6 Keep alive ------ 11-6	14.38.16	Sleep:180	Token:	yu=17504 FinishTime=50
+Start: ====== 11-6 14.40.0
+Start: ====== 11-6 14.42.9
+0 Error: Init Token Dismiss!
+0 Keep alive ------ 11-6	14.42.10	Sleep:180	Token:	yu=17270 FinishTime=68
+1 Error: Init Token Dismiss!
+1 Keep alive ------ 11-6	14.42.11	Sleep:180	Token:	yu=17269 FinishTime=46
+2 Error: Init Token Dismiss!
+2 Keep alive ------ 11-6	14.42.12	Sleep:180	Token:	yu=17268 FinishTime=31
+3 Error: Init Token Dismiss!
+3 Keep alive ------ 11-6	14.42.13	Sleep:180	Token:	yu=17267 FinishTime=172
+4 Error: Init Token Dismiss!
+4 Keep alive ------ 11-6	14.42.14	Sleep:180	Token:	yu=17266 FinishTime=169
+5 Error: Init Token Dismiss!
+5 Keep alive ------ 11-6	14.42.15	Sleep:180	Token:	yu=17265 FinishTime=173
+6 Error: Init Token Dismiss!
+6 Keep alive ------ 11-6	14.42.16	Sleep:180	Token:	yu=17264 FinishTime=34
+Start: ====== 11-6 14.42.28
+0 Error: Init Token Dismiss!
+0 Keep alive ------ 11-6	14.42.29	Sleep:180	Token:	yu=17251 FinishTime=68
+1 Error: Init Token Dismiss!
+1 Keep alive ------ 11-6	14.42.30	Sleep:180	Token:	yu=17250 FinishTime=108
+2 Error: Init Token Dismiss!
+2 Keep alive ------ 11-6	14.42.31	Sleep:180	Token:	yu=17249 FinishTime=155
+3 Error: Init Token Dismiss!
+3 Keep alive ------ 11-6	14.42.32	Sleep:180	Token:	yu=17248 FinishTime=58
+Start: ====== 11-6 14.42.59
+0 Error: Init Token Dismiss!
+0 Keep alive ------ 11-6	14.43.0	Sleep:180	Token:	yu=17220 FinishTime=68
+1 Error: Init Token Dismiss!
+1 Keep alive ------ 11-6	14.43.1	Sleep:180	Token:	yu=17219 FinishTime=59
+2 Error: Init Token Dismiss!
+2 Keep alive ------ 11-6	14.43.2	Sleep:180	Token:	yu=17218 FinishTime=57
+4 Error: Init Token Dismiss!
+3 Error: Init Token Dismiss!
+3 Keep alive ------ 11-6	14.43.5	Sleep:180	Token:	yu=17215 FinishTime=81
+4 Keep alive ------ 11-6	14.43.5	Sleep:180	Token:	yu=17215 FinishTime=85
+5 Error: Init Token Dismiss!
+5 Keep alive ------ 11-6	14.43.5	Sleep:180	Token:	yu=17215 FinishTime=90
+6 Error: Init Token Dismiss!
+6 Keep alive ------ 11-6	14.43.6	Sleep:180	Token:	yu=17214 FinishTime=114
+Start: ====== 11-6 14.43.59
+0 Error: Init Token Dismiss!
+0 Keep alive ------ 11-6	14.44.0	Sleep:180	Token:	yu=17160 FinishTime=68
+1 Error: Init Token Dismiss!
+1 Keep alive ------ 11-6	14.44.1	Sleep:180	Token:	yu=17159 FinishTime=105
+2 Error: Init Token Dismiss!
+2 Keep alive ------ 11-6	14.44.2	Sleep:180	Token:	yu=17158 FinishTime=149
+3 Error: Init Token Dismiss!
+3 Keep alive ------ 11-6	14.44.3	Sleep:180	Token:	yu=17157 FinishTime=49
+4 Error: Init Token Dismiss!
+4 Keep alive ------ 11-6	14.44.4	Sleep:180	Token:	yu=17156 FinishTime=106
+5 Error: Init Token Dismiss!
+5 Keep alive ------ 11-6	14.44.5	Sleep:180	Token:	yu=17155 FinishTime=169
+6 Error: Init Token Dismiss!
+6 Keep alive ------ 11-6	14.44.6	Sleep:180	Token:	yu=17154 FinishTime=89
+Start: ====== 11-6 14.45.18
+0 Keep alive ------ 11-6	14.45.19	Sleep:180	Token:3d5e9fef-2a65-4396-9746-bfb94dafd7ec	yu=17081 FinishTime=68
+1 Keep alive ------ 11-6	14.45.20	Sleep:180	Token:4e316134-cada-41b1-9463-8bf84d88f145	yu=17080 FinishTime=63
+2 Keep alive ------ 11-6	14.45.21	Sleep:180	Token:be34f786-fadf-45c6-90a6-01c61f5d6dea	yu=17079 FinishTime=65
+3 Keep alive ------ 11-6	14.45.22	Sleep:180	Token:ea3491ae-4e5f-4403-9ca3-88bed8dd5a73	yu=17078 FinishTime=73
+4 Keep alive ------ 11-6	14.45.23	Sleep:180	Token:d2b3af4c-7502-4b79-beb1-9da5e40ae586	yu=17077 FinishTime=88
+5 Keep alive ------ 11-6	14.45.24	Sleep:180	Token:6c06f0c3-9494-4e64-b526-e7f28b77a5b7	yu=17076 FinishTime=109
+Start: ====== 11-6 14.45.45
+0 Keep alive ------ 11-6	14.45.47	Sleep:180	Token:0350b81d-da6d-448e-bcf0-f37e09150743	yu=17053 FinishTime=68
+1 Keep alive ------ 11-6	14.45.48	Sleep:180	Token:6c7c4d79-99da-435f-aa49-727f49a37a76	yu=17052 FinishTime=151
+2 Keep alive ------ 11-6	14.45.49	Sleep:180	Token:a4ace1ae-35e0-4e36-8ea6-d0954ec165af	yu=17051 FinishTime=91
+3 Keep alive ------ 11-6	14.45.50	Sleep:180	Token:e728a00a-82c5-4107-b9e2-d53cfc8a53ad	yu=17050 FinishTime=38
+4 Keep alive ------ 11-6	14.45.51	Sleep:180	Token:72a64882-7057-4360-bb49-f3ed60b71ced	yu=17049 FinishTime=141
+5 Keep alive ------ 11-6	14.45.52	Sleep:180	Token:b231a908-05e8-4727-bf7b-6294a1b2703b	yu=17048 FinishTime=100
+6 Keep alive ------ 11-6	14.45.53	Sleep:180	Token:76f5873a-054a-4d36-a6b4-3dc6da8ce0e0	yu=17047 FinishTime=66
+Start: ====== 11-6 14.46.43
+0 Keep alive ------ 11-6	14.46.44	Sleep:180	Token:489cf034-494d-4302-9725-00ede9c3b215	yu=16996 FinishTime=68
+1 Keep alive ------ 11-6	14.46.45	Sleep:180	Token:4e45c34f-45cd-49fa-94ca-06ca60c34a16	yu=16995 FinishTime=41
+2 Keep alive ------ 11-6	14.46.46	Sleep:180	Token:b1e1e33d-645b-4212-83f4-6ed644fddfcb	yu=16994 FinishTime=170
+3 Keep alive ------ 11-6	14.46.47	Sleep:180	Token:5c94f1f7-cf82-4911-aa17-2b7011588e16	yu=16993 FinishTime=156
+4 Keep alive ------ 11-6	14.46.48	Sleep:180	Token:78de9d5a-5018-4fd7-a8f3-5d397db4ecde	yu=16992 FinishTime=148
+5 Keep alive ------ 11-6	14.46.49	Sleep:180	Token:35226b85-396c-4696-af3d-6d040757ee07	yu=16991 FinishTime=147
+6 Keep alive ------ 11-6	14.46.50	Sleep:180	Token:e0ea202e-5b80-4d85-b6dc-37ef78a4f6f5	yu=16990 FinishTime=153
+Start: ====== 11-6 14.48.12
+0 Keep alive ------ 11-6	14.48.14	Sleep:180	Token:773473a8-66da-4d60-a2c2-c0dbecb614f0	yu=16906 FinishTime=68
+1 Keep alive ------ 11-6	14.48.15	Sleep:180	Token:c0bdff0e-0cfc-448a-871c-9978af5178e1	yu=16905 FinishTime=35
+2 Keep alive ------ 11-6	14.48.16	Sleep:180	Token:d081ed53-866c-4043-a612-de79a856f067	yu=16904 FinishTime=158
+3 Keep alive ------ 11-6	14.48.17	Sleep:180	Token:042afb59-8828-41ae-8a96-acbb79de5051	yu=16903 FinishTime=138
+4 Keep alive ------ 11-6	14.48.18	Sleep:180	Token:faa1b131-4757-44a1-99e8-cbc65a2c6b94	yu=16902 FinishTime=124
+5 Keep alive ------ 11-6	14.48.23	Sleep:180	Token:7d68dfe6-6311-4d7c-9cc9-732e78be8106	yu=16897 FinishTime=117
+6 Keep alive ------ 11-6	14.48.23	Sleep:180	Token:3f121031-5fa9-469b-92df-a30a5a66c39a	yu=16897 FinishTime=175
+Start: ====== 11-6 14.50.47
+0 Keep alive ------ 11-6	14.50.49	Sleep:180	Token:982bcf5d-af04-4627-8e53-bcf7f0678fcd	yu=16751 FinishTime=68
+1 Keep alive ------ 11-6	14.50.50	Sleep:180	Token:1bf9d1bc-b143-49af-8817-6938df3d0ecf	yu=16750 FinishTime=88
+2 Keep alive ------ 11-6	14.50.51	Sleep:180	Token:7bfd7b8a-a186-4e3a-a37d-3f6b39e8da8e	yu=16749 FinishTime=114
+3 Keep alive ------ 11-6	14.50.52	Sleep:180	Token:6a0f11e1-cc61-498c-9f83-9135c2de9e3a	yu=16748 FinishTime=146
+4 Keep alive ------ 11-6	14.50.53	Sleep:180	Token:8e3c40e7-b71a-4674-8684-33da6c16f9f0	yu=16747 FinishTime=36
+Start: ====== 11-6 14.51.38
+0 Keep alive ------ 11-6	14.51.40	Sleep:180	Token:f152b2ef-ba78-409f-89f6-0a6b55f346dd	yu=16700 FinishTime=68
+1 Keep alive ------ 11-6	14.51.41	Sleep:180	Token:f4700094-37df-400e-aeab-0d6ab1b8c964	yu=16699 FinishTime=107
+2 Keep alive ------ 11-6	14.51.42	Sleep:180	Token:6a3c5931-e82c-4bdf-9d8d-2cd58e9af0cc	yu=16698 FinishTime=153
+3 Keep alive ------ 11-6	14.51.43	Sleep:180	Token:5ac3c4f8-6035-439a-9c3d-cd72348ce34d	yu=16697 FinishTime=56
+4 Keep alive ------ 11-6	14.51.49	Sleep:180	Token:4f8cc216-d87d-42f2-8834-87a697e1f4d6	yu=16691 FinishTime=167
+5 Keep alive ------ 11-6	14.51.49	Sleep:180	Token:ecd49a68-3863-428b-9f0e-e0197f64e5a0	yu=16691 FinishTime=79
+6 Keep alive ------ 11-6	14.51.49	Sleep:180	Token:d162a9cd-73a3-4d21-9a4f-b690c6897da1	yu=16691 FinishTime=141
+Start: ====== 11-6 14.52.40
+Start: ====== 11-6 14.53.20
+Start: ====== 11-6 14.54.15
+Start: ====== 11-6 14.54.46
+Start: ====== 11-6 14.55.49
+0 Keep alive ------ 11-6	14.55.52	Sleep:180	Token:bdb54f22-df22-4130-b14f-6335d8a8c875	yu=16448 FinishTime=68
+1 Keep alive ------ 11-6	14.55.53	Sleep:180	Token:1949158d-6227-40ab-a010-461c3e017aa5	yu=16447 FinishTime=177
+2 Keep alive ------ 11-6	14.55.54	Sleep:180	Token:adb70c9b-bd91-4feb-846a-36cb230af5eb	yu=16446 FinishTime=143
+3 Keep alive ------ 11-6	14.55.55	Sleep:180	Token:17163d27-cdb1-4985-89c6-8ec135bb1365	yu=16445 FinishTime=115
+4 Keep alive ------ 11-6	14.55.56	Sleep:180	Token:dbdf0e59-6bb0-43ae-95de-02818b4036d4	yu=16444 FinishTime=93
+5 Keep alive ------ 11-6	14.55.57	Sleep:180	Token:18938614-0643-4820-92a2-b2062e995baf	yu=16443 FinishTime=79
+6 Keep alive ------ 11-6	14.55.58	Sleep:180	Token:3528ad00-7ca0-47f9-92d7-d06e1e3e13d8	yu=16442 FinishTime=70
+Start: ====== 11-6 14.56.32
+0 Keep alive ------ 11-6	14.56.35	Sleep:180	Token:8fff3140-9131-403d-a871-1d3e0e207545	yu=16405 FinishTime=68
+1 Keep alive ------ 11-6	14.56.36	Sleep:180	Token:9b9f37ed-cdc7-4209-abcd-151158fb742e	yu=16404 FinishTime=168
+2 Keep alive ------ 11-6	14.56.37	Sleep:180	Token:724a76f7-1dae-4e17-a8bf-0f34ec3efe7b	yu=16403 FinishTime=124
+3 Keep alive ------ 11-6	14.56.38	Sleep:180	Token:761a9fb0-e2a4-4f9f-a832-2fe28a12ea3b	yu=16402 FinishTime=86
+4 Keep alive ------ 11-6	14.56.39	Sleep:180	Token:897f7f2e-c6b2-441c-988c-57a2f22ff9d7	yu=16401 FinishTime=55
+5 Keep alive ------ 11-6	14.56.40	Sleep:180	Token:a710efd5-8eeb-46af-ad21-7a2e7c86533c	yu=16400 FinishTime=31
+6 Keep alive ------ 11-6	14.56.41	Sleep:180	Token:99b4baf0-a0ff-46c7-85a1-c33ca5378c39	yu=16399 FinishTime=163
+Start: ====== 11-6 14.57.16
+0 Keep alive ------ 11-6	14.57.23	Sleep:180	Token:05dc16a7-896f-47b2-bbb7-551e4ddac88a	yu=16357 FinishTime=68
+1 Keep alive ------ 11-6	14.57.24	Sleep:180	Token:4506ae3a-1f50-4465-8ef1-9c7ca41181f4	yu=16356 FinishTime=168
+2 Keep alive ------ 11-6	14.57.25	Sleep:180	Token:5ef8ded2-37f6-4afb-9602-eac92ca693ab	yu=16355 FinishTime=124
+3 Keep alive ------ 11-6	14.57.26	Sleep:180	Token:1580a1c7-4c66-4d44-b0a8-6b8a2678a742	yu=16354 FinishTime=87
+4 Keep alive ------ 11-6	14.57.27	Sleep:180	Token:d0637e69-909e-41c0-b439-2c06c9978520	yu=16353 FinishTime=56
+5 Keep alive ------ 11-6	14.57.28	Sleep:180	Token:7907cfe9-a161-4575-9464-796649c034e8	yu=16352 FinishTime=32
+6 Keep alive ------ 11-6	14.57.29	Sleep:180	Token:9a9ab39b-ee5b-459d-92c6-febb9841ab72	yu=16351 FinishTime=164
+Start: ====== 11-6 14.57.48
+Start: ====== 11-6 14.58.13
+0 Keep alive ------ 11-6	14.58.17	Sleep:180	Token:02439816-a4bd-4a80-9508-18b882da4a37	yu=16303 FinishTime=68
+1 Keep alive ------ 11-6	14.58.18	Sleep:180	Token:d9e14239-4c36-44e0-a6c8-1dd7261376bc	yu=16302 FinishTime=51
+2 Keep alive ------ 11-6	14.58.19	Sleep:180	Token:c18b2ad8-6d38-433e-a904-9dfc142848d5	yu=16301 FinishTime=40
+3 Keep alive ------ 11-6	14.58.20	Sleep:180	Token:0a172d7f-8735-4d5b-ae67-21a300d14682	yu=16300 FinishTime=35
+4 Keep alive ------ 11-6	14.58.21	Sleep:180	Token:6e571a24-c43f-4f1e-bca4-a1c2715a2ae4	yu=16299 FinishTime=37
+5 Keep alive ------ 11-6	14.58.22	Sleep:180	Token:e445563c-b85d-472b-85c9-3c4efb056060	yu=16298 FinishTime=46
+6 Keep alive ------ 11-6	14.58.23	Sleep:180	Token:181f9962-8c11-4ba4-b7fa-aa4f50cfd346	yu=16297 FinishTime=61
+0 Keep alive ------ 11-6	15.1.17	Sleep:180	Token:02439816-a4bd-4a80-9508-18b882da4a37	yu=16123 FinishTime=68
+1 Keep alive ------ 11-6	15.1.18	Sleep:180	Token:d9e14239-4c36-44e0-a6c8-1dd7261376bc	yu=16122 FinishTime=51
+2 Keep alive ------ 11-6	15.1.19	Sleep:180	Token:c18b2ad8-6d38-433e-a904-9dfc142848d5	yu=16121 FinishTime=40
+3 Keep alive ------ 11-6	15.1.20	Sleep:180	Token:0a172d7f-8735-4d5b-ae67-21a300d14682	yu=16120 FinishTime=35
+4 Keep alive ------ 11-6	15.1.21	Sleep:180	Token:6e571a24-c43f-4f1e-bca4-a1c2715a2ae4	yu=16119 FinishTime=37
+5 Keep alive ------ 11-6	15.1.22	Sleep:180	Token:e445563c-b85d-472b-85c9-3c4efb056060	yu=16118 FinishTime=46
+6 Keep alive ------ 11-6	15.1.23	Sleep:180	Token:181f9962-8c11-4ba4-b7fa-aa4f50cfd346	yu=16117 FinishTime=61
+0 Keep alive ------ 11-6	15.4.17	Sleep:180	Token:02439816-a4bd-4a80-9508-18b882da4a37	yu=15943 FinishTime=68
+1 Keep alive ------ 11-6	15.4.18	Sleep:180	Token:d9e14239-4c36-44e0-a6c8-1dd7261376bc	yu=15942 FinishTime=51
+2 Keep alive ------ 11-6	15.4.19	Sleep:180	Token:c18b2ad8-6d38-433e-a904-9dfc142848d5	yu=15941 FinishTime=40
+3 Keep alive ------ 11-6	15.4.20	Sleep:180	Token:0a172d7f-8735-4d5b-ae67-21a300d14682	yu=15940 FinishTime=35
+4 Keep alive ------ 11-6	15.4.21	Sleep:180	Token:6e571a24-c43f-4f1e-bca4-a1c2715a2ae4	yu=15939 FinishTime=37
+5 Keep alive ------ 11-6	15.4.22	Sleep:180	Token:e445563c-b85d-472b-85c9-3c4efb056060	yu=15938 FinishTime=46
+6 Keep alive ------ 11-6	15.4.23	Sleep:180	Token:181f9962-8c11-4ba4-b7fa-aa4f50cfd346	yu=15937 FinishTime=61
+0 Keep alive ------ 11-6	15.7.17	Sleep:180	Token:02439816-a4bd-4a80-9508-18b882da4a37	yu=15763 FinishTime=68
+1 Keep alive ------ 11-6	15.7.18	Sleep:180	Token:d9e14239-4c36-44e0-a6c8-1dd7261376bc	yu=15762 FinishTime=51
+2 Keep alive ------ 11-6	15.7.19	Sleep:180	Token:c18b2ad8-6d38-433e-a904-9dfc142848d5	yu=15761 FinishTime=40
+3 Keep alive ------ 11-6	15.7.20	Sleep:180	Token:0a172d7f-8735-4d5b-ae67-21a300d14682	yu=15760 FinishTime=35
+4 Keep alive ------ 11-6	15.7.21	Sleep:180	Token:6e571a24-c43f-4f1e-bca4-a1c2715a2ae4	yu=15759 FinishTime=37
+5 Keep alive ------ 11-6	15.7.22	Sleep:180	Token:e445563c-b85d-472b-85c9-3c4efb056060	yu=15758 FinishTime=46
+6 Keep alive ------ 11-6	15.7.23	Sleep:180	Token:181f9962-8c11-4ba4-b7fa-aa4f50cfd346	yu=15757 FinishTime=61
+Start: ====== 11-6 15.9.56
+Start: ====== 11-6 15.12.56
+0 Keep alive ------ 11-6	15.13.0	Sleep:180	Token:03239865-a13b-41c4-a0bb-12821d4741f3	yu=15420 FinishTime=68
+1 Keep alive ------ 11-6	15.13.1	Sleep:180	Token:0e4c6006-855b-41c0-adee-e00b827eca70	yu=15419 FinishTime=84
+2 Keep alive ------ 11-6	15.13.2	Sleep:180	Token:38301471-7c16-4e83-a8fc-4ec98d30921c	yu=15418 FinishTime=107
+3 Keep alive ------ 11-6	15.13.3	Sleep:180	Token:d879d714-6208-4fe3-95b1-43d71dade2b5	yu=15417 FinishTime=136
+4 Keep alive ------ 11-6	15.13.4	Sleep:180	Token:f49263b4-d214-4725-aa3b-f2b1180b6047	yu=15416 FinishTime=171
+5 Keep alive ------ 11-6	15.13.6	Sleep:180	Token:74dc79ae-b973-4c3c-af6e-996d3f6261cb	yu=15414 FinishTime=64
+6 Keep alive ------ 11-6	15.13.6	Sleep:180	Token:15c6d87c-fc30-4882-b46e-493c0bbf9f0d	yu=15414 FinishTime=44
+0 Keep alive ------ 11-6	15.16.1	Sleep:180	Token:03239865-a13b-41c4-a0bb-12821d4741f3	yu=15239 FinishTime=68
+1 Keep alive ------ 11-6	15.16.1	Sleep:180	Token:0e4c6006-855b-41c0-adee-e00b827eca70	yu=15239 FinishTime=84
+2 Keep alive ------ 11-6	15.16.2	Sleep:180	Token:38301471-7c16-4e83-a8fc-4ec98d30921c	yu=15238 FinishTime=107
+3 Keep alive ------ 11-6	15.16.3	Sleep:180	Token:d879d714-6208-4fe3-95b1-43d71dade2b5	yu=15237 FinishTime=136
+4 Keep alive ------ 11-6	15.16.4	Sleep:180	Token:f49263b4-d214-4725-aa3b-f2b1180b6047	yu=15236 FinishTime=171
+5 Keep alive ------ 11-6	15.16.6	Sleep:180	Token:74dc79ae-b973-4c3c-af6e-996d3f6261cb	yu=15234 FinishTime=64
+6 Keep alive ------ 11-6	15.16.7	Sleep:180	Token:15c6d87c-fc30-4882-b46e-493c0bbf9f0d	yu=15233 FinishTime=44
+Start: ====== 11-6 15.18.13
+0 Keep alive ------ 11-6	15.18.17	Sleep:180	Token:f5ebac92-c704-4225-82f4-a117c29acb7d	yu=15103 FinishTime=68
+1 Keep alive ------ 11-6	15.18.18	Sleep:180	Token:431ec8fa-cf99-4f80-8278-8f64ba0bdd3c	yu=15102 FinishTime=66
+2 Keep alive ------ 11-6	15.18.19	Sleep:180	Token:2a511b53-2414-44fb-aead-26406e57187a	yu=15101 FinishTime=71
+3 Keep alive ------ 11-6	15.18.20	Sleep:180	Token:b2cb2bcf-8112-4eb2-b2ce-012e62fc9e58	yu=15100 FinishTime=82
+4 Keep alive ------ 11-6	15.18.21	Sleep:180	Token:f0b86470-f90d-4fdd-83b8-007194e3ba1d	yu=15099 FinishTime=99
+5 Keep alive ------ 11-6	15.18.22	Sleep:180	Token:be49a851-f018-47c3-998b-f3a094f84166	yu=15098 FinishTime=55
+6 Keep alive ------ 11-6	15.18.23	Sleep:180	Token:77959073-4186-4899-aa92-f11d1a10e17c	yu=15097 FinishTime=86
+Start: ====== 11-6 15.20.9
+0 Keep alive ------ 11-6	15.20.13	Sleep:180	Token:96b3d10e-d192-4e34-bd85-a53690b9aa05	yu=14987 FinishTime=68
+1 Keep alive ------ 11-6	15.20.14	Sleep:180	Token:010bc9e2-54af-425f-b62e-f76c2a90d113	yu=14986 FinishTime=148
+2 Keep alive ------ 11-6	15.20.15	Sleep:180	Token:ba4c168d-f26f-492f-b659-eed7db081bf6	yu=14985 FinishTime=85
+3 Keep alive ------ 11-6	15.20.16	Sleep:180	Token:a0abeed2-072b-4c37-ae4a-dfd2ba51c2f0	yu=14984 FinishTime=178
+4 Keep alive ------ 11-6	15.20.17	Sleep:180	Token:8d2d24ef-4b98-4f7c-9cb0-d61754f8e7a2	yu=14983 FinishTime=127
+5 Keep alive ------ 11-6	15.20.18	Sleep:180	Token:9a78164c-7139-43bb-9387-332d2d52280d	yu=14982 FinishTime=166
+6 Keep alive ------ 11-6	15.20.19	Sleep:180	Token:5b8c3fd9-2368-4045-ba73-a95e7d671c96	yu=14981 FinishTime=128
+0 Keep alive ------ 11-6	15.23.13	Sleep:180	Token:96b3d10e-d192-4e34-bd85-a53690b9aa05	yu=14807 FinishTime=68
+1 Keep alive ------ 11-6	15.23.14	Sleep:180	Token:010bc9e2-54af-425f-b62e-f76c2a90d113	yu=14806 FinishTime=148
+2 Keep alive ------ 11-6	15.23.15	Sleep:180	Token:ba4c168d-f26f-492f-b659-eed7db081bf6	yu=14805 FinishTime=85
+3 Keep alive ------ 11-6	15.23.16	Sleep:180	Token:a0abeed2-072b-4c37-ae4a-dfd2ba51c2f0	yu=14804 FinishTime=178
+4 Keep alive ------ 11-6	15.23.17	Sleep:180	Token:8d2d24ef-4b98-4f7c-9cb0-d61754f8e7a2	yu=14803 FinishTime=127
+5 Keep alive ------ 11-6	15.23.18	Sleep:180	Token:9a78164c-7139-43bb-9387-332d2d52280d	yu=14802 FinishTime=166
+6 Keep alive ------ 11-6	15.23.19	Sleep:180	Token:5b8c3fd9-2368-4045-ba73-a95e7d671c96	yu=14801 FinishTime=128
+Start: ====== 11-6 15.24.16
+0 Keep alive ------ 11-6	15.24.20	Sleep:180	Token:5af88dbe-6b7a-4ef2-bf37-ec247b2e52d2	yu=14740 FinishTime=68
+1 Keep alive ------ 11-6	15.24.21	Sleep:180	Token:83c164a0-2cb8-4d16-aa56-ae01e25a8818	yu=14739 FinishTime=51
+2 Keep alive ------ 11-6	15.24.22	Sleep:180	Token:25e1823d-9a9f-4236-8ab0-9ef9402fb4c3	yu=14738 FinishTime=41
+3 Keep alive ------ 11-6	15.24.23	Sleep:180	Token:fdf340f8-3592-4574-b440-0b3475f1e2ee	yu=14737 FinishTime=38
+4 Keep alive ------ 11-6	15.24.24	Sleep:180	Token:f3d3b111-5860-4705-94cb-9c6c57755fbb	yu=14736 FinishTime=123
+5 Keep alive ------ 11-6	15.24.25	Sleep:180	Token:96522378-7bd6-44b1-a66b-23b5095b1527	yu=14735 FinishTime=132
+6 Keep alive ------ 11-6	15.24.26	Sleep:180	Token:b915fc1f-ce3d-49c9-8b02-d9a73638b905	yu=14734 FinishTime=148
+7 Keep alive ------ 11-6	15.27.23	Sleep:180	Token:5e019eca-b8b0-4abd-b2f2-b469c7d37f04	yu=14557 FinishTime=167
+8 Keep alive ------ 11-6	15.27.24	Sleep:180	Token:00f66a39-e102-4a7a-8c41-36426def2eeb	yu=14556 FinishTime=106
+9 Keep alive ------ 11-6	15.27.25	Sleep:180	Token:ae67dc20-f980-43ab-8d84-a216aa0492cf	yu=14555 FinishTime=120
+10 Keep alive ------ 11-6	15.27.26	Sleep:180	Token:994703dd-fd4f-4624-98f1-97e3febc948c	yu=14554 FinishTime=140
+11 Keep alive ------ 11-6	15.27.27	Sleep:180	Token:80a069b1-b6a2-4b14-bb9f-718aa2c575cd	yu=14553 FinishTime=98
+12 Keep alive ------ 11-6	15.27.28	Sleep:180	Token:101b23de-add3-433e-9ac6-e29fa0464789	yu=14552 FinishTime=132
+13 Keep alive ------ 11-6	15.27.29	Sleep:180	Token:89ec9d9d-617c-41d2-96ad-3cfdba67ec23	yu=14551 FinishTime=171
+14 Keep alive ------ 11-6	15.30.27	Sleep:180	Token:922b91b8-ea9a-492f-848f-3f61feb623e9	yu=14373 FinishTime=96
+15 Keep alive ------ 11-6	15.30.27	Sleep:180	Token:5a614fac-ee81-4f55-b6ca-98ee23b01bd2	yu=14373 FinishTime=124
+16 Keep alive ------ 11-6	15.30.28	Sleep:180	Token:a60d5550-8134-4566-911d-2ba65ea030a9	yu=14372 FinishTime=158
+17 Keep alive ------ 11-6	15.30.29	Sleep:180	Token:5553c9cd-4bcd-4261-93c6-0c801153b1e6	yu=14371 FinishTime=130
+18 Keep alive ------ 11-6	15.30.30	Sleep:180	Token:f9c68968-21e3-4acf-b786-f67994f8aedb	yu=14370 FinishTime=177
+19 Keep alive ------ 11-6	15.30.31	Sleep:180	Token:a4ae7aa0-c5dc-4ca5-a110-01f9f4d023c1	yu=14369 FinishTime=81
+20 Keep alive ------ 11-6	15.30.32	Sleep:180	Token:6d6d90a9-f100-4b45-a343-662f4ab7b50d	yu=14368 FinishTime=73
+Start: ====== 11-6 15.32.15
+Start: ====== 11-6 15.32.42
+100 Keep alive ------ 11-6	15.32.46	Sleep:180	Token:851afdc6-ae02-42c9-8d98-921975afa500	yu=14234 FinishTime=108
+101 Keep alive ------ 11-6	15.32.47	Sleep:180	Token:340f0001-f624-4c21-93a2-ce450ea561ed	yu=14233 FinishTime=121
+102 Keep alive ------ 11-6	15.32.48	Sleep:180	Token:848e68c0-63b3-4ec5-a580-5d83ca3d680b	yu=14232 FinishTime=72
+103 Keep alive ------ 11-6	15.32.49	Sleep:180	Token:3bc963b3-e345-405d-89d7-e2df06e50e49	yu=14231 FinishTime=97
+104 Keep alive ------ 11-6	15.32.50	Sleep:180	Token:7926cb1a-401b-4512-b70a-0565962cc044	yu=14230 FinishTime=129
+105 Keep alive ------ 11-6	15.32.51	Sleep:180	Token:f2af6294-5441-4a29-8b88-78307050b62c	yu=14229 FinishTime=99
+106 Keep alive ------ 11-6	15.32.52	Sleep:180	Token:32125b30-83bb-4280-9eca-10be371a9efc	yu=14228 FinishTime=144
+200 Keep alive ------ 11-6	15.35.49	Sleep:180	Token:9cf3871e-5e33-4e89-bc98-517cd760590b	yu=14051 FinishTime=50
+201 Keep alive ------ 11-6	15.35.50	Sleep:180	Token:b53fb419-61b9-4832-9f10-f5eea3dced63	yu=14050 FinishTime=172
+202 Keep alive ------ 11-6	15.35.51	Sleep:180	Token:8af8a013-ae32-4ed8-85ec-9b01257aa5d9	yu=14049 FinishTime=68
+203 Keep alive ------ 11-6	15.35.52	Sleep:180	Token:ae2a1065-8311-47d2-aed0-4aaae70aab72	yu=14048 FinishTime=121
+204 Keep alive ------ 11-6	15.35.53	Sleep:180	Token:8f8d344f-39d6-438d-81fc-d65d454f9c06	yu=14047 FinishTime=112
+205 Keep alive ------ 11-6	15.35.54	Sleep:180	Token:4e7b3cd9-5431-4454-a61d-8ae11973bfb7	yu=14046 FinishTime=178
+206 Keep alive ------ 11-6	15.35.55	Sleep:180	Token:5845b62e-4691-43c3-b1ae-c2bf963d1481	yu=14045 FinishTime=100
+300 Keep alive ------ 11-6	15.38.52	Sleep:180	Token:1a502ea6-c3fc-4a2f-b94c-2883dc4930fd	yu=13868 FinishTime=113
+301 Keep alive ------ 11-6	15.38.53	Sleep:180	Token:1fa03750-cf61-4b8c-a586-73d306926359	yu=13867 FinishTime=177
+302 Keep alive ------ 11-6	15.38.54	Sleep:180	Token:a2e25926-5806-4d4e-92bf-90802c4da855	yu=13866 FinishTime=30
+303 Keep alive ------ 11-6	15.38.56	Sleep:180	Token:6f5a87c8-f7f5-49dc-b785-f85dcdde58f4	yu=13864 FinishTime=107
+304 Keep alive ------ 11-6	15.38.56	Sleep:180	Token:96855741-ee22-46d5-956b-22a0c6c0eb47	yu=13864 FinishTime=122
+305 Keep alive ------ 11-6	15.38.57	Sleep:180	Token:c338ce0f-befe-4b49-9b7a-efe61749ee15	yu=13863 FinishTime=62
+306 Keep alive ------ 11-6	15.38.58	Sleep:180	Token:fb094a61-f66e-4355-bf32-c4e69202a5d1	yu=13862 FinishTime=159
+400 Keep alive ------ 11-6	15.41.56	Sleep:180	Token:cb197aea-4b0c-4d01-8aa3-549367e76597	yu=13684 FinishTime=175
+401 Keep alive ------ 11-6	15.41.57	Sleep:180	Token:18c0c255-ff96-467d-8084-e2dde2ba7460	yu=13683 FinishTime=113
+402 Keep alive ------ 11-6	15.41.58	Sleep:180	Token:7af936b9-dcb1-40de-9e8c-631339497efd	yu=13682 FinishTime=57
+403 Keep alive ------ 11-6	15.41.59	Sleep:180	Token:c3839aa9-3a8d-466b-a9e6-2f2260f814d1	yu=13681 FinishTime=91
+404 Keep alive ------ 11-6	15.42.0	Sleep:180	Token:8bf80b80-78f7-4510-a190-60049e139a67	yu=13680 FinishTime=48
+405 Keep alive ------ 11-6	15.42.1	Sleep:180	Token:01dc2404-f31d-42c3-8121-f66cafa26507	yu=13679 FinishTime=94
+406 Keep alive ------ 11-6	15.42.2	Sleep:180	Token:4b899a12-37f7-4fe4-9653-71286fbc24a7	yu=13678 FinishTime=65
+500 Keep alive ------ 11-6	15.44.59	Sleep:180	Token:a7c94f70-ed92-4338-9fbf-fd6ce7e10814	yu=13501 FinishTime=152
+501 Keep alive ------ 11-6	15.45.0	Sleep:180	Token:ce617225-22be-4ca5-8697-07a3db96c0fe	yu=13500 FinishTime=115
+502 Keep alive ------ 11-6	15.45.1	Sleep:180	Token:4de45ddc-0b51-4234-a3bb-057f6b0205d4	yu=13499 FinishTime=165
+503 Keep alive ------ 11-6	15.45.2	Sleep:180	Token:7981dc5a-b8c6-4857-967a-b65151863ddb	yu=13498 FinishTime=141
+504 Keep alive ------ 11-6	15.45.3	Sleep:180	Token:0cffcd11-1ba4-470f-8031-41dc60f4c6b1	yu=13497 FinishTime=122
+505 Keep alive ------ 11-6	15.45.4	Sleep:180	Token:fef67df5-3116-4282-9f2e-dfbebf2b11ad	yu=13496 FinishTime=43
+506 Keep alive ------ 11-6	15.45.5	Sleep:180	Token:5f85a989-fbe7-4041-8212-36ba677655f5	yu=13495 FinishTime=38
+600 Keep alive ------ 11-6	15.48.2	Sleep:180	Token:e9076016-58a4-42fc-bb74-863fdb579e54	yu=13318 FinishTime=138
+601 Keep alive ------ 11-6	15.48.3	Sleep:180	Token:90a55fb7-f8eb-47c2-84f6-22a5dc6ef0d5	yu=13317 FinishTime=115
+602 Keep alive ------ 11-6	15.48.4	Sleep:180	Token:65278aa6-0d30-4914-be6d-ec3816b0540d	yu=13316 FinishTime=123
+603 Keep alive ------ 11-6	15.48.5	Sleep:180	Token:24b2e39e-5dad-4547-b7d8-e8ab3d3feefa	yu=13315 FinishTime=58
+604 Keep alive ------ 11-6	15.48.6	Sleep:180	Token:dd450b48-f57d-49db-a0e1-e22e8026d95d	yu=13314 FinishTime=67
+605 Keep alive ------ 11-6	15.48.7	Sleep:180	Token:cd5db613-053f-44a3-92cb-6eead44f930f	yu=13313 FinishTime=165
+606 Keep alive ------ 11-6	15.48.8	Sleep:180	Token:b6690a81-cadf-47ae-9452-96296788bb5f	yu=13312 FinishTime=37
+700 Keep alive ------ 11-6	15.51.5	Sleep:180	Token:db5d7712-4788-41db-90f4-e97af4e2a927	yu=13135 FinishTime=56
+701 Keep alive ------ 11-6	15.51.6	Sleep:180	Token:1ed9354c-af43-4fa4-89c5-a977357e7a3f	yu=13134 FinishTime=70
+702 Keep alive ------ 11-6	15.51.7	Sleep:180	Token:667f62e5-b9e2-46f6-bca3-1b0bce91290a	yu=13133 FinishTime=172
+703 Keep alive ------ 11-6	15.51.8	Sleep:180	Token:99ae5479-a65f-44f9-82fa-f1ee74b89d72	yu=13132 FinishTime=49
+704 Keep alive ------ 11-6	15.51.10	Sleep:180	Token:10783159-e068-4bfe-9b19-049d3be527ff	yu=13130 FinishTime=165
+705 Keep alive ------ 11-6	15.51.10	Sleep:180	Token:a705ad5c-9b90-47f0-8b9b-0733fd564ac1	yu=13130 FinishTime=55
+706 Keep alive ------ 11-6	15.51.11	Sleep:180	Token:404f2003-30f7-4472-82fc-ef024228c068	yu=13129 FinishTime=33
+800 Keep alive ------ 11-6	15.54.9	Sleep:180	Token:4a48f19e-b51c-4bb0-9785-26510ee87803	yu=12951 FinishTime=123
+801 Keep alive ------ 11-6	15.54.10	Sleep:180	Token:31656a92-6a2b-4e49-b40f-5ba70447c534	yu=12950 FinishTime=93
+802 Keep alive ------ 11-6	15.54.11	Sleep:180	Token:f66679ee-c37a-4b8b-8b9a-44baef442868	yu=12949 FinishTime=138
+803 Keep alive ------ 11-6	15.54.12	Sleep:180	Token:27b914c0-a93e-4819-ba08-ee09ba52d38f	yu=12948 FinishTime=121
+804 Keep alive ------ 11-6	15.54.13	Sleep:180	Token:f2c1dee5-339d-46ce-b785-1faaa1076fcf	yu=12947 FinishTime=178
+805 Keep alive ------ 11-6	15.54.14	Sleep:180	Token:79593608-776a-46c2-b533-d876909c68fd	yu=12946 FinishTime=174
+806 Keep alive ------ 11-6	15.54.15	Sleep:180	Token:99a4d3d0-93f2-43b9-936d-b4334ad1d4d0	yu=12945 FinishTime=95
+900 Keep alive ------ 11-6	15.57.12	Sleep:180	Token:afa192a2-1b4b-4e71-a0ad-58cbfbbe437f	yu=12768 FinishTime=38
+901 Keep alive ------ 11-6	15.57.13	Sleep:180	Token:61515183-866d-465a-9e88-455152cef075	yu=12767 FinishTime=100
+902 Keep alive ------ 11-6	15.57.14	Sleep:180	Token:f11d1b21-f5d9-45ac-b8d2-936438aa317c	yu=12766 FinishTime=101
+903 Keep alive ------ 11-6	15.57.15	Sleep:180	Token:e96d6a0a-d5cf-4706-9599-05dc70b5d08f	yu=12765 FinishTime=176
+904 Keep alive ------ 11-6	15.57.16	Sleep:180	Token:57b80ab9-5a65-42a9-b227-a08b73edaf82	yu=12764 FinishTime=142
+905 Keep alive ------ 11-6	15.57.17	Sleep:180	Token:97f8e847-09c7-4215-ad14-e2ce08c5c811	yu=12763 FinishTime=60
+906 Keep alive ------ 11-6	15.57.18	Sleep:180	Token:8931237b-79d0-466f-9579-a72f03846122	yu=12762 FinishTime=155
+1000 Keep alive ------ 11-6	16.0.15	Sleep:180	Token:dc21af84-17d4-4122-9076-52e0f47fbdb3	yu=12585 FinishTime=169
+1001 Keep alive ------ 11-6	16.0.16	Sleep:180	Token:22b6ba47-106d-48c0-a01c-b9bca303b6e2	yu=12584 FinishTime=156
+1002 Keep alive ------ 11-6	16.0.17	Sleep:180	Token:f732c032-9f1a-43a7-ab65-0340473a0c95	yu=12583 FinishTime=130
+1003 Keep alive ------ 11-6	16.0.18	Sleep:180	Token:30d53c14-ed92-4c4b-994b-79f090c2e2e4	yu=12582 FinishTime=137
+1004 Keep alive ------ 11-6	16.0.19	Sleep:180	Token:f31cfd0b-6ed7-4cc8-8c50-2f0348d6fa14	yu=12581 FinishTime=178
+1005 Keep alive ------ 11-6	16.0.20	Sleep:180	Token:77f105be-1236-4e00-b11b-d90ddd28f8c5	yu=12580 FinishTime=162
+1006 Keep alive ------ 11-6	16.0.21	Sleep:180	Token:2afcd561-0854-4fd3-88e9-3951586cbe3d	yu=12579 FinishTime=63
+1100 Keep alive ------ 11-6	16.3.18	Sleep:180	Token:6973839d-a7fe-47c6-ac66-eb709cda4457	yu=12402 FinishTime=141
+1101 Keep alive ------ 11-6	16.3.19	Sleep:180	Token:44d9fe4b-e304-414a-a13a-3da8a4173b7e	yu=12401 FinishTime=37
+1102 Keep alive ------ 11-6	16.3.20	Sleep:180	Token:42cf5f8c-72f5-4149-b47b-45ab0792c4e6	yu=12400 FinishTime=89
+1103 Keep alive ------ 11-6	16.3.21	Sleep:180	Token:ee920269-7f2d-47dd-8b03-7f09fe677dba	yu=12399 FinishTime=66
+1104 Keep alive ------ 11-6	16.3.23	Sleep:180	Token:7a003d35-66b3-4915-99f0-dc49d5a4f049	yu=12397 FinishTime=131
+1105 Keep alive ------ 11-6	16.3.23	Sleep:180	Token:0b4e4908-1491-4edb-b8e1-47098318c64e	yu=12397 FinishTime=121
+1106 Keep alive ------ 11-6	16.3.24	Sleep:180	Token:a99db786-b326-47a5-891b-3a209b566790	yu=12396 FinishTime=49
+1200 Keep alive ------ 11-6	16.6.21	Sleep:180	Token:45531154-7416-4e3c-a803-28cbf9d544c3	yu=12219 FinishTime=145
+1201 Keep alive ------ 11-6	16.6.23	Sleep:180	Token:22964651-9a66-4e49-bc18-b469be04e83f	yu=12217 FinishTime=65
+1202 Keep alive ------ 11-6	16.6.24	Sleep:180	Token:cb556a90-dab3-49c6-bdcf-ad33e994958e	yu=12216 FinishTime=59
+1203 Keep alive ------ 11-6	16.6.25	Sleep:180	Token:b71e07ca-a1d2-4273-8f29-49c80d7d8d0a	yu=12215 FinishTime=142
+1204 Keep alive ------ 11-6	16.6.26	Sleep:180	Token:22a3518b-643d-48b5-a151-333bb37d0005	yu=12214 FinishTime=82
+1205 Keep alive ------ 11-6	16.6.27	Sleep:180	Token:2cd2d08c-2fa7-436c-8830-b6b65632e1c7	yu=12213 FinishTime=96
+1206 Keep alive ------ 11-6	16.6.28	Sleep:180	Token:1e1b58e0-2491-4fce-9111-dcdaa2095226	yu=12212 FinishTime=48
+1300 Keep alive ------ 11-6	16.9.25	Sleep:180	Token:376f13ba-2488-43d4-b71c-710c9c7f9eda	yu=12035 FinishTime=65
+1301 Keep alive ------ 11-6	16.9.26	Sleep:180	Token:75ae587a-4993-452a-a629-952709494e86	yu=12034 FinishTime=159
+1302 Keep alive ------ 11-6	16.9.27	Sleep:180	Token:c333701a-7abd-44af-8a2e-84f298916235	yu=12033 FinishTime=110
+1303 Keep alive ------ 11-6	16.9.28	Sleep:180	Token:2b81c1c7-0573-408e-a371-680e962f20ff	yu=12032 FinishTime=135
+1304 Keep alive ------ 11-6	16.9.29	Sleep:180	Token:d0ef4f3e-9c5d-47b5-bbaa-cd1842fd96b5	yu=12031 FinishTime=99
+1305 Keep alive ------ 11-6	16.9.30	Sleep:180	Token:a9b2cc0a-ccdb-434c-8d88-d52ce3114991	yu=12030 FinishTime=69
+1306 Keep alive ------ 11-6	16.9.31	Sleep:180	Token:154857d8-e173-4200-9de4-ae3c9e6002b9	yu=12029 FinishTime=113
+1400 Keep alive ------ 11-6	16.12.28	Sleep:180	Token:8ae0cbcf-37d2-4eeb-8033-f28487959758	yu=11852 FinishTime=134
+1401 Keep alive ------ 11-6	16.12.29	Sleep:180	Token:039df633-8ebb-4200-a9da-268dab33b18d	yu=11851 FinishTime=177
+1402 Keep alive ------ 11-6	16.12.30	Sleep:180	Token:eedeb6b8-0b73-49d6-82e4-3f7eb10a861d	yu=11850 FinishTime=77
+1403 Keep alive ------ 11-6	16.12.31	Sleep:180	Token:6dca38c9-1dd6-4634-ab28-4614c1579452	yu=11849 FinishTime=126
+1404 Keep alive ------ 11-6	16.12.32	Sleep:180	Token:32fd3253-7720-4ea7-8251-a6289da92e9a	yu=11848 FinishTime=49
+1405 Keep alive ------ 11-6	16.12.33	Sleep:180	Token:addc471c-855f-481b-ba05-9f94feb01963	yu=11847 FinishTime=108
+1406 Keep alive ------ 11-6	16.12.34	Sleep:180	Token:bc952cec-7389-4340-acc2-65d66198900a	yu=11846 FinishTime=177
+1500 Keep alive ------ 11-6	16.15.31	Sleep:180	Token:cdcb7ecc-bba0-4b02-ac0c-be4389f32307	yu=11669 FinishTime=149
+1501 Keep alive ------ 11-6	16.15.33	Sleep:180	Token:d1a5605f-0d64-4a61-9b3c-c108738124b1	yu=11667 FinishTime=145
+1502 Keep alive ------ 11-6	16.15.33	Sleep:180	Token:22589325-65a7-4f5a-b23d-7f0f717c2526	yu=11667 FinishTime=147
+1503 Keep alive ------ 11-6	16.15.34	Sleep:180	Token:80e7c0de-c226-4713-be4a-3de2aae0a0d6	yu=11666 FinishTime=74
+1504 Keep alive ------ 11-6	16.15.36	Sleep:180	Token:fa433daa-e0fc-452e-a622-e5863fd9495b	yu=11664 FinishTime=89
+1505 Keep alive ------ 11-6	16.15.36	Sleep:180	Token:350cb5a3-ac8a-4e6c-b066-69a6f804fe6a	yu=11664 FinishTime=110
+1506 Keep alive ------ 11-6	16.15.37	Sleep:180	Token:b0791511-8131-47cc-b5ed-36afdfa7c404	yu=11663 FinishTime=57
+1600 Error: Init Token Dismiss!
+1600 Keep alive ------ 11-6	16.19.14	Sleep:180	Token:	yu=11446 FinishTime=155
+1601 Error: Init Token Dismiss!
+1601 Keep alive ------ 11-6	16.19.15	Sleep:180	Token:	yu=11445 FinishTime=158
+1604 Error: Init Token Dismiss!
+1604 Keep alive ------ 11-6	16.19.16	Sleep:180	Token:	yu=11444 FinishTime=150
+1602 Error: Init Token Dismiss!
+1602 Keep alive ------ 11-6	16.19.16	Sleep:180	Token:	yu=11444 FinishTime=87
+1605 Error: Init Token Dismiss!
+1605 Keep alive ------ 11-6	16.19.16	Sleep:180	Token:	yu=11444 FinishTime=100
+1603 Error: Init Token Dismiss!
+1603 Keep alive ------ 11-6	16.19.17	Sleep:180	Token:	yu=11443 FinishTime=103
+1606 Error: Init Token Dismiss!
+1606 Keep alive ------ 11-6	16.19.17	Sleep:180	Token:	yu=11443 FinishTime=127
+Start: ====== 11-6 16.25.4
+103 Error: Init Token Dismiss!
+103 Keep alive ------ 11-6	16.25.8	Sleep:180	Token:	yu=11092 FinishTime=61
+102 Error: Init Token Dismiss!
+100 Error: Init Token Dismiss!
+101 Error: Init Token Dismiss!
+100 Keep alive ------ 11-6	16.25.8	Sleep:180	Token:	yu=11092 FinishTime=49
+102 Keep alive ------ 11-6	16.25.8	Sleep:180	Token:	yu=11092 FinishTime=161
+101 Keep alive ------ 11-6	16.25.8	Sleep:180	Token:	yu=11092 FinishTime=30
+104 Error: Init Token Dismiss!
+104 Keep alive ------ 11-6	16.25.9	Sleep:180	Token:	yu=11091 FinishTime=82
+105 Error: Init Token Dismiss!
+105 Keep alive ------ 11-6	16.25.10	Sleep:180	Token:	yu=11090 FinishTime=110
+106 Error: Init Token Dismiss!
+106 Keep alive ------ 11-6	16.25.11	Sleep:180	Token:	yu=11089 FinishTime=62
+Start: ====== 11-6 16.33.44
+102 Error: Init Token Dismiss!
+102 Keep alive ------ 11-6	16.33.47	Sleep:180	Token:	yu=10573 FinishTime=45
+103 Error: Init Token Dismiss!
+103 Keep alive ------ 11-6	16.33.48	Sleep:180	Token:	yu=10572 FinishTime=107
+104 Error: Init Token Dismiss!
+104 Keep alive ------ 11-6	16.33.49	Sleep:180	Token:	yu=10571 FinishTime=95
+100 Error: Init Token Dismiss!
+101 Error: Init Token Dismiss!
+100 Keep alive ------ 11-6	16.33.49	Sleep:180	Token:	yu=10571 FinishTime=127
+101 Keep alive ------ 11-6	16.33.50	Sleep:180	Token:	yu=10570 FinishTime=78
+105 Error: Init Token Dismiss!
+105 Keep alive ------ 11-6	16.33.50	Sleep:180	Token:	yu=10570 FinishTime=170
+106 Error: Init Token Dismiss!
+106 Keep alive ------ 11-6	16.33.51	Sleep:180	Token:	yu=10569 FinishTime=103
+Start: ====== 11-6 17.14.50
+100 Keep alive ------ 11-6	17.14.54	Sleep:180	Token:a06ed638-6a98-4fb3-ad88-8df624c39aa9	yu=8106 FinishTime=34
+101 Keep alive ------ 11-6	17.14.55	Sleep:180	Token:f90afbd5-1ce9-4789-8d95-620dca80a4d7	yu=8105 FinishTime=43
+102 Keep alive ------ 11-6	17.14.56	Sleep:180	Token:db736d3f-65aa-41c4-a61e-004fcda53943	yu=8104 FinishTime=59
+103 Keep alive ------ 11-6	17.14.58	Sleep:180	Token:ef58dfbb-d3d3-41a9-9ec9-93d6cc94bc1f	yu=8102 FinishTime=81
+104 Keep alive ------ 11-6	17.14.58	Sleep:180	Token:3e809ea7-b081-41b4-9c9a-967d1fca11a9	yu=8102 FinishTime=109
+105 Keep alive ------ 11-6	17.15.0	Sleep:180	Token:a2e88fa8-a8c2-4e58-8543-de8a422463ea	yu=8100 FinishTime=144
+106 Keep alive ------ 11-6	17.15.0	Sleep:180	Token:e23c7ce2-2535-4beb-bd5f-0a11a6bb9540	yu=8100 FinishTime=36
+200 Keep alive ------ 11-6	17.17.58	Sleep:180	Token:1cf27fa6-1795-4f41-9d5a-922fbf795cd1	yu=7922 FinishTime=148
+201 Keep alive ------ 11-6	17.17.59	Sleep:180	Token:5249c3f7-b2b2-4612-a8f5-c5f19af5f649	yu=7921 FinishTime=31
+202 Keep alive ------ 11-6	17.18.0	Sleep:180	Token:f7ef3fd4-3afb-45f7-9313-3fb27b9ef0d9	yu=7920 FinishTime=71
+203 Keep alive ------ 11-6	17.18.1	Sleep:180	Token:7ad2c5db-fee3-4d0a-811d-f70118079e83	yu=7919 FinishTime=117
+204 Keep alive ------ 11-6	17.18.2	Sleep:180	Token:854d9fd8-7a15-4c9e-bcb5-aab666bc9904	yu=7918 FinishTime=170
+205 Keep alive ------ 11-6	17.18.3	Sleep:180	Token:61e315c9-47ac-444f-a6e7-03f2258dfc7c	yu=7917 FinishTime=79
+206 Keep alive ------ 11-6	17.18.4	Sleep:180	Token:da6b3c4d-5ad2-42a6-a086-ad086e654f79	yu=7916 FinishTime=145
+300 Keep alive ------ 11-6	17.21.1	Sleep:180	Token:7c37905d-84ae-45d0-979e-4c4ab9152bc9	yu=7739 FinishTime=110
+301 Keep alive ------ 11-6	17.21.2	Sleep:180	Token:7e8e6361-bdde-402c-a6ad-d2058722719c	yu=7738 FinishTime=168
+302 Keep alive ------ 11-6	17.21.3	Sleep:180	Token:e8840055-81bc-4ec8-bd2c-eaa71dd66f9f	yu=7737 FinishTime=81
+303 Keep alive ------ 11-6	17.21.4	Sleep:180	Token:8b94e2f1-a2cd-4035-9f81-9a258e2d533a	yu=7736 FinishTime=91
+304 Keep alive ------ 11-6	17.21.5	Sleep:180	Token:816efba9-2d3e-4d71-91dd-467da9852e14	yu=7735 FinishTime=79
+305 Keep alive ------ 11-6	17.21.6	Sleep:180	Token:7cd50ec7-0f7e-4e81-a926-daf6b10e0322	yu=7734 FinishTime=162
+306 Keep alive ------ 11-6	17.21.7	Sleep:180	Token:c31bbe5e-76a4-42c4-a119-f564926e7e82	yu=7733 FinishTime=102
+400 Keep alive ------ 11-6	17.24.4	Sleep:180	Token:cc740a12-bd22-4057-b4a4-94ed459a8640	yu=7556 FinishTime=177
+401 Keep alive ------ 11-6	17.24.5	Sleep:180	Token:800ade5a-7ef8-47d2-ac7f-228ffb6420fa	yu=7555 FinishTime=152
+402 Keep alive ------ 11-6	17.24.6	Sleep:180	Token:d83e624b-83cc-4556-8f39-39cb06c21a40	yu=7554 FinishTime=90
+403 Keep alive ------ 11-6	17.24.8	Sleep:180	Token:366c5d38-ce82-4275-afa0-aa4564d818a2	yu=7552 FinishTime=151
+404 Keep alive ------ 11-6	17.24.8	Sleep:180	Token:2e814826-1fda-4990-a542-9f87495aacbe	yu=7552 FinishTime=136
+405 Keep alive ------ 11-6	17.24.9	Sleep:180	Token:dbccf0c5-3870-4990-9839-b7fe4f82f1bd	yu=7551 FinishTime=66
+406 Keep alive ------ 11-6	17.24.10	Sleep:180	Token:488db58b-f62b-45e3-b736-dfe5519b7d26	yu=7550 FinishTime=33
+500 Keep alive ------ 11-6	17.27.7	Sleep:180	Token:7abbe489-9640-47c7-a9cc-d356a67bae35	yu=7373 FinishTime=80
+501 Keep alive ------ 11-6	17.27.8	Sleep:180	Token:caab686a-b249-445c-96a9-5ddf9a266784	yu=7372 FinishTime=39
+502 Keep alive ------ 11-6	17.27.9	Sleep:180	Token:3259c7c2-184e-4940-a539-a878a681255a	yu=7371 FinishTime=154
+503 Keep alive ------ 11-6	17.27.11	Sleep:180	Token:e66214e2-a943-4960-993d-cb711dbeb473	yu=7369 FinishTime=126
+504 Keep alive ------ 11-6	17.27.11	Sleep:180	Token:9601d2c7-1a95-4519-a9a6-f20f99580526	yu=7369 FinishTime=105
+505 Keep alive ------ 11-6	17.27.13	Sleep:180	Token:d53833c0-6e6a-446a-bf7b-ed445b22e86a	yu=7367 FinishTime=90
+506 Keep alive ------ 11-6	17.27.14	Sleep:180	Token:387a0702-612e-4521-ac4f-ce60c212625a	yu=7366 FinishTime=82
+600 Keep alive ------ 11-6	17.30.11	Sleep:180	Token:b5b6b099-da5e-4174-97e2-afd0f6f8ca7e	yu=7189 FinishTime=131
+601 Keep alive ------ 11-6	17.30.12	Sleep:180	Token:41b89dcc-8fbc-47af-98e8-7662a620d95b	yu=7188 FinishTime=114
+602 Keep alive ------ 11-6	17.30.13	Sleep:180	Token:cc754589-5e92-4237-a20b-c904f66608a3	yu=7187 FinishTime=104
+603 Keep alive ------ 11-6	17.30.14	Sleep:180	Token:dc73c9a7-30ca-479d-9703-668876f51827	yu=7186 FinishTime=100
+604 Keep alive ------ 11-6	17.30.15	Sleep:180	Token:7a0f6309-9f83-46a8-8267-f022d8d55859	yu=7185 FinishTime=103
+605 Keep alive ------ 11-6	17.30.16	Sleep:180	Token:0adb82c5-c0cb-44ad-b044-2c3c97cbc49c	yu=7184 FinishTime=112
+606 Keep alive ------ 11-6	17.30.17	Sleep:180	Token:3a0778d9-cb9b-40d5-8919-22bfe373b920	yu=7183 FinishTime=128
+700 Keep alive ------ 11-6	17.33.14	Sleep:180	Token:ce9c8ea0-b969-4ba7-b688-f5ea39b7ec58	yu=7006 FinishTime=99
+701 Keep alive ------ 11-6	17.33.15	Sleep:180	Token:23c88378-f251-41ff-8260-00b9dd4880ab	yu=7005 FinishTime=38
+702 Keep alive ------ 11-6	17.33.16	Sleep:180	Token:f088cbdd-0429-4430-8b67-d884ce033767	yu=7004 FinishTime=52
+703 Keep alive ------ 11-6	17.33.17	Sleep:180	Token:e9fa0417-034d-4f4b-b996-412f7e27b0b4	yu=7003 FinishTime=118
+704 Keep alive ------ 11-6	17.33.18	Sleep:180	Token:bf3063ab-acc6-4eed-83f3-6c9b42b5fb3e	yu=7002 FinishTime=99
+705 Keep alive ------ 11-6	17.33.19	Sleep:180	Token:b601a0da-334a-4784-941f-0e3d9919fdf5	yu=7001 FinishTime=35
+706 Keep alive ------ 11-6	17.33.20	Sleep:180	Token:aa80505e-d6b9-4b73-968a-53199c6a63a0	yu=7000 FinishTime=78
+800 Keep alive ------ 11-6	17.36.17	Sleep:180	Token:22dc7835-5633-4fc2-b6fa-cb10e22466e4	yu=6823 FinishTime=147
+801 Keep alive ------ 11-6	17.36.18	Sleep:180	Token:e855f7b5-efad-42a5-a946-26633da638ff	yu=6822 FinishTime=178
+802 Keep alive ------ 11-6	17.36.19	Sleep:180	Token:e8a7d67d-db42-4400-9b58-1c13107da8c0	yu=6821 FinishTime=66
+803 Keep alive ------ 11-6	17.36.20	Sleep:180	Token:0aef4159-b66c-4926-9954-2a04e7bfb4d1	yu=6820 FinishTime=33
+804 Keep alive ------ 11-6	17.36.21	Sleep:180	Token:41dcd10b-5dae-4eb8-b357-fd8976c5cbcd	yu=6819 FinishTime=162
+805 Keep alive ------ 11-6	17.36.22	Sleep:180	Token:bb78b080-543a-430f-9fe9-a7458a63ce65	yu=6818 FinishTime=148
+806 Keep alive ------ 11-6	17.36.23	Sleep:180	Token:e9d98466-7a5f-45bb-9356-deba6674496d	yu=6817 FinishTime=65
+900 Keep alive ------ 11-6	17.39.20	Sleep:180	Token:26b21291-8fa5-4aa7-97c5-609bdb306c1a	yu=6640 FinishTime=50
+901 Keep alive ------ 11-6	17.39.21	Sleep:180	Token:e01d8cd9-1b4e-4739-b21d-7109663a5348	yu=6639 FinishTime=109
+902 Keep alive ------ 11-6	17.39.22	Sleep:180	Token:48900b30-58f1-4232-930f-d6c00cb69072	yu=6638 FinishTime=174
+903 Keep alive ------ 11-6	17.39.24	Sleep:180	Token:4123b266-5b6d-47d5-afa1-41eee6463a65	yu=6636 FinishTime=96
+904 Keep alive ------ 11-6	17.39.24	Sleep:180	Token:f0bfced8-0dcb-4463-aac8-e35bd537bc47	yu=6636 FinishTime=174
+905 Keep alive ------ 11-6	17.39.26	Sleep:180	Token:c0dd9f60-3daa-44d1-938f-0dce6d53d38a	yu=6634 FinishTime=109
+906 Keep alive ------ 11-6	17.39.27	Sleep:180	Token:e2644f7c-2448-4633-942b-7b98a68ba74a	yu=6633 FinishTime=51
+1006 Error: Init Token Dismiss!
+1001 Error: Init Token Dismiss!
+1005 Error: Init Token Dismiss!
+1003 Error: Init Token Dismiss!
+1001 Keep alive ------ 11-6	17.42.30	Sleep:180	Token:	yu=6450 FinishTime=53
+1004 Error: Init Token Dismiss!
+1002 Error: Init Token Dismiss!
+1006 Keep alive ------ 11-6	17.42.30	Sleep:180	Token:	yu=6450 FinishTime=155
+1000 Error: Init Token Dismiss!
+1002 Keep alive ------ 11-6	17.42.30	Sleep:180	Token:	yu=6450 FinishTime=44
+1004 Keep alive ------ 11-6	17.42.30	Sleep:180	Token:	yu=6450 FinishTime=174
+1005 Keep alive ------ 11-6	17.42.30	Sleep:180	Token:	yu=6450 FinishTime=164
+1003 Keep alive ------ 11-6	17.42.30	Sleep:180	Token:	yu=6450 FinishTime=34
+1000 Keep alive ------ 11-6	17.42.30	Sleep:180	Token:	yu=6450 FinishTime=63
+1001 Keep alive ------ 11-6	17.45.30	Sleep:180	Token:	yu=6270 FinishTime=53
+1006 Keep alive ------ 11-6	17.45.30	Sleep:180	Token:	yu=6270 FinishTime=155
+1002 Keep alive ------ 11-6	17.45.30	Sleep:180	Token:	yu=6270 FinishTime=44
+1004 Keep alive ------ 11-6	17.45.30	Sleep:180	Token:	yu=6270 FinishTime=174
+1003 Keep alive ------ 11-6	17.45.30	Sleep:180	Token:	yu=6270 FinishTime=34
+1000 Keep alive ------ 11-6	17.45.30	Sleep:180	Token:	yu=6270 FinishTime=63
+1005 Keep alive ------ 11-6	17.45.30	Sleep:180	Token:	yu=6270 FinishTime=164
+1001 Keep alive ------ 11-6	17.48.30	Sleep:180	Token:	yu=6090 FinishTime=53
+1006 Keep alive ------ 11-6	17.48.30	Sleep:180	Token:	yu=6090 FinishTime=155
+1002 Keep alive ------ 11-6	17.48.30	Sleep:180	Token:	yu=6090 FinishTime=44
+1004 Keep alive ------ 11-6	17.48.30	Sleep:180	Token:	yu=6090 FinishTime=174
+1003 Keep alive ------ 11-6	17.48.30	Sleep:180	Token:	yu=6090 FinishTime=34
+1005 Keep alive ------ 11-6	17.48.30	Sleep:180	Token:	yu=6090 FinishTime=164
+1000 Keep alive ------ 11-6	17.48.30	Sleep:180	Token:	yu=6090 FinishTime=63
+1001 Keep alive ------ 11-6	17.51.30	Sleep:180	Token:	yu=5910 FinishTime=53
+1006 Keep alive ------ 11-6	17.51.30	Sleep:180	Token:	yu=5910 FinishTime=155
+1002 Keep alive ------ 11-6	17.51.30	Sleep:180	Token:	yu=5910 FinishTime=44
+1004 Keep alive ------ 11-6	17.51.30	Sleep:180	Token:	yu=5910 FinishTime=174
+1003 Keep alive ------ 11-6	17.51.30	Sleep:180	Token:	yu=5910 FinishTime=34
+1000 Keep alive ------ 11-6	17.51.30	Sleep:180	Token:	yu=5910 FinishTime=63
+1005 Keep alive ------ 11-6	17.51.30	Sleep:180	Token:	yu=5910 FinishTime=164
+1001 Keep alive ------ 11-6	17.54.30	Sleep:180	Token:	yu=5730 FinishTime=53
+1006 Keep alive ------ 11-6	17.54.30	Sleep:180	Token:	yu=5730 FinishTime=155
+1002 Keep alive ------ 11-6	17.54.30	Sleep:180	Token:	yu=5730 FinishTime=44
+1004 Keep alive ------ 11-6	17.54.30	Sleep:180	Token:	yu=5730 FinishTime=174
+1003 Keep alive ------ 11-6	17.54.30	Sleep:180	Token:	yu=5730 FinishTime=34
+1000 Keep alive ------ 11-6	17.54.30	Sleep:180	Token:	yu=5730 FinishTime=63
+1005 Keep alive ------ 11-6	17.54.31	Sleep:180	Token:	yu=5729 FinishTime=164
+1001 Keep alive ------ 11-6	17.57.30	Sleep:180	Token:	yu=5550 FinishTime=53
+1006 Keep alive ------ 11-6	17.57.30	Sleep:180	Token:	yu=5550 FinishTime=155
+1002 Keep alive ------ 11-6	17.57.30	Sleep:180	Token:	yu=5550 FinishTime=44
+1004 Keep alive ------ 11-6	17.57.30	Sleep:180	Token:	yu=5550 FinishTime=174
+1003 Keep alive ------ 11-6	17.57.30	Sleep:180	Token:	yu=5550 FinishTime=34
+1000 Keep alive ------ 11-6	17.57.31	Sleep:180	Token:	yu=5549 FinishTime=63
+1005 Keep alive ------ 11-6	17.57.31	Sleep:180	Token:	yu=5549 FinishTime=164
+1001 Keep alive ------ 11-6	18.0.30	Sleep:180	Token:	yu=5370 FinishTime=53
+1006 Keep alive ------ 11-6	18.0.30	Sleep:180	Token:	yu=5370 FinishTime=155
+1002 Keep alive ------ 11-6	18.0.30	Sleep:180	Token:	yu=5370 FinishTime=44
+1004 Keep alive ------ 11-6	18.0.30	Sleep:180	Token:	yu=5370 FinishTime=174
+1003 Keep alive ------ 11-6	18.0.30	Sleep:180	Token:	yu=5370 FinishTime=34
+1000 Keep alive ------ 11-6	18.0.31	Sleep:180	Token:	yu=5369 FinishTime=63
+1005 Keep alive ------ 11-6	18.0.31	Sleep:180	Token:	yu=5369 FinishTime=164
+1001 Keep alive ------ 11-6	18.3.30	Sleep:180	Token:	yu=5190 FinishTime=53
+1006 Keep alive ------ 11-6	18.3.30	Sleep:180	Token:	yu=5190 FinishTime=155
+1002 Keep alive ------ 11-6	18.3.30	Sleep:180	Token:	yu=5190 FinishTime=44
+1004 Keep alive ------ 11-6	18.3.30	Sleep:180	Token:	yu=5190 FinishTime=174
+1003 Keep alive ------ 11-6	18.3.30	Sleep:180	Token:	yu=5190 FinishTime=34
+1000 Keep alive ------ 11-6	18.3.31	Sleep:180	Token:	yu=5189 FinishTime=63
+1005 Keep alive ------ 11-6	18.3.31	Sleep:180	Token:	yu=5189 FinishTime=164
+1001 Keep alive ------ 11-6	18.6.30	Sleep:180	Token:	yu=5010 FinishTime=53
+1006 Keep alive ------ 11-6	18.6.30	Sleep:180	Token:	yu=5010 FinishTime=155
+1002 Keep alive ------ 11-6	18.6.30	Sleep:180	Token:	yu=5010 FinishTime=44
+1004 Keep alive ------ 11-6	18.6.30	Sleep:180	Token:	yu=5010 FinishTime=174
+1003 Keep alive ------ 11-6	18.6.31	Sleep:180	Token:	yu=5009 FinishTime=34
+1000 Keep alive ------ 11-6	18.6.31	Sleep:180	Token:	yu=5009 FinishTime=63
+1005 Keep alive ------ 11-6	18.6.31	Sleep:180	Token:	yu=5009 FinishTime=164
+1001 Keep alive ------ 11-6	18.9.30	Sleep:180	Token:	yu=4830 FinishTime=53
+1006 Keep alive ------ 11-6	18.9.30	Sleep:180	Token:	yu=4830 FinishTime=155
+1002 Keep alive ------ 11-6	18.9.30	Sleep:180	Token:	yu=4830 FinishTime=44
+1004 Keep alive ------ 11-6	18.9.31	Sleep:180	Token:	yu=4829 FinishTime=174
+1003 Keep alive ------ 11-6	18.9.31	Sleep:180	Token:	yu=4829 FinishTime=34
+1000 Keep alive ------ 11-6	18.9.31	Sleep:180	Token:	yu=4829 FinishTime=63
+1005 Keep alive ------ 11-6	18.9.31	Sleep:180	Token:	yu=4829 FinishTime=164
+Start: ====== 11-6 18.9.44
+100 Error: Init Token Dismiss!
+100 Keep alive ------ 11-6	18.9.48	Sleep:180	Token:	yu=4812 FinishTime=98
+101 Error: Init Token Dismiss!
+101 Keep alive ------ 11-6	18.9.50	Sleep:180	Token:	yu=4810 FinishTime=97
+105 Error: Init Token Dismiss!
+105 Keep alive ------ 11-6	18.9.52	Sleep:180	Token:	yu=4808 FinishTime=48
+Start: ====== 11-6 19.3.51
+100 Keep alive ------ 11-6	19.3.55	Sleep:180	Token:5821e8bd-8976-4eeb-913b-e0aead9ed836	yu=1565 FinishTime=33
+101 Keep alive ------ 11-6	19.3.56	Sleep:180	Token:1e81d61c-68c2-437f-8fa6-f3252e86ea52	yu=1564 FinishTime=31
+102 Keep alive ------ 11-6	19.3.57	Sleep:180	Token:183e8c05-530c-439c-8a4d-3c6822923f14	yu=1563 FinishTime=23
+103 Keep alive ------ 11-6	19.3.58	Sleep:180	Token:0dc2f8d0-5fd7-45f2-92d7-6ffb3b79b8d3	yu=1562 FinishTime=34
+104 Keep alive ------ 11-6	19.3.59	Sleep:180	Token:6fac329e-bc2f-4ca5-a765-8b9c67995768	yu=1561 FinishTime=32
+105 Keep alive ------ 11-6	19.4.0	Sleep:180	Token:2f06bca6-fd8b-498f-b940-6230590fa69c	yu=1560 FinishTime=24
+106 Keep alive ------ 11-6	19.4.1	Sleep:180	Token:5c4103ed-35de-459a-8467-769f61d18cfb	yu=1559 FinishTime=34
+Start: ====== 11-6 19.4.26
+100 Keep alive ------ 11-6	19.4.31	Sleep:60	Token:853f920e-f97a-4a2c-8a1b-4ead782228ed	yu=1529 FinishTime=21
+101 Keep alive ------ 11-6	19.4.31	Sleep:60	Token:1f56c9e9-45b2-4bf3-818d-e17e75100ccd	yu=1529 FinishTime=24
+102 Keep alive ------ 11-6	19.4.32	Sleep:60	Token:121f6592-048f-459e-877d-9cc2eee13961	yu=1528 FinishTime=26
+103 Keep alive ------ 11-6	19.4.34	Sleep:60	Token:a7a65a67-0176-4ba9-abbd-6ad405e0ff0d	yu=1526 FinishTime=23
+104 Keep alive ------ 11-6	19.4.34	Sleep:60	Token:f2f4c308-20d7-4d43-be74-2e1697787580	yu=1526 FinishTime=38
+105 Keep alive ------ 11-6	19.4.36	Sleep:60	Token:9edc4100-46cf-43c1-8bcc-3bb10f69f860	yu=1524 FinishTime=20
+106 Keep alive ------ 11-6	19.4.36	Sleep:60	Token:7271fff7-ba71-4ce3-a07f-7c8fd19f93fc	yu=1524 FinishTime=36
+100 Keep alive ------ 11-6	19.5.32	Sleep:60	Token:722865a3-7206-4687-91df-ae129f96559e	yu=1468 FinishTime=21
+101 Keep alive ------ 11-6	19.5.33	Sleep:60	Token:40ceea51-0f8f-4e95-a221-b1cd5461a534	yu=1467 FinishTime=24
+102 Keep alive ------ 11-6	19.5.34	Sleep:60	Token:91cf0deb-4d2f-416f-b03e-9309f2b4947e	yu=1466 FinishTime=26
+103 Keep alive ------ 11-6	19.5.35	Sleep:60	Token:11aa0a4f-c394-4fed-a50a-9aa857817bed	yu=1465 FinishTime=23
+104 Keep alive ------ 11-6	19.5.36	Sleep:60	Token:6c61222c-e9d5-4736-85b1-6deb441784a2	yu=1464 FinishTime=38
+105 Keep alive ------ 11-6	19.5.37	Sleep:60	Token:3e198f56-70d4-48dd-9436-cdc30be55220	yu=1463 FinishTime=20
+106 Keep alive ------ 11-6	19.5.38	Sleep:60	Token:3a07f601-37f9-4671-a198-c342ba04a7e1	yu=1462 FinishTime=36
+100 Keep alive ------ 11-6	19.6.34	Sleep:60	Token:31e23371-ce13-4b24-bad3-449a08f8a99a	yu=1406 FinishTime=21
+101 Keep alive ------ 11-6	19.6.35	Sleep:60	Token:cf4efee0-e9ec-4305-8f2c-035d4b225c5a	yu=1405 FinishTime=24
+102 Keep alive ------ 11-6	19.6.36	Sleep:60	Token:f5a791e0-bb5c-4002-8880-03b10a8c150e	yu=1404 FinishTime=26
+103 Keep alive ------ 11-6	19.6.37	Sleep:60	Token:d11ae899-30c5-49b9-b782-9c3119d9cfee	yu=1403 FinishTime=23
+104 Keep alive ------ 11-6	19.6.38	Sleep:60	Token:2bb2956b-40d7-42bf-9af4-e4f089e9afd6	yu=1402 FinishTime=38
+105 Keep alive ------ 11-6	19.6.39	Sleep:60	Token:ddf8bab4-079c-43bf-82b6-38eff8a0da87	yu=1401 FinishTime=20
+106 Keep alive ------ 11-6	19.6.40	Sleep:60	Token:0063c3f1-a101-4fff-834b-cf8db415374d	yu=1400 FinishTime=36
+100 Keep alive ------ 11-6	19.7.36	Sleep:60	Token:562f74cd-e4b2-4743-a715-0e41ba4bbd41	yu=1344 FinishTime=21
+101 Keep alive ------ 11-6	19.7.36	Sleep:60	Token:8fe2e8f8-3fe5-4fe0-8ee7-9184b60f9240	yu=1344 FinishTime=24
+102 Keep alive ------ 11-6	19.7.37	Sleep:60	Token:a1a1aaf6-0780-4537-8ddb-93bb76e8d45f	yu=1343 FinishTime=26
+103 Keep alive ------ 11-6	19.7.38	Sleep:60	Token:ed8fa9ca-835b-46a1-8d32-ab2bc09a93b5	yu=1342 FinishTime=23
+104 Keep alive ------ 11-6	19.7.39	Sleep:60	Token:15de7e73-6735-4478-8fb6-6c5af0c1b8b7	yu=1341 FinishTime=38
+105 Keep alive ------ 11-6	19.7.40	Sleep:60	Token:b535b19d-584c-4f8e-bb2c-c5970a735860	yu=1340 FinishTime=20
+106 Keep alive ------ 11-6	19.7.41	Sleep:60	Token:3f6614fe-5111-4374-b713-3e8537308a61	yu=1339 FinishTime=36
+100 Keep alive ------ 11-6	19.8.37	Sleep:60	Token:b77cb960-cfb7-45cd-b4ad-7a5d2ee16a11	yu=1283 FinishTime=21
+101 Keep alive ------ 11-6	19.8.38	Sleep:60	Token:a3a1d261-9abb-4109-b08d-661d1469c801	yu=1282 FinishTime=24
+102 Keep alive ------ 11-6	19.8.39	Sleep:60	Token:608ef6c8-6672-48f0-bdad-a064397d932f	yu=1281 FinishTime=26
+103 Keep alive ------ 11-6	19.8.40	Sleep:60	Token:9fe2cd6e-52ac-44b1-9962-d5bd3bad766f	yu=1280 FinishTime=23
+104 Keep alive ------ 11-6	19.8.41	Sleep:60	Token:36e69ef6-e7e7-4df9-bedf-2662f76e20d4	yu=1279 FinishTime=38
+105 Keep alive ------ 11-6	19.8.42	Sleep:60	Token:ae6b1612-7804-4645-843a-ea7530ae05ea	yu=1278 FinishTime=20
+106 Keep alive ------ 11-6	19.8.43	Sleep:60	Token:27697e8f-052a-4ad5-ac75-ff7edf577be3	yu=1277 FinishTime=36
+Start: ====== 11-6 19.8.59
+100 Keep alive ------ 11-6	19.9.3	Sleep:22	Token:d5a58239-eb31-4992-bf2a-48b6180691b7	yu=57 FinishTime=35
+101 Keep alive ------ 11-6	19.9.5	Sleep:33	Token:ec821ce7-f01f-41eb-a57e-a0bef50ffa6c	yu=55 FinishTime=22
+102 Keep alive ------ 11-6	19.9.6	Sleep:18	Token:bf686ffe-6540-46db-bbf4-df0cffb7735f	yu=54 FinishTime=36
+103 Keep alive ------ 11-6	19.9.6	Sleep:27	Token:31f3f892-2cd0-4858-8ef1-e11e631dc3bf	yu=54 FinishTime=27
+104 Keep alive ------ 11-6	19.9.7	Sleep:22	Token:7b47a62f-097d-4532-a58f-13dc2b609030	yu=53 FinishTime=31
+105 Keep alive ------ 11-6	19.9.8	Sleep:23	Token:f4024b35-e1de-4207-bfe0-e07ad1191e27	yu=52 FinishTime=29
+106 Keep alive ------ 11-6	19.9.9	Sleep:26	Token:47ca3c58-6ef5-4111-8a4b-98ceb4590584	yu=51 FinishTime=25
+102 Ready do post ------ 11-6	19.9.25	Sleep:36	Token:828374cb-fdc6-4652-976a-164140665d1f	yu=35
+100 Ready do post ------ 11-6	19.9.27	Sleep:34	Token:d0c20893-c3b8-448c-8f9e-0c572af5bb78	yu=33
+104 Ready do post ------ 11-6	19.9.31	Sleep:30	Token:13169e5c-7a2f-4094-a08a-2f43b0aa7c43	yu=29
+105 Ready do post ------ 11-6	19.9.33	Sleep:28	Token:256b3673-04f4-4c86-ace7-8ebb0a948047	yu=27
+103 Ready do post ------ 11-6	19.9.35	Sleep:26	Token:89e12c26-2a0c-4d4a-9f68-7dd2479e634c	yu=25
+106 Ready do post ------ 11-6	19.9.37	Sleep:24	Token:96918a49-2989-4af2-aa93-49f496facc32	yu=23
+101 Ready do post ------ 11-6	19.9.39	Sleep:22	Token:759397d8-bfb3-47ee-b082-b41918aee2d4	yu=21
+Start: ====== 11-6 19.11.16
+100 Keep alive ------ 11-6	19.11.20	Sleep:9	Token:a52c5e4f-0fee-4cdc-9ec6-1c494dfb59c3	yu=40 FinishTime=31
+101 Keep alive ------ 11-6	19.11.21	Sleep:9	Token:b1c80e36-c61b-492f-9b30-6c72729a4411	yu=39 FinishTime=30
+102 Keep alive ------ 11-6	19.11.22	Sleep:17	Token:98ce0d88-0350-4135-b243-fd8ef75d27e8	yu=38 FinishTime=21
+103 Keep alive ------ 11-6	19.11.23	Sleep:5	Token:57ddadba-0eb5-42d9-805d-66b4ddc6f8a1	yu=37 FinishTime=32
+104 Keep alive ------ 11-6	19.11.24	Sleep:5	Token:818f41df-6aad-47f9-a6e7-e94d2a99daa4	yu=36 FinishTime=31
+105 Keep alive ------ 11-6	19.11.25	Sleep:4	Token:af3b35e5-6e54-44df-b842-3fb8adb2f7d4	yu=35 FinishTime=31
+106 Keep alive ------ 11-6	19.11.26	Sleep:2	Token:81421095-2923-42a7-b792-dbf9ee3912d3	yu=34 FinishTime=32
+103 Ready do post ------ 11-6	19.11.30	Sleep:31	Token:76abbde8-bd1b-4b89-a1f8-c04f96a0d0fc	yu=30
+106 Ready do post ------ 11-6	19.11.30	Sleep:31	Token:58cc53f7-4aa8-458d-940c-b19e2aa67c22	yu=30
+100 Ready do post ------ 11-6	19.11.31	Sleep:30	Token:d68bcf18-a1ce-4eaa-a3bb-a6b4f9715fb2	yu=29
+105 Ready do post ------ 11-6	19.11.31	Sleep:30	Token:044ee57d-7b00-48ac-8a40-3c6fdee9999d	yu=29
+104 Ready do post ------ 11-6	19.11.31	Sleep:30	Token:317368a8-b6b2-4787-957b-eec420cc74ca	yu=29
+101 Ready do post ------ 11-6	19.11.32	Sleep:29	Token:cceb86c1-28bd-4028-9e11-49a49e928d7c	yu=28
+102 Ready do post ------ 11-6	19.11.41	Sleep:20	Token:e408e4c4-af81-40c5-a2dd-94c4bbd6b4ff	yu=19
+Start: ====== 11-6 19.13.10
+100 Ready do post ------ 11-6	19.13.12	Sleep:-71	Token:380a9446-1c7d-421c-9dff-1b82d4c3d80a	yu=-72
+100 Sended post ------ 11-6	19.13.13	Token:380a9446-1c7d-421c-9dff-1b82d4c3d80a
+100 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+100 Insurance! ------ 
+101 Ready do post ------ 11-6	19.13.13	Sleep:-72	Token:c702a0d9-9c8c-44db-bde8-22739cbc9757	yu=-73
+101 Sended post ------ 11-6	19.13.14	Token:c702a0d9-9c8c-44db-bde8-22739cbc9757
+101 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+101 Insurance! ------ 
+102 Ready do post ------ 11-6	19.13.14	Sleep:-73	Token:7d049ef2-0d3b-4428-a833-1f212830b34c	yu=-74
+102 Sended post ------ 11-6	19.13.14	Token:7d049ef2-0d3b-4428-a833-1f212830b34c
+102 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+100 Single One ------ 11-6	19.13.15	Seat:82	Token:737b2763-11a3-4782-955a-22e3801ca27f
+100 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+102 Insurance! ------ 
+103 Ready do post ------ 11-6	19.13.15	Sleep:-74	Token:48145139-d033-4f23-9e83-2dcf6746dcaf	yu=-75
+103 Sended post ------ 11-6	19.13.15	Token:48145139-d033-4f23-9e83-2dcf6746dcaf
+103 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+103 Insurance! ------ 
+101 Single One ------ 11-6	19.13.16	Seat:82	Token:83ea3589-e02e-48df-9862-5887ed417ae9
+101 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+104 Ready do post ------ 11-6	19.13.16	Sleep:-75	Token:627b0de4-6a48-445e-9ba3-9664076ea74f	yu=-76
+104 Sended post ------ 11-6	19.13.16	Token:627b0de4-6a48-445e-9ba3-9664076ea74f
+104 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+102 Single One ------ 11-6	19.13.17	Seat:82	Token:36439cfb-7113-40de-93f7-bc104f9b1e35
+102 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+104 Insurance! ------ 
+100 Single One ------ 11-6	19.13.17	Seat:81	Token:9662a136-4d41-4111-8312-200d2f28911b
+100 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+105 Ready do post ------ 11-6	19.13.17	Sleep:-76	Token:71b4c73c-7541-4eba-81a9-0165d94ea542	yu=-77
+105 Sended post ------ 11-6	19.13.17	Token:71b4c73c-7541-4eba-81a9-0165d94ea542
+105 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+103 Single One ------ 11-6	19.13.18	Seat:82	Token:0bce37c9-71a6-4f17-a1fd-903d30cae2d4
+103 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+100 Single One ------ 11-6	19.13.18	Seat:80	Token:10053
+102 Single One ------ 11-6	19.13.18	Seat:81	Token:10053
+101 Single One ------ 11-6	19.13.18	Seat:81	Token:10053
+104 Single One ------ 11-6	19.13.18	Seat:82	Token:10053
+100 reply:No result
+102 reply:No result
+101 reply:No result
+206 Error: Init Token Dismiss!
+104 reply:No result
+206 Ready do post ------ 11-6	19.13.18	Sleep:-77	Token:	yu=-78
+206 Sended post ------ 11-6	19.13.18	Token:
+206 reply:No result
+105 Insurance! ------ 
+206 Insurance! ------ 
+Start: ====== 11-6 19.13.35
+101 Ready do post ------ 11-6	19.13.39	Sleep:22	Token:e749c4bd-2bf5-45ac-8213-bf413dd38eca	yu=21
+100 Ready do post ------ 11-6	19.13.39	Sleep:22	Token:1fc308c9-6cb0-4a8e-a492-9213a2b1db25	yu=21
+102 Ready do post ------ 11-6	19.13.40	Sleep:21	Token:94b35cb0-d601-4513-8b39-a32de23a56c9	yu=20
+103 Ready do post ------ 11-6	19.13.41	Sleep:20	Token:2fba22d8-2148-4776-9509-cc5cb6c037ea	yu=19
+105 Ready do post ------ 11-6	19.13.43	Sleep:18	Token:2d1aceb5-f52e-43ac-8e03-34eb6c695f18	yu=17
+104 Ready do post ------ 11-6	19.13.43	Sleep:18	Token:3e066bfb-0e87-4c9e-b639-347649415fa2	yu=17
+106 Ready do post ------ 11-6	19.13.44	Sleep:17	Token:47616295-60da-456e-8d30-7d9c522cdae1	yu=16
+103 Sended post ------ 11-6	19.14.1	Token:2fba22d8-2148-4776-9509-cc5cb6c037ea
+102 Sended post ------ 11-6	19.14.1	Token:94b35cb0-d601-4513-8b39-a32de23a56c9
+103 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+105 Sended post ------ 11-6	19.14.1	Token:2d1aceb5-f52e-43ac-8e03-34eb6c695f18
+102 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+105 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+101 Sended post ------ 11-6	19.14.1	Token:e749c4bd-2bf5-45ac-8213-bf413dd38eca
+101 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+106 Sended post ------ 11-6	19.14.1	Token:47616295-60da-456e-8d30-7d9c522cdae1
+106 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+103 Insurance! ------ 
+105 Insurance! ------ 
+102 Insurance! ------ 
+101 Insurance! ------ 
+106 Insurance! ------ 
+100 Sended post ------ 11-6	19.14.2	Token:1fc308c9-6cb0-4a8e-a492-9213a2b1db25
+104 Sended post ------ 11-6	19.14.2	Token:3e066bfb-0e87-4c9e-b639-347649415fa2
+100 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+104 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+100 Insurance! ------ 
+104 Insurance! ------ 
+105 Single One ------ 11-6	19.14.3	Seat:82	Token:e442b9a0-9370-4040-a862-21bfec64d373
+105 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+102 Single One ------ 11-6	19.14.3	Seat:82	Token:db7dd245-50f0-40d3-aaf0-57f54ef0d860
+101 Single One ------ 11-6	19.14.3	Seat:82	Token:08b5166b-201b-402f-ad79-be022829a404
+103 Single One ------ 11-6	19.14.3	Seat:82	Token:1593da80-f7cf-4235-b0c8-d751b124ddd3
+101 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+103 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+102 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+106 Single One ------ 11-6	19.14.3	Seat:82	Token:b1713820-5684-4fcf-bd42-cca0f6f88625
+104 Single One ------ 11-6	19.14.3	Seat:82	Token:10053
+100 Single One ------ 11-6	19.14.3	Seat:82	Token:10053
+106 reply:No result
+100 reply:No result
+104 reply:No result
+100 Single One ------ 11-6	19.14.6	Seat:81	Token:4eb7ea94-de44-48cc-9ca5-f15005ab96bc
+104 Single One ------ 11-6	19.14.6	Seat:81	Token:bb4d5678-5f87-4b97-889f-c0b053edf180
+100 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+105 Single One ------ 11-6	19.14.6	Seat:81	Token:5886cda8-f678-42e8-af51-18ba8adc3654
+104 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+101 Single One ------ 11-6	19.14.6	Seat:81	Token:569b5d45-ad98-47da-89b5-07b4062fb730
+101 Single One ------ 11-6	19.14.6	Seat:81	Token:569b5d45-ad98-47da-89b5-07b4062fb730
+102 Single One ------ 11-6	19.14.6	Seat:81	Token:5108446a-3ff1-456e-859e-099e4465c5f9
+105 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+102 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+101 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+106 Single One ------ 11-6	19.14.6	Seat:81	Token:2ae3161e-0a18-42d0-9973-2b2c8fdde772
+103 Single One ------ 11-6	19.14.6	Seat:81	Token:b6100854-e3dc-4b34-bce0-af99748b3853
+106 reply:No result
+103 reply:No result
+102 Single One ------ 11-6	19.14.8	Seat:80	Token:668de151-a375-4642-ad01-9e185dba163f
+102 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+104 Single One ------ 11-6	19.14.8	Seat:80	Token:8a2dff08-c17f-4662-bd98-396bc199a262
+104 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+105 Single One ------ 11-6	19.14.8	Seat:80	Token:cf9e82d8-363f-4dfc-a497-39160782215b
+105 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+106 Single One ------ 11-6	19.14.8	Seat:80	Token:f5742223-cf16-4711-8005-caedc605837c
+106 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+103 Single One ------ 11-6	19.14.8	Seat:80	Token:fd8ec8ac-ae1b-4f4b-96ad-cc222247bd48
+100 Single One ------ 11-6	19.14.8	Seat:80	Token:6e054923-d061-4676-bb14-ed9abb4531be
+101 Single One ------ 11-6	19.14.8	Seat:80	Token:b439d8aa-1db9-4a02-9182-ef05d1b25741
+103 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+101 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+100 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+104 Single One ------ 11-6	19.14.10	Seat:77	Token:8bb7b3e4-240a-4cf6-841b-aeac1b12ce6b
+104 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+102 Single One ------ 11-6	19.14.10	Seat:77	Token:d0092f69-71df-4795-be28-f099bc9fd415
+102 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+105 Single One ------ 11-6	19.14.10	Seat:77	Token:720805ae-00b1-47ed-a6fe-0b12823a7363
+105 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+100 Single One ------ 11-6	19.14.10	Seat:77	Token:e3a710f3-d3d6-4cff-974d-de7c2bddcff6
+103 Single One ------ 11-6	19.14.10	Seat:77	Token:50fb3127-fab9-4361-bf81-e5ada112b867
+100 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+106 Single One ------ 11-6	19.14.10	Seat:77	Token:902d7007-2b1f-4ae6-9f0d-3917441e6857
+101 Single One ------ 11-6	19.14.10	Seat:77	Token:0100c521-d0dd-46cb-93ba-912cc32b77d2
+103 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+101 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+106 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+102 Single One ------ 11-6	19.14.12	Seat:79	Token:1a5796be-ec2d-4878-826d-a744b552d18e
+102 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+104 Single One ------ 11-6	19.14.12	Seat:79	Token:9104ef1b-ea51-4263-a224-442b78775894
+104 reply:<dd>预约失败! </dd>
+            <dd><span>系统可预约时间为 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+101 Single One ------ 11-6	19.14.12	Seat:79	Token:10053
+101 reply:No result
+103 Single One ------ 11-6	19.14.12	Seat:79	Token:10053
+100 Single One ------ 11-6	19.14.12	Seat:79	Token:10053
+106 Single One ------ 11-6	19.14.12	Seat:79	Token:10053
+103 reply:No result
+100 reply:No result
+106 reply:No result
+105 Single One ------ 11-6	19.14.12	Seat:79	Token:10053
+105 reply:No result
+Start: ====== 11-6 19.15.8
+100 Keep alive ------ 11-6	19.15.12	Sleep:60	Token:c932a613-a716-40db-a10a-79136dac1971	yu=888 FinishTime=23
+101 Keep alive ------ 11-6	19.15.13	Sleep:60	Token:b1c57776-94b6-4841-bdf6-9bcf3af6b439	yu=887 FinishTime=35
+102 Keep alive ------ 11-6	19.15.14	Sleep:60	Token:1ef834e2-eebc-4279-bf3c-48523476ebae	yu=886 FinishTime=22
+103 Keep alive ------ 11-6	19.15.16	Sleep:60	Token:573932b4-a530-4808-8e96-88b1f02cd3d0	yu=884 FinishTime=27
+104 Keep alive ------ 11-6	19.15.17	Sleep:60	Token:6956ccba-9cbf-4390-a84f-37fc54ee088e	yu=883 FinishTime=38
+Start: ====== 11-6 19.16.4
+100 Keep alive ------ 11-6	19.16.8	Sleep:60	Token:b1a6ad25-2385-465e-9e48-f2fffcc86f89	yu=832 FinishTime=36
+101 Keep alive ------ 11-6	19.16.9	Sleep:60	Token:72853eff-1c35-4395-abb2-f762a16c1079	yu=831 FinishTime=35
+102 Keep alive ------ 11-6	19.16.10	Sleep:60	Token:6a4b55c9-7559-495c-aa2b-e3051d12f669	yu=830 FinishTime=33
+103 Keep alive ------ 11-6	19.16.11	Sleep:60	Token:98c15a0e-9c4a-4237-b21d-1d18b8299944	yu=829 FinishTime=38
+104 Keep alive ------ 11-6	19.16.12	Sleep:60	Token:e55b96af-d19b-4f96-a32e-261c0a7d7f53	yu=828 FinishTime=37
+105 Keep alive ------ 11-6	19.16.13	Sleep:60	Token:fe76d20c-141f-47b9-afd6-9faaa5f1c6ca	yu=827 FinishTime=35
+106 Keep alive ------ 11-6	19.16.14	Sleep:60	Token:fab8afc2-72c6-4c4a-bfab-4bdb755170fc	yu=826 FinishTime=39
+100 Keep alive ------ 11-6	19.17.10	Sleep:60	Token:c698e69b-be8e-4c30-9930-61878ab0f321	yu=770 FinishTime=36
+101 Keep alive ------ 11-6	19.17.11	Sleep:60	Token:fc4510c2-6863-43e3-911c-13c7fd820cca	yu=769 FinishTime=35
+102 Keep alive ------ 11-6	19.17.12	Sleep:60	Token:32b1a632-980f-4c82-b8ae-e1541bb5c1c7	yu=768 FinishTime=33
+103 Keep alive ------ 11-6	19.17.13	Sleep:60	Token:fd40076d-7f35-4757-99b7-af1e89ed50e4	yu=767 FinishTime=38
+104 Keep alive ------ 11-6	19.17.14	Sleep:60	Token:e179c169-87fc-4658-b180-53370bbff56e	yu=766 FinishTime=37
+105 Keep alive ------ 11-6	19.17.15	Sleep:60	Token:23c20471-66ee-4cd1-8844-65f87e744585	yu=765 FinishTime=35
+106 Keep alive ------ 11-6	19.17.16	Sleep:60	Token:aead2056-7bb5-4e18-99d7-31b01e06e388	yu=764 FinishTime=39
+100 Keep alive ------ 11-6	19.18.11	Sleep:60	Token:4f7e64c2-ba37-4394-96f0-cf5ed763be08	yu=709 FinishTime=36
+101 Keep alive ------ 11-6	19.18.12	Sleep:60	Token:a916a7c1-07f3-43bd-9389-1a481a391449	yu=708 FinishTime=35
+102 Keep alive ------ 11-6	19.18.13	Sleep:60	Token:ccd6c893-04e3-47ee-a6a7-7138c514e64f	yu=707 FinishTime=33
+103 Keep alive ------ 11-6	19.18.14	Sleep:60	Token:feee3bc0-ffd8-4175-a0c8-8fe1552ebe8d	yu=706 FinishTime=38
+104 Keep alive ------ 11-6	19.18.15	Sleep:60	Token:e1dad54c-a144-4cd0-b6d3-2cb729af0891	yu=705 FinishTime=37
+105 Keep alive ------ 11-6	19.18.16	Sleep:60	Token:5bbcef51-4d49-458a-ae9c-8882f6c4513b	yu=704 FinishTime=35
+106 Keep alive ------ 11-6	19.18.17	Sleep:60	Token:f51fb8c6-8d02-4665-9a8e-58dad894b6a5	yu=703 FinishTime=39
+100 Keep alive ------ 11-6	19.19.13	Sleep:60	Token:1c4f4a95-13aa-41e1-b727-7dd53affb0a8	yu=647 FinishTime=36
+101 Keep alive ------ 11-6	19.19.14	Sleep:60	Token:00601819-440d-435b-a841-4cafce415690	yu=646 FinishTime=35
+102 Keep alive ------ 11-6	19.19.15	Sleep:60	Token:676c7d1b-1cdb-4e0a-ac3d-f783072eb3c1	yu=645 FinishTime=33
+103 Keep alive ------ 11-6	19.19.16	Sleep:60	Token:e485c82a-954b-4649-86b0-3b7894de3991	yu=644 FinishTime=38
+104 Keep alive ------ 11-6	19.19.17	Sleep:60	Token:716dd2ab-0074-4e23-9f85-f97059b0b32f	yu=643 FinishTime=37
+105 Keep alive ------ 11-6	19.19.18	Sleep:60	Token:2f826d3f-534f-42d7-89f2-e3342dbd6125	yu=642 FinishTime=35
+106 Keep alive ------ 11-6	19.19.19	Sleep:60	Token:954fe93c-7e18-4df5-8568-849ec36fe7a9	yu=641 FinishTime=39
+100 Keep alive ------ 11-6	19.20.15	Sleep:60	Token:78f12009-909e-42c3-9389-e12b41b68321	yu=585 FinishTime=36
+101 Keep alive ------ 11-6	19.20.15	Sleep:60	Token:d6e9b510-1959-4cdf-94d8-de572528cc41	yu=585 FinishTime=35
+102 Keep alive ------ 11-6	19.20.16	Sleep:60	Token:33c1b931-f634-470f-b822-b5b86a95a8b2	yu=584 FinishTime=33
+103 Keep alive ------ 11-6	19.20.18	Sleep:60	Token:476e3b2d-5b07-43d6-8b94-85e530cec4f2	yu=582 FinishTime=38
+104 Keep alive ------ 11-6	19.20.19	Sleep:60	Token:978a7200-5805-4845-805b-aeccd39d419c	yu=581 FinishTime=37
+105 Keep alive ------ 11-6	19.20.20	Sleep:60	Token:cdb311c2-0c4b-4779-bec4-bc19df6ef017	yu=580 FinishTime=35
+106 Keep alive ------ 11-6	19.20.21	Sleep:60	Token:2ca9a7d2-ca6d-48ba-a68c-b77463dcd007	yu=579 FinishTime=39
+100 Keep alive ------ 11-6	19.21.16	Sleep:60	Token:81f483aa-d642-44d0-89d2-16229d79413c	yu=524 FinishTime=36
+101 Keep alive ------ 11-6	19.21.17	Sleep:60	Token:37ad04fa-330a-44b1-9a01-9304c4eb36d8	yu=523 FinishTime=35
+102 Keep alive ------ 11-6	19.21.18	Sleep:60	Token:c7466e10-ec95-4e2a-9561-857b2ce8bae8	yu=522 FinishTime=33
+103 Keep alive ------ 11-6	19.21.19	Sleep:60	Token:1eecddb9-4d89-4681-b023-a6e3e63972a8	yu=521 FinishTime=38
+104 Keep alive ------ 11-6	19.21.20	Sleep:60	Token:9e0be12d-6650-4ac0-9e01-b64bc9c647dc	yu=520 FinishTime=37
+105 Keep alive ------ 11-6	19.21.21	Sleep:60	Token:f83b3d2e-cc37-4322-b70d-ee847b8cccfa	yu=519 FinishTime=35
+106 Keep alive ------ 11-6	19.21.22	Sleep:60	Token:b48dfe71-5766-49f3-a053-1dec1a40eb1e	yu=518 FinishTime=39
+100 Keep alive ------ 11-6	19.22.18	Sleep:60	Token:0ef60812-2a0a-4829-bafc-be32041580f5	yu=462 FinishTime=36
+101 Keep alive ------ 11-6	19.22.19	Sleep:60	Token:165204fa-2260-471c-8a8e-4768218914d8	yu=461 FinishTime=35
+102 Keep alive ------ 11-6	19.22.20	Sleep:60	Token:4a7a315f-f349-4de8-96fa-ae64c2257299	yu=460 FinishTime=33
+103 Keep alive ------ 11-6	19.22.21	Sleep:60	Token:72cf5cc1-fcf3-4cff-81d6-eec669889b09	yu=459 FinishTime=38
+104 Keep alive ------ 11-6	19.22.22	Sleep:60	Token:feae16bb-3bb7-4cba-85ba-64c0cab04423	yu=458 FinishTime=37
+105 Keep alive ------ 11-6	19.22.23	Sleep:60	Token:542513c0-33c6-4d7b-b846-56c32b4d586f	yu=457 FinishTime=35
+106 Keep alive ------ 11-6	19.22.24	Sleep:60	Token:04e7fb8a-2517-4ad6-905b-ca176b9b2c58	yu=456 FinishTime=39
+100 Keep alive ------ 11-6	19.23.20	Sleep:60	Token:510db8e0-58d8-47ac-8b50-82fcee017b0d	yu=400 FinishTime=36
+101 Keep alive ------ 11-6	19.23.20	Sleep:60	Token:44d90a3e-b46b-4ebd-9ad3-ad0aaad22781	yu=400 FinishTime=35
+102 Keep alive ------ 11-6	19.23.22	Sleep:60	Token:9464f80d-27de-4e7a-bf8b-666d540fb31c	yu=398 FinishTime=33
+103 Keep alive ------ 11-6	19.23.22	Sleep:60	Token:9f8a1a6a-007a-4569-a49c-f82b5acd7798	yu=398 FinishTime=38
+104 Keep alive ------ 11-6	19.23.23	Sleep:60	Token:b5578136-fc6b-4b64-86e7-340f5337a3a9	yu=397 FinishTime=37
+105 Keep alive ------ 11-6	19.23.24	Sleep:60	Token:1e1e31c8-3ba3-4871-a132-f3b30f561db7	yu=396 FinishTime=35
+106 Keep alive ------ 11-6	19.23.25	Sleep:60	Token:d65b3dbe-1a58-4460-bb64-8e7fc8680171	yu=395 FinishTime=39
+100 Keep alive ------ 11-6	19.24.21	Sleep:60	Token:908c62f0-4317-417f-8c27-97362d3b977b	yu=339 FinishTime=36
+101 Keep alive ------ 11-6	19.24.22	Sleep:60	Token:f468fe3f-8954-45a4-9cc4-c836008319fa	yu=338 FinishTime=35
+102 Keep alive ------ 11-6	19.24.24	Sleep:60	Token:89267d30-00ea-4868-a523-06ab81e67979	yu=336 FinishTime=33
+103 Keep alive ------ 11-6	19.24.24	Sleep:60	Token:b7ba6da4-bd80-445e-bac8-59d0c62a2afd	yu=336 FinishTime=38
+104 Keep alive ------ 11-6	19.24.25	Sleep:60	Token:dcb61ec6-d957-4b9a-8a54-921447308a10	yu=335 FinishTime=37
+105 Keep alive ------ 11-6	19.24.26	Sleep:60	Token:d3f53d15-8a4f-4f99-8aa8-cc047b1baae7	yu=334 FinishTime=35
+106 Keep alive ------ 11-6	19.24.27	Sleep:60	Token:fce1e84b-d31a-45a6-8308-d3c04deb7adb	yu=333 FinishTime=39
+100 Keep alive ------ 11-6	19.25.23	Sleep:60	Token:c5746ddd-1b20-4848-82ce-5f55e62d3247	yu=277 FinishTime=36
+101 Keep alive ------ 11-6	19.25.23	Sleep:60	Token:8aefd602-e7ad-4dae-8b61-75f01b7c7134	yu=277 FinishTime=35
+102 Keep alive ------ 11-6	19.25.25	Sleep:60	Token:8a5718f5-6972-474d-bb44-14807618af43	yu=275 FinishTime=33
+103 Keep alive ------ 11-6	19.25.26	Sleep:60	Token:3f47ec00-0532-4191-8e28-1d5ea5b04323	yu=274 FinishTime=38
+104 Keep alive ------ 11-6	19.25.27	Sleep:60	Token:7ec0cb31-32d5-4360-9576-910528d0546c	yu=273 FinishTime=37
+105 Keep alive ------ 11-6	19.25.28	Sleep:60	Token:ee1af2e9-92ed-4043-ab0b-a540a3244b07	yu=272 FinishTime=35
+106 Keep alive ------ 11-6	19.25.29	Sleep:60	Token:6f49c803-bd3b-418a-bc47-3582da42a99a	yu=271 FinishTime=39
+100 Keep alive ------ 11-6	19.26.24	Sleep:60	Token:2fcd3231-46dc-4dab-b31c-fb128c2ccc11	yu=216 FinishTime=36
+101 Keep alive ------ 11-6	19.26.25	Sleep:60	Token:59606bb0-363c-4a08-95af-3e5244fa3250	yu=215 FinishTime=35
+102 Keep alive ------ 11-6	19.26.27	Sleep:60	Token:2477d3be-dde1-45e4-b384-02163488863e	yu=213 FinishTime=33
+103 Keep alive ------ 11-6	19.26.27	Sleep:60	Token:3269d389-2e48-4fec-8c68-622b5cfaf9b0	yu=213 FinishTime=38
+104 Keep alive ------ 11-6	19.26.28	Sleep:60	Token:d2cad724-23ab-445b-ada9-e590b20b62ab	yu=212 FinishTime=37
+105 Keep alive ------ 11-6	19.26.29	Sleep:60	Token:d0b4f1a3-7850-494a-85e9-b446f62d4fb4	yu=211 FinishTime=35
+106 Keep alive ------ 11-6	19.26.30	Sleep:60	Token:122cf0fd-ea88-4d1e-8503-fa92a2b97c31	yu=210 FinishTime=39
+100 Keep alive ------ 11-6	19.27.26	Sleep:60	Token:216022ca-8374-4718-9751-2fd40dc531fa	yu=154 FinishTime=36
+101 Keep alive ------ 11-6	19.27.27	Sleep:60	Token:9da7cd1c-ca9a-4274-a660-1d55976f31bb	yu=153 FinishTime=35
+102 Keep alive ------ 11-6	19.27.29	Sleep:60	Token:aa8b589a-20d3-4c8e-b88c-2eef8a7df691	yu=151 FinishTime=33
+103 Keep alive ------ 11-6	19.27.29	Sleep:60	Token:98f26ea1-c2a8-4b27-835f-0535af280e5f	yu=151 FinishTime=38
+104 Keep alive ------ 11-6	19.27.30	Sleep:60	Token:f5a5a0e9-25f7-438e-b33c-4d5d6a4fa6a9	yu=150 FinishTime=37
+105 Keep alive ------ 11-6	19.27.31	Sleep:60	Token:3ec1e7e9-7c82-4200-bfe8-12c0e8e09fdd	yu=149 FinishTime=35
+106 Keep alive ------ 11-6	19.27.32	Sleep:60	Token:7e3b99ae-1100-4409-8bd7-6795b5b38db1	yu=148 FinishTime=39
+Start: ====== 11-6 19.28.23
+Start: ====== 11-6 19.28.29
+100 Keep alive ------ 11-6	19.28.33	Sleep:60	Token:f4406ef5-fbd1-4425-b6a1-ab192447d253	yu=87 FinishTime=25
+104 Keep alive ------ 11-6	19.28.33	Sleep:55	Token:e4c5a8e8-e1ca-4a9d-8c47-600d37e64c56	yu=87 FinishTime=32
+106 Keep alive ------ 11-6	19.28.33	Sleep:58	Token:530722db-47ec-4b15-a3f1-9fd72f00d983	yu=87 FinishTime=29
+102 Keep alive ------ 11-6	19.28.33	Sleep:60	Token:6a685d2b-50e4-49de-a5e1-b2134ab537d4	yu=87 FinishTime=23
+105 Keep alive ------ 11-6	19.28.33	Sleep:60	Token:0e1e85fe-722d-4566-bdc3-7a0b8cfad915	yu=87 FinishTime=27
+103 Keep alive ------ 11-6	19.28.33	Sleep:50	Token:22c1cbe4-1b71-4610-916b-964bee435bac	yu=87 FinishTime=37
+101 Keep alive ------ 11-6	19.28.33	Sleep:60	Token:422eddda-f7c3-4c6f-9cc5-73b7caf3e837	yu=87 FinishTime=20
+103 Ready do post ------ 11-6	19.29.24	Sleep:37	Token:61dc8aa1-58db-48f5-ad3f-ec4229dfc842	yu=36
+104 Ready do post ------ 11-6	19.29.29	Sleep:32	Token:b1b8f96c-59a8-4f81-b74d-37764d2af319	yu=31
+106 Ready do post ------ 11-6	19.29.32	Sleep:29	Token:1ec18c03-c962-4055-8f58-84bf5ac1d6b0	yu=28
+100 Ready do post ------ 11-6	19.29.34	Sleep:27	Token:a66cc4b7-8d10-4d57-b4f7-fb137578feb9	yu=26
+102 Keep alive ------ 11-6	19.29.34	Sleep:3	Token:046e2182-824f-4542-8c42-fd37e14e5946	yu=26 FinishTime=23
+101 Keep alive ------ 11-6	19.29.34	Sleep:6	Token:2e09edcf-552e-4487-b796-8c05b6c1870e	yu=26 FinishTime=20
+105 Ready do post ------ 11-6	19.29.34	Sleep:27	Token:13729a71-12c6-4b6b-bbfd-ef19987db281	yu=26
+102 Ready do post ------ 11-6	19.29.39	Sleep:22	Token:fbe6cf88-27ea-4a5c-ba61-c21b81c81425	yu=21
+101 Ready do post ------ 11-6	19.29.42	Sleep:19	Token:357fefcc-5fd3-4c14-a25c-7989ec7237c9	yu=18
+101 Sended post ------ 11-6	19.30.1	Token:357fefcc-5fd3-4c14-a25c-7989ec7237c9
+101 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+103 Sended post ------ 11-6	19.30.2	Token:61dc8aa1-58db-48f5-ad3f-ec4229dfc842
+103 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+101 Insurance! ------ 
+105 Sended post ------ 11-6	19.30.2	Token:13729a71-12c6-4b6b-bbfd-ef19987db281
+105 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+100 Sended post ------ 11-6	19.30.2	Token:a66cc4b7-8d10-4d57-b4f7-fb137578feb9
+100 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+103 Insurance! ------ 
+105 Insurance! ------ 
+102 Sended post ------ 11-6	19.30.3	Token:fbe6cf88-27ea-4a5c-ba61-c21b81c81425
+102 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+106 Sended post ------ 11-6	19.30.3	Token:1ec18c03-c962-4055-8f58-84bf5ac1d6b0
+106 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+100 Insurance! ------ 
+104 Sended post ------ 11-6	19.30.3	Token:b1b8f96c-59a8-4f81-b74d-37764d2af319
+104 reply:No result
+102 Insurance! ------ 
+106 Insurance! ------ 
+104 Insurance! ------ 
+103 Single One ------ 11-6	19.30.5	Seat:52967	Token:db8e78bf-5dc1-4e37-80a8-3f59d49c4633
+103 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+101 Single One ------ 11-6	19.30.5	Seat:52967	Token:0b668e82-74d9-49e3-b1fa-62059c56cc15
+101 reply:No result
+105 Single One ------ 11-6	19.30.6	Seat:52967	Token:15f14632-ddf0-4909-8921-38fdffcb9742
+105 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+100 Single One ------ 11-6	19.30.6	Seat:52967	Token:4a85a4d8-2b87-4cea-98d5-5eb07677fd01
+100 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+102 Single One ------ 11-6	19.30.6	Seat:52967	Token:34032379-365a-4a10-a610-78a49b771281
+102 reply:No result
+101 Single One ------ 11-6	19.30.6	Seat:52291	Token:10053
+104 Single One ------ 11-6	19.30.6	Seat:52967	Token:3935830c-27fa-4994-a6e4-e58739a6982e
+104 reply:No result
+106 Single One ------ 11-6	19.30.6	Seat:52967	Token:b1631b5a-4faf-4ac1-b9c4-f023ff690801
+106 Single One ------ 11-6	19.30.6	Seat:52967	Token:b1631b5a-4faf-4ac1-b9c4-f023ff690801
+101 reply:No result
+103 Single One ------ 11-6	19.30.6	Seat:52291	Token:10053
+106 reply:No result
+103 reply:No result
+102 Single One ------ 11-6	19.30.9	Seat:52291	Token:0e87d87b-3c24-400f-b808-aaa0deea3527
+102 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+106 Single One ------ 11-6	19.30.9	Seat:52291	Token:db8b172f-4839-4af2-a597-5fd4eabaadf8
+106 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+101 Single One ------ 11-6	19.30.10	Seat:52337	Token:69506423-4db1-4b71-9523-edddfc9db893
+101 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+100 Single One ------ 11-6	19.30.10	Seat:52291	Token:6d7244f5-6c36-4f22-8440-88f92682935c
+100 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+105 Single One ------ 11-6	19.30.10	Seat:52291	Token:18b29ff7-2b52-42e8-afd3-ac5e3e312527
+104 Single One ------ 11-6	19.30.10	Seat:52291	Token:a234d247-fa8c-4763-91fd-8aeb1dcba868
+105 reply:No result
+104 reply:No result
+103 Single One ------ 11-6	19.30.10	Seat:52337	Token:a60a06e8-e16a-48a1-979c-130bb46326c1
+103 reply:No result
+102 Single One ------ 11-6	19.30.12	Seat:52337	Token:e1bb4f48-184e-4ef2-9b8b-2f6c92afebfb
+102 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+106 Single One ------ 11-6	19.30.12	Seat:52337	Token:a0544a54-f0e3-4c50-8943-ffcf71cd9600
+106 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+104 Single One ------ 11-6	19.30.13	Seat:52337	Token:d8d4e352-96e0-4e67-9960-44d57f3c52b5
+104 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+105 Single One ------ 11-6	19.30.13	Seat:52337	Token:50dc0886-a76e-43a3-a036-d90f110c8e9c
+101 Single One ------ 11-6	19.30.13	Seat:52969	Token:1deb7ecb-eab2-41dc-95c2-4f5e0b290212
+105 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+101 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+100 Single One ------ 11-6	19.30.13	Seat:52337	Token:c921a4a4-9bd8-4b97-b29c-5605d4e456b7
+100 reply:No result
+102 Single One ------ 11-6	19.30.13	Seat:52969	Token:
+102 reply:No result
+103 Single One ------ 11-6	19.30.13	Seat:52969	Token:cc70ddcd-5b15-411a-abba-d564c41a237c
+103 reply:No result
+106 Single One ------ 11-6	19.30.15	Seat:52969	Token:a4f5de37-de5e-42c6-b126-a2712e74f8f9
+106 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+104 Single One ------ 11-6	19.30.15	Seat:52969	Token:e93e620e-71ce-407c-9a3a-539b57330ec5
+104 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+101 Single One ------ 11-6	19.30.15	Seat:52293	Token:556d2fae-50df-4610-90eb-713e217f38b9
+101 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+105 Single One ------ 11-6	19.30.15	Seat:52969	Token:1042d156-173f-4451-8c55-e73154ae4e71
+105 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+100 Single One ------ 11-6	19.30.15	Seat:52969	Token:6c5641ce-7ae2-4e68-afdb-6a84125cc927
+103 Single One ------ 11-6	19.30.15	Seat:52293	Token:6d382127-6fab-4b65-a19f-b70df02b89d3
+102 Single One ------ 11-6	19.30.15	Seat:52293	Token:c61b7852-6aeb-414c-b268-198797ead1b7
+103 reply:No result
+102 reply:No result
+100 reply:No result
+106 Single One ------ 11-6	19.30.17	Seat:52293	Token:31a00b22-7ea0-45e1-8a82-c18bf325cac7
+106 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+104 Single One ------ 11-6	19.30.17	Seat:52293	Token:068e35eb-0e4d-4890-95bb-8d2c89770768
+104 reply:<dd>预约失败! </dd>
+            <dd><span>已有1个有效预约，请在使用结束后再次进行选择</span></d
+100 Single One ------ 11-6	19.30.17	Seat:52293	Token:10053
+100 reply:No result
+105 Single One ------ 11-6	19.30.17	Seat:52293	Token:10053
+105 reply:No result

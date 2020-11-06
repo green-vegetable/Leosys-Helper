@@ -4,6 +4,9 @@ using namespace std;
 Time::Time(){
     freshen();
 }
+Time::Time(int _hour,int _minn,int _sec){
+    hour=_hour;minn=_minn;sec=_sec;
+}
 void Time::freshen(){
     time_t nowTime = time(NULL);
     struct tm *t = localtime(&nowTime);
@@ -11,4 +14,7 @@ void Time::freshen(){
 }
 void Time::print(){
     printf("\r%d-%02d-%02d %02d:%02d:%02d",year,mon,day,hour,minn,sec);
+}
+int operator - (Time start,Time eend){
+    return start.hour*3600+start.minn*60+start.sec -eend.hour*3600-eend.minn*60-eend.sec;
 }

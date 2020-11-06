@@ -7,4 +7,6 @@ public:
     Time();
     void freshen();
     void print();
+    Time(int _hour,int _minn,int _sec=0);
+    friend int operator - (Time start,Time end);
 };

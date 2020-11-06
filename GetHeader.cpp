@@ -44,7 +44,7 @@ void GetHeader::Format(int flag){
     }
     if(flag==1)
         return;
-    if(strs.find("\r\n\r\n")!=strs.length()-4){
+    if( int(strs.find("\r\n\r\n"))!=int(strs.length()-4)){
         strs=strs+"\r\n";
     }
 }

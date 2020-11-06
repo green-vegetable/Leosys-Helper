@@ -17,7 +17,7 @@ void MySocket::InitSock(string ip,int port){
     sockAddr.sin_addr.s_addr = inet_addr("202.112.82.43");
     sockAddr.sin_port = htons(80);
     connect(sock, (SOCKADDR*)&sockAddr, sizeof(SOCKADDR));
-    struct timeval timeout={1,0}; //1s ��ʱ
+    struct timeval timeout={500,0}; //超时3秒
     setsockopt(sock,SOL_SOCKET,SO_RCVTIMEO,(const char*)&timeout,sizeof(timeout));
     setsockopt(sock,SOL_SOCKET,SO_SNDTIMEO,(const char*)&timeout,sizeof(timeout));
 }
@@ -36,40 +36,42 @@ void MySocket::Send(GetHeader now){
     send(sock,now.to_str(),now.length(),NULL);
 }
 string MySocket::Recv(){
-    int cnt=100,ycnt=0;
-    int now=0;
-    int presize=1;
+    int cnt=3;
+    int now=0;int ycnt=500;
     memset(szBuffer,0,sizeof(szBuffer));
     while(1){
-        int getsize=recv(sock,szBuffer+now,BUFFER_SIZE+1,NULL);
-        if(getsize==-1){
-            Sleep(1);
+        int getsize=recv(sock,szBuffer+now,BUFFER_SIZE-now-5,NULL);
+        int lasterror=GetLastError();
+//        cout<<"DEBUG: GetLastError()="<<lasterror<<"\tgetsize="<<getsize<<endl;
+        if(lasterror==10053)
+            return string("10053");
+        if(getsize==-1){ //超时停止
             cnt--;
-            if(cnt)
-            continue;
+            if(cnt)continue;
             break;
         }
         for(int i=now;i<now+getsize+1;i++){
             if(szBuffer[i]==0)szBuffer[i]='#';
         }
-        ycnt++;
+        if(getsize==0){
+            ycnt--;
+            if(ycnt>0)continue;break;
+        }
         now+=getsize;
-        if(getsize!=0) ycnt--;
-        if(ycnt>=2)break;
-        presize=getsize;
     }
     return string(szBuffer);
 }
 string MySocket::GetToken(int i){ // csrf
     Send();
     string tmp = Recv();
+    if(tmp=="10053")return tmp;
     int pos=tmp.find(R"(SYNCHRONIZER_TOKEN" value=")");
     string token = "";
     if(tmp==""){
         cout<<"Error: (1) no reply"<<endl;
     }
     else if(pos==-1){
-        cout<<"Error: no token found"<<endl;
+        cout<<"Error: (1) no token found"<<endl;
     }
     else {
         token = tmp.substr(pos+27,36);

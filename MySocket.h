@@ -3,7 +3,7 @@
 #include"GetHeader.h"
 using namespace std;
 
-const int BUFFER_SIZE = 100000;
+const int BUFFER_SIZE = 500000;
 class MySocket{ //SOCKETµÄ¿Ç×Ó
 public:
     GetHeader getm;
