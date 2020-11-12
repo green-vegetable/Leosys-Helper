@@ -32,9 +32,9 @@ ofstream output;
 int s[300];
 
 // "需要每天修改的部分:"
-string yyh_jsessionid("D0755AD0D8433F5F36C374B7B0F8F619");
-string zby_jsessionid("8FE6383D5D59104DFA3E5C1A1D744CA7");
-const int year=2020,month=11,day=12;
+string yyh_jsessionid("678CF2E96C113A4C4F7370F758F369C3");
+string zby_jsessionid("565D0E9E5F515E324E9C7844D8AD1D82");
+const int year=2020,month=11,day=13;
 const int yyh_seat=81,zby_seat=82;
 const int zby_st_time=8,zby_ed_time=22;
 const int yyh_st_time=8,yyh_ed_time=22;
