@@ -32,9 +32,9 @@ ofstream output;
 int s[300];
 
 // "需要每天修改的部分:"
-string yyh_jsessionid("E8202CB7B6F6B1667930A6D5207029E5");
-string zby_jsessionid("041B6D75EE63DE865B5FFAD44270548F");
-const int year=2020,month=11,day=7;
+string yyh_jsessionid("D0755AD0D8433F5F36C374B7B0F8F619");
+string zby_jsessionid("8FE6383D5D59104DFA3E5C1A1D744CA7");
+const int year=2020,month=11,day=12;
 const int yyh_seat=81,zby_seat=82;
 const int zby_st_time=8,zby_ed_time=22;
 const int yyh_st_time=8,yyh_ed_time=22;
@@ -62,7 +62,8 @@ bool OneThread(string jsessionid,int seat,int year,int month,int day,int st_time
         cout<<threadid<<" Error: Init Token Dismiss!"<<endl;
         output<<threadid<<" Error: Init Token Dismiss!"<<endl;
     }
-    cout<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
+    cout<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<" seat:"<<seat<<" target:"<<month<<"-"<<day<<" "<<st_time<<"~"<<ed_time<<"\t"<<"Token:"<<token<<endl;
+    output<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<" seat:"<<seat<<" target:"<<month<<"-"<<day<<" "<<st_time<<"~"<<ed_time<<"\t"<<"Token:"<<token<<endl;
     //Keep Link
     int yu = target-a;
 //    cout<<"\n剩余时间："<<yu<<"秒"<<endl;
@@ -73,13 +74,14 @@ bool OneThread(string jsessionid,int seat,int year,int month,int day,int st_time
         string tmp=tk.GetToken();
         if(tmp=="10053"){
             cout<<" ERROR: 10053 timeout ------> Shall create  another thread\n";
+            output<<" ERROR: 10053 timeout ------> Shall create  another thread\n";
             return false;
         }
         token=tmp==""? token:tmp;
         a.freshen();
         yu=target-a;
         if(yu<=FinishKeepCountDown+1)break;
-        int maxSleep=60*1;
+        int maxSleep=60*6;
 //        maxSleep=1;
         cout<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
         output<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
