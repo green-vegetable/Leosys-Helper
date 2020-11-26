@@ -1,6 +1,10 @@
 # Leosys-Helper
 
+![表情包](src/bqb.jpg)
+
 [北师大图书馆预约](http://seat.lib.bnu.edu.cn)助手，自用
+
+半自动，19:30准点发送预约座位请求。
 
 #### 环境
 
