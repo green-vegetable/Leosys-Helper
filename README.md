@@ -10,7 +10,7 @@
 
 1. win10_64 & [codeblocks-20.03mingw-setup](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe)
 
-2. *\CodeBlocks\MinGW 添加到path
+2. ```*\CodeBlocks\MinGW``` 添加到path
 
 #### 编译
 
