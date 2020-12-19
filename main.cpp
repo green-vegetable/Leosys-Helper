@@ -4,6 +4,11 @@
 #include"Time.h"
 using namespace std;
 
+//daily-modify
+//日常修改的部分
+const int year=2020,month=12,day=20;
+const int default_st_time=8,default_ed_time=22;
+
 string initgetm=(R"(GET /self HTTP/1.1
 Host: seat.lib.bnu.edu.cn
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
@@ -29,15 +34,35 @@ Referer: http://seat.lib.bnu.edu.cn/self
 Upgrade-Insecure-Requests: 1
 )");
 ofstream output;
-int s[300];
-
-// "需要每天修改的部分:"
-string yyh_jsessionid("678CF2E96C113A4C4F7370F758F369C3");
-string zby_jsessionid("565D0E9E5F515E324E9C7844D8AD1D82");
-const int year=2020,month=11,day=13;
-const int yyh_seat=81,zby_seat=82;
-const int zby_st_time=8,zby_ed_time=22;
-const int yyh_st_time=8,yyh_ed_time=22;
+map<int,int> seat;
+int seat_ed;
+const char UserFile[]="UJessionid&Seatid.txt";
+struct User{
+    string jsessionid;
+    string name="";
+    int seat_num;
+    int st_time;
+    int ed_time;
+    User(){
+        jsessionid="";
+        name="";
+        seat_num=-1;
+        st_time=default_st_time;
+        ed_time=default_ed_time;
+    }
+    User(string _jsessioinid,int _seat_num=-1,string _name=""){
+        jsessionid=_jsessioinid;
+        seat_num=_seat_num;
+        name=_name;
+        st_time=default_st_time;
+        ed_time=default_ed_time;
+    }
+    void show(){
+        cout<<name<<"\t"<<jsessionid<<"\t"<<seat_num<<"\t"<<st_time<<"-"<<ed_time<<endl;
+        output<<name<<"\t"<<jsessionid<<"\t"<<seat_num<<"\t"<<st_time<<"-"<<ed_time<<endl;
+    }
+};
+vector<User> users;
 void SingleSendAndPost(string jsessionid,int seat,int year,int month,int day,int st_time,int ed_time,int threadid){
     MySocket tk(GetHeader(initgetm,jsessionid));
     string token = tk.GetToken();
@@ -45,15 +70,17 @@ void SingleSendAndPost(string jsessionid,int seat,int year,int month,int day,int
     string reply=tk.GetResult(postm);
     Time a;
     a.freshen();
-    cout<<threadid<<" Single One ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSeat:"<<seat<<"\t"<<"Token:"<<token<<endl;
-    output<<threadid<<" Single One ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSeat:"<<seat<<"\t"<<"Token:"<<token<<endl;
-    cout<<threadid<<" reply:"<<reply<<endl;
-    output<<threadid<<" reply:"<<reply<<endl;
+//    cout<<threadid<<" Single One ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSeat:"<<seat<<"\t"<<"Token:"<<token<<endl;
+//    output<<threadid<<" Single One ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSeat:"<<seat<<"\t"<<"Token:"<<token<<endl;
+//    cout<<threadid<<" reply:"<<reply<<endl;
+//    output<<threadid<<" reply:"<<reply<<endl;
     tk.CloseSocket();
 }
 
-bool OneThread(string jsessionid,int seat,int year,int month,int day,int st_time,int ed_time,int threadid=0,Time target = Time(19,30)){
+bool OneThread(
+    string jsessionid,int seat,int st_time, int ed_time,int year,int month,int day,int threadid=0,Time target = Time(19,30)){
     //Create Link
+    cout<<"jin"<<endl;
     MySocket tk(GetHeader(initgetm,jsessionid));
     Time a;
     a.freshen();
@@ -66,15 +93,15 @@ bool OneThread(string jsessionid,int seat,int year,int month,int day,int st_time
     output<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<" seat:"<<seat<<" target:"<<month<<"-"<<day<<" "<<st_time<<"~"<<ed_time<<"\t"<<"Token:"<<token<<endl;
     //Keep Link
     int yu = target-a;
-//    cout<<"\n剩余时间："<<yu<<"秒"<<endl;
+    cout<<"\n剩余时间："<<yu<<"秒"<<endl;
 
     srand(time(0)*threadid);
     const int FinishKeepCountDown=rand()%20+20;
     while(yu>=FinishKeepCountDown-1){
         string tmp=tk.GetToken();
         if(tmp=="10053"){
-            cout<<" ERROR: 10053 timeout ------> Shall create  another thread\n";
-            output<<" ERROR: 10053 timeout ------> Shall create  another thread\n";
+//            cout<<" ERROR: 10053 timeout ------> Shall create  another thread\n";
+//            output<<" ERROR: 10053 timeout ------> Shall create  another thread\n";
             return false;
         }
         token=tmp==""? token:tmp;
@@ -83,14 +110,14 @@ bool OneThread(string jsessionid,int seat,int year,int month,int day,int st_time
         if(yu<=FinishKeepCountDown+1)break;
         int maxSleep=60*6;
 //        maxSleep=1;
-        cout<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
-        output<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
+//        cout<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
+//        output<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
         Sleep( max(0,min(yu-FinishKeepCountDown,maxSleep) *1000) );
         a.freshen();
         yu=target-a;
     }
     if(GetLastError()==10053){
-        cout<<" ERROR: 10053 timeout ------> Shall create  another thread\n";
+//        cout<<" ERROR: 10053 timeout ------> Shall create  another thread\n";
         return false;
     }
 
@@ -99,30 +126,23 @@ bool OneThread(string jsessionid,int seat,int year,int month,int day,int st_time
     GetHeader postm(initpostm,jsessionid,token,seat,year,month,day,st_time,ed_time);
     a.freshen();
     yu=target-a;
-    cout<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
-    output<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
-    Sleep( max(1+yu,0)*1000);
+//    cout<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
+//    output<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
+    Sleep( max(1.0+yu,0.0)*1000);
     string reply=tk.GetResult(postm);
     a.freshen();
-    cout<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
-    output<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
-    cout<<threadid<<" reply:"<<reply<<endl;
-    output<<threadid<<" reply:"<<reply<<endl;
+//    cout<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
+//    output<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
+//    cout<<threadid<<" reply:"<<reply<<endl;
+//    output<<threadid<<" reply:"<<reply<<endl;
     tk.CloseSocket();
 
     //Insurance
-    Sleep(500);
     cout<<threadid<<" Insurance! ------ "<<endl;
     output<<threadid<<" Insurance! ------ "<<endl;
-    SingleSendAndPost(jsessionid,s[82],year,month,day,st_time,ed_time,threadid);
-    Sleep(500);
-    SingleSendAndPost(jsessionid,s[81],year,month,day,st_time,ed_time,threadid);
-    Sleep(500);
-    SingleSendAndPost(jsessionid,s[80],year,month,day,st_time,ed_time,threadid);
-    Sleep(500);
-    SingleSendAndPost(jsessionid,s[77],year,month,day,st_time,ed_time,threadid);
-    Sleep(500);
-    SingleSendAndPost(jsessionid,s[79],year,month,day,st_time,ed_time,threadid);
+    for(int i=82-(rand()%10);i>=seat_ed;i--){
+        SingleSendAndPost(jsessionid,seat[i],year,month,day,st_time,ed_time,threadid);
+    }
 //    SingleSendAndPost(jsessionid,66,year,month,day,st_time,ed_time);
 //    SingleSendAndPost(jsessionid,65,year,month,day,st_time,ed_time);
     return true;
@@ -132,21 +152,30 @@ int cnt=0;
 DWORD WINAPI Fun1(LPVOID lpParamter)
 {
     int nowcnt=cnt++;
-    while(OneThread(yyh_jsessionid,s[yyh_seat],year,month,day,yyh_st_time,yyh_ed_time,nowcnt+=100)==false);
+    int id=100*nowcnt;
+    cout<<"Call FUN1: "<<nowcnt<<" cnt="<<cnt<<endl;
+    while(OneThread(users[nowcnt].jsessionid,users[nowcnt].seat_num,users[nowcnt].st_time,users[nowcnt].ed_time,year,month,day,id+=100)==false);
     cnt--;
+    cout<<"End Fun1: "<<nowcnt<<" cnt="<<cnt<<endl;
     return 0L;
 }
-DWORD WINAPI Fun2(LPVOID lpParamter)
-{
-    int nowcnt=cnt++;
-    while(false==OneThread(zby_jsessionid,s[zby_seat],year,month,day,zby_st_time,zby_ed_time,nowcnt+=100));
-    cnt--;
-    return 0L;
+void getUser(){
+    freopen(UserFile,"r",stdin);
+    users.clear();
+    string tj,tn;int ts;
+    while(cin>>tn>>tj>>ts){
+        users.push_back(User(tj,ts,tn));
+    }
+    for(auto&i:users){
+        i.show();
+    }
 }
-
 int main ()
 {
-    s[82]=52967;s[81]=52291;s[80]=52337;s[77]=52969;s[78]=52968;s[79]=52293;s[66]=48918;s[65]=48920;
+    seat[82]=52967;seat[81]=52291;seat[80]=52337;seat[77]=52969;seat[78]=52968;seat[79]=52293;
+    seat[79]=52293;seat[76]=52970;seat[73]=52296;seat[71]=52971;seat[70]=52973;seat[75]=52294;
+    seat[69]=52966;seat[67]=52299;seat[74]=52965;seat[72]=52972;seat[68]=52343;
+    seat_ed=68;
 //    system("chcp 65001");
 //    char str[]="SYNCHRONIZER_TOKEN=15aee16b-52c0-418a-9b10-9825242f29b6&SYNCHRONIZER_URI=%2Fself&date=2020-11-05&seat=48918&start=480&end=1320&authid=-1";
 //    cout<<sizeof(str)<<endl;
@@ -157,17 +186,14 @@ int main ()
     output<<"Start: ====== "<<a.mon<<"-"<<a.day<<" "<<a.hour<<"."<<a.minn<<"."<<a.sec<<endl;
     cout<<"Start: ====== "<<a.mon<<"-"<<a.day<<" "<<a.hour<<"."<<a.minn<<"."<<a.sec<<endl;
 
-    for(int i=0;i<=6;i++){
-//        Sleep(1000);
-        if(i%2==0){
-            HANDLE hThread = CreateThread(NULL, 0, Fun1, NULL, 0, NULL);
-        }
-        else{
-            HANDLE hThread = CreateThread(NULL, 0, Fun2, NULL, 0, NULL);
-        }
+    getUser();
+
+    for(int i=0;i<users.size();i++){
+        Sleep(1000);
+        HANDLE hThread = CreateThread(NULL, 0, Fun1, NULL, 0, NULL);
     }
 
-    Sleep(3000);
+    Sleep(5000);
     while(cnt>0)Sleep(1000*60*10);
     cout<<"Finish all"<<endl;
     output<<"Finish all"<<endl;
