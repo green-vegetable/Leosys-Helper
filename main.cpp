@@ -7,8 +7,6 @@
 using namespace std;
 
 //daily-modify
-//日常修改的部分
-const int year=2020,month=12,day=20;
 const int default_st_time=8,default_ed_time=22;
 
 string initgetm=(R"(GET /self HTTP/1.1
@@ -78,13 +76,39 @@ void SingleSendAndPost(string jsessionid,int seat,int year,int month,int day,int
 //    output<<threadid<<" reply:"<<reply<<endl;
     tk.CloseSocket();
 }
-
-bool OneThread(
-    string jsessionid,int tseat,int st_time, int ed_time,int year,int month,int day,int threadid=0,Time target = Time(19,30)){
-    //Create Link
-    cout<<"jin"<<endl;
-    MySocket tk(GetHeader(initgetm,jsessionid));
+int yue[12]{31,28,31,30,31,30,31,31,30,31,30,31};
+void getnext(int&year,int&month,int&day){
     Time a;
+    a.freshen();
+    year=a.year;
+    month=a.mon;
+    day=a.day;
+    int run=0;
+    if(year%4==0 && year%100!=0) yue[1]=29;
+    else yue[1]=28;
+    day++;
+    // printf("%d %d %d\n",year,month,day);
+    if(day>yue[month-1]){
+        day=1;
+        month++;
+    }
+    if(month>12){
+        month=1;
+        year++;
+    }
+}
+bool OneThread(
+    string jsessionid,int tseat,int st_time, int ed_time,int threadid=0,Time target = Time(19,30)){
+    //Create Link
+    Time a;
+    a.freshen();
+
+    int year,month,day;
+    getnext(year,month,day);
+    cout<<"Init OneThread : real time: "<<a.year<<'-'<<a.mon<<'-'<<a.day<<" "<<a.hour<<":"<<a.minn<<":"<<a.sec<<"\ttarget time:"<<year<<"-"<<month<<"-"<<day<<endl;
+    output<<"Init OneThread : real time: "<<a.year<<'-'<<a.mon<<'-'<<a.day<<" "<<a.hour<<":"<<a.minn<<":"<<a.sec<<"\ttarget time:"<<year<<"-"<<month<<"-"<<day<<endl;
+
+    MySocket tk(GetHeader(initgetm,jsessionid));
     a.freshen();
     string token=tk.GetToken();
     if(token==""){
@@ -112,8 +136,8 @@ bool OneThread(
         if(yu<=FinishKeepCountDown+1)break;
         int maxSleep=60*6;
 //        maxSleep=1;
-//        cout<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
-//        output<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
+        cout<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
+        output<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
         Sleep( max(0,min(yu-FinishKeepCountDown,maxSleep) *1000) );
         a.freshen();
         yu=target-a;
@@ -128,15 +152,15 @@ bool OneThread(
     GetHeader postm(initpostm,jsessionid,token,seat[tseat],year,month,day,st_time,ed_time);
     a.freshen();
     yu=target-a;
-//    cout<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
-//    output<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
+    cout<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
+    output<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
     Sleep( max(1.0+yu,0.0)*1000);
     string reply=tk.GetResult(postm);
     a.freshen();
-//    cout<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
-//    output<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
-//    cout<<threadid<<" reply:"<<reply<<endl;
-//    output<<threadid<<" reply:"<<reply<<endl;
+    cout<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
+    output<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
+    cout<<threadid<<" reply:"<<reply<<endl;
+    output<<threadid<<" reply:"<<reply<<endl;
     tk.CloseSocket();
 
     //Insurance
@@ -147,7 +171,7 @@ bool OneThread(
     }
 //    SingleSendAndPost(jsessionid,66,year,month,day,st_time,ed_time);
 //    SingleSendAndPost(jsessionid,65,year,month,day,st_time,ed_time);
-    return true;
+    return false;
 }
 
 int cnt=0;
@@ -156,7 +180,7 @@ DWORD WINAPI Fun1(LPVOID lpParamter)
     int nowcnt=cnt++;
     int id=100*nowcnt;
     cout<<"Call FUN1: "<<nowcnt<<" cnt="<<cnt<<endl;
-    while(OneThread(users[nowcnt].jsessionid,users[nowcnt].seat_num,users[nowcnt].st_time,users[nowcnt].ed_time,year,month,day,id+=100)==false);
+    while(OneThread(users[nowcnt].jsessionid,users[nowcnt].seat_num,users[nowcnt].st_time,users[nowcnt].ed_time,id+=100)==false);
     cnt--;
     cout<<"End Fun1: "<<nowcnt<<" cnt="<<cnt<<endl;
     return 0L;

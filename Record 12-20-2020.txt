@@ -11,3 +11,73 @@ yhy	1612C63E4EACF0F00AF939C0E9D833C5	79	8-22
 200 Init ------ 12-20	16.2.25 seat:82 target:12-20 8~22	Token:
 300 Error: Init Token Dismiss!
 300 Init ------ 12-20	16.2.26 seat:80 target:12-20 8~22	Token:
+Start: ====== 12-20 16.44.51
+yyh	0E62581E5E4323F0CEFF4584E0E29528	81	8-22
+zby	A2204C370404B9C58690D36779FA0D3F	82	8-22
+chy	C5D19EC36F14120D2D63FDC38BD673A4	80	8-22
+zjw	1CE826C1A94A0A17E1A991EFB9B93137	81	8-22
+wyf	692743E653473D2EC70123FF6C6AC1C0	82	8-22
+yhy	AA9A136AE88B0E6B9946AD662C409D60	79	8-22
+Init OneThread : real time: 2020-12-20 16:44:52	target time:2021-1-1
+Init OneThread : real time: 2020-12-20 16:44:53	target time:2021-1-1
+Init OneThread : real time: 2020-12-20 16:44:54	target time:2021-1-1
+100 Init ------ 12-20	16.44.52 seat:81 target:1-1 8~22	Token:18bac003-f8e6-4bc7-a86c-993a26775cf3
+200 Init ------ 12-20	16.44.53 seat:82 target:1-1 8~22	Token:116a3409-25df-430b-940b-7478c6e983c7
+Init OneThread : real time: 2020-12-20 16:44:55	target time:2021-1-1
+Init OneThread : real time: 2020-12-20 16:44:56	target time:2021-1-1
+300 Init ------ 12-20	16.44.54 seat:80 target:1-1 8~22	Token:9026460a-9389-4286-a43d-a6cb5d33752a
+400 Init ------ 12-20	16.44.55 seat:81 target:1-1 8~22	Token:32584293-8f20-433f-a07f-2b9a9f662263
+Init OneThread : real time: 2020-12-20 16:44:57	target time:2021-1-1
+500 Init ------ 12-20	16.44.56 seat:82 target:1-1 8~22	Token:89a30be8-ef67-45a1-8b67-8bffbcbbaa0b
+600 Init ------ 12-20	16.44.58 seat:79 target:1-1 8~22	Token:73bbbf2c-8d9f-4e29-bc2d-7eda56dbca1b
+Start: ====== 12-20 16.45.39
+yyh	0E62581E5E4323F0CEFF4584E0E29528	81	8-22
+zby	A2204C370404B9C58690D36779FA0D3F	82	8-22
+chy	C5D19EC36F14120D2D63FDC38BD673A4	80	8-22
+zjw	1CE826C1A94A0A17E1A991EFB9B93137	81	8-22
+wyf	692743E653473D2EC70123FF6C6AC1C0	82	8-22
+yhy	AA9A136AE88B0E6B9946AD662C409D60	79	8-22
+Init OneThread : real time: 2020-12-20 16:45:40	target time:2021-1-1
+Init OneThread : real time: 2020-12-20 16:45:41	target time:2021-1-1
+100 Init ------ 12-20	16.45.40 seat:81 target:1-1 8~22	Token:7f43cb5f-8726-4b77-b64e-aabb68488808
+Init OneThread : real time: 2020-12-20 16:45:42	target time:2021-1-1
+200 Init ------ 12-20	16.45.41 seat:82 target:1-1 8~22	Token:3d9cc4ae-6480-4821-8652-3eec87709b86
+Init OneThread : real time: 2020-12-20 16:45:43	target time:2021-1-1
+Start: ====== 12-20 16.46.13
+yyh	0E62581E5E4323F0CEFF4584E0E29528	81	8-22
+zby	A2204C370404B9C58690D36779FA0D3F	82	8-22
+chy	C5D19EC36F14120D2D63FDC38BD673A4	80	8-22
+zjw	1CE826C1A94A0A17E1A991EFB9B93137	81	8-22
+wyf	692743E653473D2EC70123FF6C6AC1C0	82	8-22
+yhy	AA9A136AE88B0E6B9946AD662C409D60	79	8-22
+Init OneThread : real time: 2020-12-20 16:46:14	target time:2020-12-20
+Init OneThread : real time: 2020-12-20 16:46:15	target time:2020-12-20
+100 Init ------ 12-20	16.46.14 seat:81 target:12-20 8~22	Token:95a42b18-a525-41cc-ae15-657c5410a582
+Init OneThread : real time: 2020-12-20 16:46:16	target time:2020-12-20
+200 Init ------ 12-20	16.46.15 seat:82 target:12-20 8~22	Token:4e4cba5c-ec9e-4049-8025-42c3d160477a
+Init OneThread : real time: 2020-12-20 16:46:17	target time:2020-12-20
+300 Init ------ 12-20	16.46.16 seat:80 target:12-20 8~22	Token:a2922097-e9ff-4672-b981-5fdc99d50b2f
+Init OneThread : real time: 2020-12-20 16:46:18	target time:2020-12-20
+400 Init ------ 12-20	16.46.17 seat:81 target:12-20 8~22	Token:5ad736d0-5062-4da8-a185-3bd41fb3f0c8
+Init OneThread : real time: 2020-12-20 16:46:19	target time:2020-12-20
+500 Init ------ 12-20	16.46.18 seat:82 target:12-20 8~22	Token:c0d6dbd0-b8ee-411e-a29a-94d1a2a9c9c0
+600 Init ------ 12-20	16.46.19 seat:79 target:12-20 8~22	Token:f28494d4-ca0e-4444-b76d-38fdfd3dc2c9
+Start: ====== 12-20 16.46.35
+yyh	0E62581E5E4323F0CEFF4584E0E29528	81	8-22
+zby	A2204C370404B9C58690D36779FA0D3F	82	8-22
+chy	C5D19EC36F14120D2D63FDC38BD673A4	80	8-22
+zjw	1CE826C1A94A0A17E1A991EFB9B93137	81	8-22
+wyf	692743E653473D2EC70123FF6C6AC1C0	82	8-22
+yhy	AA9A136AE88B0E6B9946AD662C409D60	79	8-22
+Init OneThread : real time: 2020-12-20 16:46:36	target time:2020-12-21
+Init OneThread : real time: 2020-12-20 16:46:37	target time:2020-12-21
+100 Init ------ 12-20	16.46.36 seat:81 target:12-21 8~22	Token:57197331-2e02-4031-86bf-9f988f18c9b8
+Init OneThread : real time: 2020-12-20 16:46:38	target time:2020-12-21
+200 Init ------ 12-20	16.46.37 seat:82 target:12-21 8~22	Token:b13c8cbe-bf58-4441-b0b9-90017dc0fe58
+Init OneThread : real time: 2020-12-20 16:46:39	target time:2020-12-21
+300 Init ------ 12-20	16.46.38 seat:80 target:12-21 8~22	Token:5ecbd87e-e482-4e5e-bfe8-842a0240ec4a
+Init OneThread : real time: 2020-12-20 16:46:40	target time:2020-12-21
+400 Init ------ 12-20	16.46.39 seat:81 target:12-21 8~22	Token:3e65f6ac-428d-4ae4-99d4-b01856a4eacf
+Init OneThread : real time: 2020-12-20 16:46:41	target time:2020-12-21
+500 Init ------ 12-20	16.46.40 seat:82 target:12-21 8~22	Token:f60077ee-b968-4320-8197-3c0af6aef540
+600 Init ------ 12-20	16.46.41 seat:79 target:12-21 8~22	Token:b446c381-fa54-4426-a85d-bbb1f9c6f383
