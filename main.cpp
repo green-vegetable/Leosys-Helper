@@ -77,12 +77,10 @@ void SingleSendAndPost(string jsessionid,int seat,int year,int month,int day,int
     tk.CloseSocket();
 }
 int yue[12]{31,28,31,30,31,30,31,31,30,31,30,31};
-void getnext(int&year,int&month,int&day){
-    Time a;
-    a.freshen();
-    year=a.year;
-    month=a.mon;
-    day=a.day;
+Time getnext(Time a){
+    int year=a.year;
+    int month=a.mon;
+    int day=a.day;
     int run=0;
     if(year%4==0 && year%100!=0) yue[1]=29;
     else yue[1]=28;
@@ -96,15 +94,14 @@ void getnext(int&year,int&month,int&day){
         month=1;
         year++;
     }
+    return Time(year,month,day);
 }
 bool OneThread(
-    string jsessionid,int tseat,int st_time, int ed_time,int threadid=0,Time target = Time(19,30)){
+    string jsessionid,int tseat,int st_time, int ed_time,int threadid,Time target){
     //Create Link
     Time a;
     a.freshen();
-
-    int year,month,day;
-    getnext(year,month,day);
+    int year=target.year,month=target.mon,day=target.day;
     cout<<"Init OneThread : real time: "<<a.year<<'-'<<a.mon<<'-'<<a.day<<" "<<a.hour<<":"<<a.minn<<":"<<a.sec<<"\ttarget time:"<<year<<"-"<<month<<"-"<<day<<endl;
     output<<"Init OneThread : real time: "<<a.year<<'-'<<a.mon<<'-'<<a.day<<" "<<a.hour<<":"<<a.minn<<":"<<a.sec<<"\ttarget time:"<<year<<"-"<<month<<"-"<<day<<endl;
 
@@ -180,7 +177,19 @@ DWORD WINAPI Fun1(LPVOID lpParamter)
     int nowcnt=cnt++;
     int id=100*nowcnt;
     cout<<"Call FUN1: "<<nowcnt<<" cnt="<<cnt<<endl;
-    while(OneThread(users[nowcnt].jsessionid,users[nowcnt].seat_num,users[nowcnt].st_time,users[nowcnt].ed_time,id+=100)==false);
+    Time a;
+    a.freshen();
+    a.print();
+    if(a.hour>=20 || a.hour==19 && a.minn>=30 && a.sec>=30){
+        cout<<"Shall seek day after tomorrow"<<endl;
+        output<<"Shall seek day after tomorrow"<<endl;
+        a=getnext(a);
+        a=getnext(a);
+    }
+    else {
+        a=getnext(a);
+    }
+    while(OneThread(users[nowcnt].jsessionid,users[nowcnt].seat_num,users[nowcnt].st_time,users[nowcnt].ed_time,id+=100,a)==false);
     cnt--;
     cout<<"End Fun1: "<<nowcnt<<" cnt="<<cnt<<endl;
     return 0L;

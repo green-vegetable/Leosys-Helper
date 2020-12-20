@@ -4,8 +4,8 @@ using namespace std;
 Time::Time(){
     freshen();
 }
-Time::Time(int _hour,int _minn,int _sec){
-    hour=_hour;minn=_minn;sec=_sec;
+Time::Time(int _year,int _mon,int _day,int _hour,int _minn,int _sec){
+    year=_year,mon=_mon,day=_day;hour=_hour;minn=_minn;sec=_sec;
 }
 void Time::freshen(){
     time_t nowTime = time(NULL);
@@ -16,5 +16,7 @@ void Time::print(){
     printf("\r%d-%02d-%02d %02d:%02d:%02d",year,mon,day,hour,minn,sec);
 }
 int operator - (Time start,Time eend){
-    return start.hour*3600+start.minn*60+start.sec -eend.hour*3600-eend.minn*60-eend.sec;
+    int ans=0;
+    if(start.day!=eend.day) ans=24*3600;
+    return ans+start.hour*3600+start.minn*60+start.sec -eend.hour*3600-eend.minn*60-eend.sec;
 }
