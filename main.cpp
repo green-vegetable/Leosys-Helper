@@ -36,7 +36,7 @@ Upgrade-Insecure-Requests: 1
 ofstream output;
 map<int,int> seat;
 int seat_ed;
-const char UserFile[]="UJessionid&Seatid.txt";
+const char UserFile[]="UJessionid&seatid.txt";
 struct User{
     string jsessionid;
     string name="";
@@ -78,7 +78,7 @@ void SingleSendAndPost(string jsessionid,int seat,int year,int month,int day,int
 }
 
 bool OneThread(
-    string jsessionid,int seat,int st_time, int ed_time,int year,int month,int day,int threadid=0,Time target = Time(19,30)){
+    string jsessionid,int tseat,int st_time, int ed_time,int year,int month,int day,int threadid=0,Time target = Time(19,30)){
     //Create Link
     cout<<"jin"<<endl;
     MySocket tk(GetHeader(initgetm,jsessionid));
@@ -89,8 +89,8 @@ bool OneThread(
         cout<<threadid<<" Error: Init Token Dismiss!"<<endl;
         output<<threadid<<" Error: Init Token Dismiss!"<<endl;
     }
-    cout<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<" seat:"<<seat<<" target:"<<month<<"-"<<day<<" "<<st_time<<"~"<<ed_time<<"\t"<<"Token:"<<token<<endl;
-    output<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<" seat:"<<seat<<" target:"<<month<<"-"<<day<<" "<<st_time<<"~"<<ed_time<<"\t"<<"Token:"<<token<<endl;
+    cout<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<" seat:"<<tseat<<" target:"<<month<<"-"<<day<<" "<<st_time<<"~"<<ed_time<<"\t"<<"Token:"<<token<<endl;
+    output<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<" seat:"<<tseat<<" target:"<<month<<"-"<<day<<" "<<st_time<<"~"<<ed_time<<"\t"<<"Token:"<<token<<endl;
     //Keep Link
     int yu = target-a;
     cout<<"\nÊ£ÓàÊ±¼ä£º"<<yu<<"Ãë"<<endl;
@@ -123,7 +123,7 @@ bool OneThread(
 
 
     //Do post
-    GetHeader postm(initpostm,jsessionid,token,seat,year,month,day,st_time,ed_time);
+    GetHeader postm(initpostm,jsessionid,token,seat[tseat],year,month,day,st_time,ed_time);
     a.freshen();
     yu=target-a;
 //    cout<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
@@ -141,7 +141,7 @@ bool OneThread(
     cout<<threadid<<" Insurance! ------ "<<endl;
     output<<threadid<<" Insurance! ------ "<<endl;
     for(int i=82-(rand()%10);i>=seat_ed;i--){
-        SingleSendAndPost(jsessionid,seat[i],year,month,day,st_time,ed_time,threadid);
+        SingleSendAndPost(jsessionid,seat[tseat],year,month,day,st_time,ed_time,threadid);
     }
 //    SingleSendAndPost(jsessionid,66,year,month,day,st_time,ed_time);
 //    SingleSendAndPost(jsessionid,65,year,month,day,st_time,ed_time);
