@@ -1,4 +1,6 @@
 #include<bits/stdc++.h>
+#include <winsock2.h>
+#include <windows.h>
 #include"MySocket.h"
 #include"GetHeader.h"
 #include"Time.h"
