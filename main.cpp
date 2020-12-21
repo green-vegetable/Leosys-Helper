@@ -77,28 +77,10 @@ void SingleSendAndPost(string jsessionid,int seat,int year,int month,int day,int
     tk.CloseSocket();
 }
 int yue[12]{31,28,31,30,31,30,31,31,30,31,30,31};
-Time getnext(Time a){
-    int year=a.year;
-    int month=a.mon;
-    int day=a.day;
-    int run=0;
-    if(year%4==0 && year%100!=0) yue[1]=29;
-    else yue[1]=28;
-    day++;
-    // printf("%d %d %d\n",year,month,day);
-    if(day>yue[month-1]){
-        day=1;
-        month++;
-    }
-    if(month>12){
-        month=1;
-        year++;
-    }
-    return Time(year,month,day);
-}
 bool OneThread(
     string jsessionid,int tseat,int st_time, int ed_time,int threadid,Time target){
     //Create Link
+    target.SetStart(20,18,0);
     Time a;
     a.freshen();
     int year=target.year,month=target.mon,day=target.day;
@@ -106,7 +88,6 @@ bool OneThread(
     output<<"Init OneThread : real time: "<<a.year<<'-'<<a.mon<<'-'<<a.day<<" "<<a.hour<<":"<<a.minn<<":"<<a.sec<<"\ttarget time:"<<year<<"-"<<month<<"-"<<day<<endl;
 
     MySocket tk(GetHeader(initgetm,jsessionid));
-    a.freshen();
     string token=tk.GetToken();
     if(token==""){
         cout<<threadid<<" Error: Init Token Dismiss!"<<endl;
@@ -115,8 +96,11 @@ bool OneThread(
     cout<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<" seat:"<<tseat<<" target:"<<month<<"-"<<day<<" "<<st_time<<"~"<<ed_time<<"\t"<<"Token:"<<token<<endl;
     output<<threadid<<" Init ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<" seat:"<<tseat<<" target:"<<month<<"-"<<day<<" "<<st_time<<"~"<<ed_time<<"\t"<<"Token:"<<token<<endl;
     //Keep Link
-    int yu = target-a;
+    a.freshen();
+    int yu = target-a-86400;
+    target.print();
     cout<<"\nÊ£ÓàÊ±¼ä£º"<<yu<<"Ãë"<<endl;
+    output<<"\nÊ£ÓàÊ±¼ä£º"<<yu<<"Ãë"<<endl;
 
     srand(time(0)*threadid);
     const int FinishKeepCountDown=rand()%20+20;
@@ -129,7 +113,7 @@ bool OneThread(
         }
         token=tmp==""? token:tmp;
         a.freshen();
-        yu=target-a;
+        yu=target-a-86400;
         if(yu<=FinishKeepCountDown+1)break;
         int maxSleep=60*6;
 //        maxSleep=1;
@@ -137,7 +121,7 @@ bool OneThread(
         output<<threadid<<" Keep alive ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<min(yu-FinishKeepCountDown,maxSleep)<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<" FinishTime="<<FinishKeepCountDown<<endl;
         Sleep( max(0,min(yu-FinishKeepCountDown,maxSleep) *1000) );
         a.freshen();
-        yu=target-a;
+        yu=target-a-86400;
     }
     if(GetLastError()==10053){
 //        cout<<" ERROR: 10053 timeout ------> Shall create  another thread\n";
@@ -148,7 +132,7 @@ bool OneThread(
     //Do post
     GetHeader postm(initpostm,jsessionid,token,seat[tseat],year,month,day,st_time,ed_time);
     a.freshen();
-    yu=target-a;
+    yu=target-a-86400;
     cout<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
     output<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
     Sleep( max(1.0+yu,0.0)*1000);
@@ -183,11 +167,11 @@ DWORD WINAPI Fun1(LPVOID lpParamter)
     if(a.hour>=20 || a.hour==19 && a.minn>=30 && a.sec>=30){
         cout<<"Shall seek day after tomorrow"<<endl;
         output<<"Shall seek day after tomorrow"<<endl;
-        a=getnext(a);
-        a=getnext(a);
+    //    a.getnext();
+        a.getnext();
     }
     else {
-        a=getnext(a);
+        a.getnext();
     }
     while(OneThread(users[nowcnt].jsessionid,users[nowcnt].seat_num,users[nowcnt].st_time,users[nowcnt].ed_time,id+=100,a)==false);
     cnt--;
