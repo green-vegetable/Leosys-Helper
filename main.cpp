@@ -80,7 +80,7 @@ int yue[12]{31,28,31,30,31,30,31,31,30,31,30,31};
 bool OneThread(
     string jsessionid,int tseat,int st_time, int ed_time,int threadid,Time target){
     //Create Link
-    target.SetStart(20,18,0);
+    target.SetStart();
     Time a;
     a.freshen();
     int year=target.year,month=target.mon,day=target.day;
@@ -167,7 +167,7 @@ DWORD WINAPI Fun1(LPVOID lpParamter)
     if(a.hour>=20 || a.hour==19 && a.minn>=30 && a.sec>=30){
         cout<<"Shall seek day after tomorrow"<<endl;
         output<<"Shall seek day after tomorrow"<<endl;
-    //    a.getnext();
+        a.getnext();
         a.getnext();
     }
     else {

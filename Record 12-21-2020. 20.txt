@@ -1,0 +1,111 @@
+Start: ====== 12-21 20.25.19
+yyh	0E62581E5E4323F0CEFF4584E0E29528	81	8-22
+zby	A2204C370404B9C58690D36779FA0D3F	82	8-22
+chy	C5D19EC36F14120D2D63FDC38BD673A4	80	8-22
+zjw	1CE826C1A94A0A17E1A991EFB9B93137	78	8-22
+wyf	692743E653473D2EC70123FF6C6AC1C0	77	8-22
+yhy	AA9A136AE88B0E6B9946AD662C409D60	79	8-22
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:25:20	target time:2020-12-23
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:25:21	target time:2020-12-23
+100 Init ------ 12-21	20.25.20 seat:81 target:12-23 8~22	Token:ef114266-ad22-4f94-80c2-d16abdd2284e
+
+剩余时间：83078秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:25:22	target time:2020-12-23
+200 Init ------ 12-21	20.25.21 seat:82 target:12-23 8~22	Token:dbccb066-ac43-4d78-b7d9-a6f6253a01f2
+
+剩余时间：83077秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:25:23	target time:2020-12-23
+100 Keep alive ------ 12-21	20.25.23	Sleep:360	Token:b626933a-22df-4c56-aeca-6a25f10fd727	yu=83077 FinishTime=29
+300 Init ------ 12-21	20.25.22 seat:80 target:12-23 8~22	Token:df932d2a-4213-4903-9707-f1f8da1a5fb4
+
+剩余时间：83076秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:25:24	target time:2020-12-23
+200 Keep alive ------ 12-21	20.25.24	Sleep:360	Token:084d82d9-3dff-4235-8e6b-04882659c541	yu=83076 FinishTime=32
+400 Init ------ 12-21	20.25.23 seat:78 target:12-23 8~22	Token:d9923a98-a213-49fa-989a-32770ca449e2
+
+剩余时间：83075秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:25:25	target time:2020-12-23
+300 Keep alive ------ 12-21	20.25.25	Sleep:360	Token:2e45c7c8-36ee-44bb-9594-e4356fa6ab89	yu=83075 FinishTime=21
+500 Error: Init Token Dismiss!
+500 Init ------ 12-21	20.25.24 seat:77 target:12-23 8~22	Token:
+
+剩余时间：83074秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:25:26	target time:2020-12-23
+400 Keep alive ------ 12-21	20.25.26	Sleep:360	Token:f0bea837-4570-4dc5-a995-a06adb3acca6	yu=83074 FinishTime=31
+600 Init ------ 12-21	20.25.25 seat:79 target:12-23 8~22	Token:d0d58ae2-adf2-4cd7-9c0e-9aa4eee1c773
+
+剩余时间：83073秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:25:27	target time:2020-12-23
+500 Keep alive ------ 12-21	20.25.27	Sleep:360	Token:	yu=83073 FinishTime=26
+700 Error: Init Token Dismiss!
+700 Init ------ 12-21	20.25.26 seat:0 target:12-23 0~0	Token:
+
+剩余时间：83073秒
+Shall seek day after tomorrow
+800 Error: Init Token Dismiss!
+800 Init ------ 12-21	20.25.27 seat:0 target:12-23 0~0	Token:
+Shall seek day after tomorrow
+Start: ====== 12-21 20.26.45
+yyh	0E62581E5E4323F0CEFF4584E0E29528	81	8-22
+zby	A2204C370404B9C58690D36779FA0D3F	82	8-22
+chy	C5D19EC36F14120D2D63FDC38BD673A4	80	8-22
+zjw	1CE826C1A94A0A17E1A991EFB9B93137	78	8-22
+wyf	692743E653473D2EC70123FF6C6AC1C0	77	8-22
+yhy	AA9A136AE88B0E6B9946AD662C409D60	79	8-22
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:26:46	target time:2020-12-23
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:26:47	target time:2020-12-23
+100 Init ------ 12-21	20.26.46 seat:81 target:12-23 8~22	Token:d4dd1025-4bd1-4123-a6a5-c977eb6a9fae
+
+剩余时间：82993秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:26:48	target time:2020-12-23
+200 Init ------ 12-21	20.26.47 seat:82 target:12-23 8~22	Token:2bb81633-3835-4901-bc04-f5a76556d699
+
+剩余时间：82992秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:26:49	target time:2020-12-23
+100 Keep alive ------ 12-21	20.26.49	Sleep:360	Token:c2ff9825-085f-4679-b7ac-1dc0169c1494	yu=82991 FinishTime=38
+300 Init ------ 12-21	20.26.48 seat:80 target:12-23 8~22	Token:18b41f3a-357e-4b11-95ab-d75e644bcb4f
+
+剩余时间：82991秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:26:50	target time:2020-12-23
+200 Keep alive ------ 12-21	20.26.50	Sleep:360	Token:c2207f62-31bf-4810-9b13-4687441fc62c	yu=82990 FinishTime=31
+400 Init ------ 12-21	20.26.49 seat:78 target:12-23 8~22	Token:1dd6d138-ea7b-40af-94ec-14f257fc9fa8
+
+剩余时间：82990秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:26:51	target time:2020-12-23
+300 Keep alive ------ 12-21	20.26.51	Sleep:360	Token:de92d850-3ae6-4bf0-8041-373b2289c75e	yu=82989 FinishTime=37
+500 Error: Init Token Dismiss!
+500 Init ------ 12-21	20.26.50 seat:77 target:12-23 8~22	Token:
+
+剩余时间：82989秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:26:52	target time:2020-12-23
+400 Keep alive ------ 12-21	20.26.52	Sleep:360	Token:2bb7806f-9685-4249-99e4-cf7bb72fbaa2	yu=82988 FinishTime=28
+600 Init ------ 12-21	20.26.51 seat:79 target:12-23 8~22	Token:d39a4b8b-9ba9-46dd-8287-f9700f5407c3
+
+剩余时间：82988秒
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:26:53	target time:2020-12-23
+500 Keep alive ------ 12-21	20.26.53	Sleep:360	Token:	yu=82987 FinishTime=21
+700 Error: Init Token Dismiss!
+700 Init ------ 12-21	20.26.52 seat:0 target:12-23 0~0	Token:
+
+剩余时间：82987秒
+Shall seek day after tomorrow
+600 Keep alive ------ 12-21	20.26.56	Sleep:360	Token:7e072e53-07b4-460f-bac0-8da6fc72a589	yu=82984 FinishTime=26
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-21 20:26:56	target time:2020-12-23
+800 Error: Init Token Dismiss!
