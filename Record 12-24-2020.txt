@@ -1,0 +1,32 @@
+Start: ====== 12-24 18.58.7
+yyh	02027C2180CC84AEA207A18B901BC7D9	81	8-22
+zby	A2204C370404B9C58690D36779FA0D3F	82	8-22
+chy	C5D19EC36F14120D2D63FDC38BD673A4	80	8-22
+zjw	1CE826C1A94A0A17E1A991EFB9B93137	78	8-22
+yhy	AA9A136AE88B0E6B9946AD662C409D60	79	8-22
+Init OneThread : real time: 2020-12-24 18:58:8	target time:2020-12-25
+Init OneThread : real time: 2020-12-24 18:58:9	target time:2020-12-25
+100 Error: Init Token Dismiss!
+100 Init ------ 12-24	18.58.8 seat:81 target:12-25 8~22	Token:
+
+剩余时间：1910秒
+Init OneThread : real time: 2020-12-24 18:58:10	target time:2020-12-25
+200 Init ------ 12-24	18.58.9 seat:82 target:12-25 8~22	Token:c8602ed7-5a07-48a3-87ed-1181efafb14b
+
+剩余时间：1909秒
+Init OneThread : real time: 2020-12-24 18:58:11	target time:2020-12-25
+100 Keep alive ------ 12-24	18.58.11	Sleep:360	Token:	yu=1909 FinishTime=23
+300 Init ------ 12-24	18.58.10 seat:80 target:12-25 8~22	Token:369dda63-e32c-4472-aaf6-bda46ee98919
+
+剩余时间：1908秒
+Init OneThread : real time: 2020-12-24 18:58:12	target time:2020-12-25
+200 Keep alive ------ 12-24	18.58.13	Sleep:360	Token:c6b55a51-2a8a-411a-b6c9-44fbbe2dde04	yu=1907 FinishTime=21
+400 Init ------ 12-24	18.58.11 seat:78 target:12-25 8~22	Token:5d34156f-6d44-490b-9011-6d603607b767
+
+剩余时间：1907秒
+300 Keep alive ------ 12-24	18.58.14	Sleep:360	Token:2cf9eab2-b68a-4d20-a314-8b3e48c29789	yu=1906 FinishTime=24
+500 Init ------ 12-24	18.58.12 seat:79 target:12-25 8~22	Token:15efa532-33e2-4768-a1ca-405f67892680
+
+剩余时间：1906秒
+400 Keep alive ------ 12-24	18.58.14	Sleep:360	Token:87544ac2-4bf7-4aa6-9cd1-91bbe2a113ce	yu=1906 FinishTime=28
+500 Keep alive ------ 12-24	18.58.15	Sleep:360	Token:99411cbd-03a2-4563-9f99-5c6340b4c031	yu=1905 FinishTime=26

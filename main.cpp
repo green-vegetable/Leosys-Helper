@@ -9,6 +9,16 @@ using namespace std;
 //daily-modify
 const int default_st_time=8,default_ed_time=22;
 
+string cancelgetm=(R"(GET /reservation/cancel/4431233 HTTP/1.1
+Host: seat.lib.bnu.edu.cn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://seat.lib.bnu.edu.cn/history?type=SEAT
+Upgrade-Insecure-Requests: 1
+)");
 string initgetm=(R"(GET /self HTTP/1.1
 Host: seat.lib.bnu.edu.cn
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
