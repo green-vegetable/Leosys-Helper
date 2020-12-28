@@ -1,0 +1,527 @@
+Start: ====== 12-28 19.24.0
+yyh	592330422B895A30D119D87B8E54B591	81	8-22
+zby	36D5951B79A528C91BC76994B3C6D375	82	8-22
+zjw	D831EC90B5F5EDAAD2A3FE30ECC67A4B	80	8-22
+Init OneThread : real time: 2020-12-28 19:24:1	target time:2020-12-29
+Init OneThread : real time: 2020-12-28 19:24:2	target time:2020-12-29
+100 Init ------ 12-28	19.24.1 seat:81 target:12-29 8~22	Token:d91bd90c-e1f7-4421-96da-764051d62a9a
+
+ £”‡ ±º‰£∫357√Î
+Init OneThread : real time: 2020-12-28 19:24:3	target time:2020-12-29
+200 Init ------ 12-28	19.24.2 seat:82 target:12-29 8~22	Token:d3f4f0e0-b9f9-4ad1-be66-d02c4f9174d1
+
+ £”‡ ±º‰£∫356√Î
+100 Keep alive ------ 12-28	19.24.4	Sleep:331	Token:301ac832-b49b-40da-a810-aaac5b26d738	yu=356 FinishTime=25
+300 Init ------ 12-28	19.24.3 seat:80 target:12-29 8~22	Token:1ed0529a-9d0b-4898-abac-ce0ef853fd71
+
+ £”‡ ±º‰£∫355√Î
+200 Keep alive ------ 12-28	19.24.5	Sleep:329	Token:429adf5d-e34c-42be-8d10-bce5890ff5f3	yu=355 FinishTime=26
+300 Keep alive ------ 12-28	19.24.6	Sleep:315	Token:68711897-d2a1-4dab-8f20-ab4cb4c32417	yu=354 FinishTime=39
+300 Ready do post ------ 12-28	19.29.21	Sleep:40	Token:68711897-d2a1-4dab-8f20-ab4cb4c32417	yu=39
+Start: ====== 12-28 19.29.33
+yyh	592330422B895A30D119D87B8E54B591	81	8-22
+zby	36D5951B79A528C91BC76994B3C6D375	82	8-22
+zjw	D831EC90B5F5EDAAD2A3FE30ECC67A4B	80	8-22
+Init OneThread : real time: 2020-12-28 19:29:34	target time:2020-12-29
+Init OneThread : real time: 2020-12-28 19:29:35	target time:2020-12-29
+100 Init ------ 12-28	19.29.34 seat:81 target:12-29 8~22	Token:e563fd94-31ac-42af-8487-e1b90cd4fe24
+
+ £”‡ ±º‰£∫24√Î
+Init OneThread : real time: 2020-12-28 19:29:36	target time:2020-12-29
+200 Init ------ 12-28	19.29.35 seat:82 target:12-29 8~22	Token:ad39e60a-523f-4ddc-9d21-4f466a4dbdc3
+
+ £”‡ ±º‰£∫23√Î
+200 Ready do post ------ 12-28	19.29.37	Sleep:24	Token:ad39e60a-523f-4ddc-9d21-4f466a4dbdc3	yu=23
+100 Ready do post ------ 12-28	19.29.37	Sleep:24	Token:edfcde01-482f-4ccc-8599-6fbf51a8c8e2	yu=23
+300 Init ------ 12-28	19.29.36 seat:80 target:12-29 8~22	Token:8dff076a-686d-4f3a-8892-2ca93e8379a5
+
+ £”‡ ±º‰£∫22√Î
+300 Ready do post ------ 12-28	19.29.38	Sleep:23	Token:8dff076a-686d-4f3a-8892-2ca93e8379a5	yu=22
+300 Sended post ------ 12-28	19.30.1	Token:8dff076a-686d-4f3a-8892-2ca93e8379a5
+200 Sended post ------ 12-28	19.30.1	Token:ad39e60a-523f-4ddc-9d21-4f466a4dbdc3
+300 reply:<dd>È¢ÑÁ∫¶Â§±Ë¥•! </dd>
+            <dd><span>Á≥ªÁªüÂèØÈ¢ÑÁ∫¶Êó∂Èó¥‰∏∫ 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+200 reply:<dd>È¢ÑÁ∫¶Â§±Ë¥•! </dd>
+            <dd><span>Á≥ªÁªüÂèØÈ¢ÑÁ∫¶Êó∂Èó¥‰∏∫ 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+200 Insurance! ------ 
+300 Insurance! ------ 
+100 Sended post ------ 12-28	19.30.1	Token:edfcde01-482f-4ccc-8599-6fbf51a8c8e2
+100 reply:<dd>È¢ÑÁ∫¶Â§±Ë¥•! </dd>
+            <dd><span>Á≥ªÁªüÂèØÈ¢ÑÁ∫¶Êó∂Èó¥‰∏∫ 19:30 ~ 23:30</span></dd>
+        
+        </dl>
+
+100 Insurance! ------ 
+Start: ====== 12-28 19.31.57
+yyh	592330422B895A30D119D87B8E54B591	81	8-22
+zby	36D5951B79A528C91BC76994B3C6D375	82	8-22
+zjw	D831EC90B5F5EDAAD2A3FE30ECC67A4B	80	8-22
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-28 19:31:58	target time:2020-12-30
+100 Error: Init Token Dismiss!
+100 Init ------ 12-28	19.31.58 seat:81 target:12-30 8~22	Token:
+
+ £”‡ ±º‰£∫86282√Î
+100 Keep alive ------ 12-28	19.31.58	Sleep:360	Token:	yu=86282 FinishTime=28
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-28 19:31:59	target time:2020-12-30
+Init OneThread : real time: 2020-12-28 19:32:0	target time:2020-12-29
+300 Error: Init Token Dismiss!
+300 Init ------ 12-28	19.32.0 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-120√Î
+300 Ready do post ------ 12-28	19.32.0	Sleep:-119	Token:	yu=-120
+300 Sended post ------ 12-28	19.32.0	Token:
+300 reply:No result
+300 Insurance! ------ 
+200 Init ------ 12-28	19.31.59 seat:82 target:12-30 8~22	Token:10053
+
+ £”‡ ±º‰£∫86280√Î
+200 Keep alive ------ 12-28	19.32.0	Sleep:360	Token:10053	yu=86280 FinishTime=37
+Start: ====== 12-28 19.32.5
+yyh	592330422B895A30D119D87B8E54B591	81	8-22
+zby	36D5951B79A528C91BC76994B3C6D375	82	8-22
+zjw	D831EC90B5F5EDAAD2A3FE30ECC67A4B	80	8-22
+Init OneThread : real time: 2020-12-28 19:32:6	target time:2020-12-29
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+200 Error: Init Token Dismiss!
+200 Init ------ 12-28	19.32.7 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+200 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+200 Sended post ------ 12-28	19.32.7	Token:
+200 reply:No result
+200 Insurance! ------ 
+100 Init ------ 12-28	19.32.6 seat:81 target:12-29 8~22	Token:10053
+
+ £”‡ ±º‰£∫-127√Î
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+200 Error: Init Token Dismiss!
+200 Init ------ 12-28	19.32.7 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+200 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+200 Sended post ------ 12-28	19.32.7	Token:
+200 reply:No result
+200 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+300 Error: Init Token Dismiss!
+300 Init ------ 12-28	19.32.7 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+300 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+300 Sended post ------ 12-28	19.32.7	Token:
+300 reply:No result
+300 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+300 Error: Init Token Dismiss!
+300 Init ------ 12-28	19.32.7 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+300 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+300 Sended post ------ 12-28	19.32.7	Token:
+300 reply:No result
+300 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+400 Error: Init Token Dismiss!
+400 Init ------ 12-28	19.32.7 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+400 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+400 Sended post ------ 12-28	19.32.7	Token:
+400 reply:No result
+400 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+400 Error: Init Token Dismiss!
+400 Init ------ 12-28	19.32.7 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+400 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+400 Sended post ------ 12-28	19.32.7	Token:
+400 reply:No result
+400 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+500 Error: Init Token Dismiss!
+500 Init ------ 12-28	19.32.7 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+500 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+500 Sended post ------ 12-28	19.32.7	Token:
+500 reply:No result
+500 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+500 Error: Init Token Dismiss!
+500 Init ------ 12-28	19.32.7 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+500 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+500 Sended post ------ 12-28	19.32.7	Token:
+500 reply:No result
+500 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+600 Error: Init Token Dismiss!
+600 Init ------ 12-28	19.32.7 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+600 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+600 Sended post ------ 12-28	19.32.7	Token:
+600 reply:No result
+600 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+600 Error: Init Token Dismiss!
+600 Init ------ 12-28	19.32.7 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+600 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+600 Sended post ------ 12-28	19.32.7	Token:
+600 reply:No result
+600 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+700 Error: Init Token Dismiss!
+700 Init ------ 12-28	19.32.7 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+700 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+700 Sended post ------ 12-28	19.32.7	Token:
+700 reply:No result
+700 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+700 Error: Init Token Dismiss!
+700 Init ------ 12-28	19.32.7 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-127√Î
+700 Ready do post ------ 12-28	19.32.7	Sleep:-126	Token:	yu=-127
+700 Sended post ------ 12-28	19.32.7	Token:
+700 reply:No result
+700 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:7	target time:2020-12-29
+Init OneThread : real time: 2020-12-28 19:32:8	target time:2020-12-29
+800 Error: Init Token Dismiss!
+800 Init ------ 12-28	19.32.7 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-129√Î
+800 Ready do post ------ 12-28	19.32.9	Sleep:-128	Token:	yu=-129
+300 Error: Init Token Dismiss!
+300 Init ------ 12-28	19.32.8 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-129√Î
+300 Ready do post ------ 12-28	19.32.9	Sleep:-128	Token:	yu=-129
+800 Sended post ------ 12-28	19.32.10	Token:
+800 reply:No result
+800 Insurance! ------ 
+300 Sended post ------ 12-28	19.32.10	Token:
+300 reply:No result
+300 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:10	target time:2020-12-29
+800 Error: Init Token Dismiss!
+800 Init ------ 12-28	19.32.10 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-130√Î
+800 Ready do post ------ 12-28	19.32.10	Sleep:-129	Token:	yu=-130
+800 Sended post ------ 12-28	19.32.10	Token:
+800 reply:No result
+800 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:10	target time:2020-12-29
+900 Error: Init Token Dismiss!
+900 Init ------ 12-28	19.32.10 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-130√Î
+Init OneThread : real time: 2020-12-28 19:32:10	target time:2020-12-29
+900 Ready do post ------ 12-28	19.32.10	Sleep:-129	Token:	yu=-130
+900 Sended post ------ 12-28	19.32.10	Token:
+900 reply:No result
+900 Insurance! ------ 
+400 Error: Init Token Dismiss!
+400 Init ------ 12-28	19.32.10 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-130√Î
+400 Ready do post ------ 12-28	19.32.10	Sleep:-129	Token:	yu=-130
+400 Sended post ------ 12-28	19.32.10	Token:
+400 reply:No result
+400 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:10	target time:2020-12-29
+900 Error: Init Token Dismiss!
+900 Init ------ 12-28	19.32.10 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-131√Î
+900 Ready do post ------ 12-28	19.32.11	Sleep:-130	Token:	yu=-131
+900 Sended post ------ 12-28	19.32.11	Token:
+900 reply:No result
+900 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:11	target time:2020-12-29
+Init OneThread : real time: 2020-12-28 19:32:11	target time:2020-12-29
+1000 Error: Init Token Dismiss!
+1000 Init ------ 12-28	19.32.11 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-131√Î
+1000 Ready do post ------ 12-28	19.32.11	Sleep:-130	Token:	yu=-131
+1000 Sended post ------ 12-28	19.32.11	Token:
+1000 reply:No result
+1000 Insurance! ------ 
+500 Init ------ 12-28	19.32.11 seat:80 target:12-29 8~22	Token:10053
+
+ £”‡ ±º‰£∫-131√Î
+Init OneThread : real time: 2020-12-28 19:32:11	target time:2020-12-29
+600 Error: Init Token Dismiss!
+600 Init ------ 12-28	19.32.11 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-131√Î
+Init OneThread : real time: 2020-12-28 19:32:11	target time:2020-12-29
+600 Ready do post ------ 12-28	19.32.11	Sleep:-130	Token:	yu=-131
+1000 Error: Init Token Dismiss!
+600 Sended post ------ 12-28	19.32.11	Token:
+1000 Init ------ 12-28	19.32.11 seat:81 target:12-29 8~22	Token:
+600 reply:No result
+
+ £”‡ ±º‰£∫-131√Î
+600 Insurance! ------ 
+1000 Ready do post ------ 12-28	19.32.11	Sleep:-130	Token:	yu=-131
+1000 Sended post ------ 12-28	19.32.11	Token:
+1000 reply:No result
+1000 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:11	target time:2020-12-29
+1100 Error: Init Token Dismiss!
+1100 Init ------ 12-28	19.32.11 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-131√Î
+1100 Ready do post ------ 12-28	19.32.11	Sleep:-130	Token:	yu=-131
+1100 Sended post ------ 12-28	19.32.11	Token:
+1100 reply:No result
+1100 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:11	target time:2020-12-29
+700 Error: Init Token Dismiss!
+700 Init ------ 12-28	19.32.11 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-131√Î
+700 Ready do post ------ 12-28	19.32.11	Sleep:-130	Token:	yu=-131
+Init OneThread : real time: 2020-12-28 19:32:11	target time:2020-12-29
+700 Sended post ------ 12-28	19.32.11	Token:
+1100 Error: Init Token Dismiss!
+700 reply:No result
+1100 Init ------ 12-28	19.32.11 seat:81 target:12-29 8~22	Token:
+700 Insurance! ------ 
+
+ £”‡ ±º‰£∫-131√Î
+1100 Ready do post ------ 12-28	19.32.11	Sleep:-130	Token:	yu=-131
+1100 Sended post ------ 12-28	19.32.11	Token:
+1100 reply:No result
+1100 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+1200 Error: Init Token Dismiss!
+1200 Init ------ 12-28	19.32.12 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-132√Î
+1200 Ready do post ------ 12-28	19.32.12	Sleep:-131	Token:	yu=-132
+1200 Sended post ------ 12-28	19.32.12	Token:
+1200 reply:No result
+1200 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+800 Error: Init Token Dismiss!
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+800 Init ------ 12-28	19.32.12 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-132√Î
+800 Ready do post ------ 12-28	19.32.12	Sleep:-131	Token:	yu=-132
+800 Sended post ------ 12-28	19.32.12	Token:
+800 reply:No result
+800 Insurance! ------ 
+1200 Error: Init Token Dismiss!
+1200 Init ------ 12-28	19.32.12 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-132√Î
+1200 Ready do post ------ 12-28	19.32.12	Sleep:-131	Token:	yu=-132
+1200 Sended post ------ 12-28	19.32.12	Token:
+1200 reply:No result
+1200 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+1300 Error: Init Token Dismiss!
+1300 Init ------ 12-28	19.32.12 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-132√Î
+1300 Ready do post ------ 12-28	19.32.12	Sleep:-131	Token:	yu=-132
+1300 Sended post ------ 12-28	19.32.12	Token:
+1300 reply:No result
+1300 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+1300 Error: Init Token Dismiss!
+1300 Init ------ 12-28	19.32.12 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-132√Î
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+1300 Ready do post ------ 12-28	19.32.12	Sleep:-131	Token:	yu=-132
+1300 Sended post ------ 12-28	19.32.12	Token:
+1300 reply:No result
+1300 Insurance! ------ 
+900 Error: Init Token Dismiss!
+900 Init ------ 12-28	19.32.12 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-132√Î
+900 Ready do post ------ 12-28	19.32.12	Sleep:-131	Token:	yu=-132
+900 Sended post ------ 12-28	19.32.12	Token:
+900 reply:No result
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+900 Insurance! ------ 
+1400 Error: Init Token Dismiss!
+1400 Init ------ 12-28	19.32.12 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-132√Î
+1400 Ready do post ------ 12-28	19.32.12	Sleep:-131	Token:	yu=-132
+1400 Sended post ------ 12-28	19.32.12	Token:
+1400 reply:No result
+1400 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+1400 Error: Init Token Dismiss!
+1400 Init ------ 12-28	19.32.12 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-132√Î
+1400 Ready do post ------ 12-28	19.32.12	Sleep:-131	Token:	yu=-132
+1400 Sended post ------ 12-28	19.32.12	Token:
+1400 reply:No result
+1400 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+1000 Error: Init Token Dismiss!
+1000 Init ------ 12-28	19.32.12 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-132√Î
+1000 Ready do post ------ 12-28	19.32.12	Sleep:-131	Token:	yu=-132
+1000 Sended post ------ 12-28	19.32.12	Token:
+Init OneThread : real time: 2020-12-28 19:32:12	target time:2020-12-29
+1000 reply:No result
+1000 Insurance! ------ 
+1500 Error: Init Token Dismiss!
+1500 Init ------ 12-28	19.32.12 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-133√Î
+1500 Ready do post ------ 12-28	19.32.13	Sleep:-132	Token:	yu=-133
+1500 Sended post ------ 12-28	19.32.13	Token:
+1500 reply:No result
+1500 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:13	target time:2020-12-29
+1500 Error: Init Token Dismiss!
+1500 Init ------ 12-28	19.32.13 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-133√Î
+1500 Ready do post ------ 12-28	19.32.13	Sleep:-132	Token:	yu=-133
+1500 Sended post ------ 12-28	19.32.13	Token:
+1500 reply:No result
+1500 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:13	target time:2020-12-29
+1100 Error: Init Token Dismiss!
+1100 Init ------ 12-28	19.32.13 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-133√Î
+1100 Ready do post ------ 12-28	19.32.13	Sleep:-132	Token:	yu=-133
+1100 Sended post ------ 12-28	19.32.13	Token:
+Init OneThread : real time: 2020-12-28 19:32:13	target time:2020-12-29
+1100 reply:No result
+1100 Insurance! ------ 
+1600 Error: Init Token Dismiss!
+1600 Init ------ 12-28	19.32.13 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-133√Î
+1600 Ready do post ------ 12-28	19.32.13	Sleep:-132	Token:	yu=-133
+1600 Sended post ------ 12-28	19.32.13	Token:
+1600 reply:No result
+1600 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:13	target time:2020-12-29
+1600 Error: Init Token Dismiss!
+1600 Init ------ 12-28	19.32.13 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-133√Î
+1600 Ready do post ------ 12-28	19.32.13	Sleep:-132	Token:	yu=-133
+1600 Sended post ------ 12-28	19.32.13	Token:
+1600 reply:No result
+1600 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:13	target time:2020-12-29
+Init OneThread : real time: 2020-12-28 19:32:13	target time:2020-12-29
+1200 Error: Init Token Dismiss!
+1200 Init ------ 12-28	19.32.13 seat:80 target:12-29 8~22	Token:
+1700 Error: Init Token Dismiss!
+
+ £”‡ ±º‰£∫-133√Î
+1700 Init ------ 12-28	19.32.13 seat:82 target:12-29 8~22	Token:
+1200 Ready do post ------ 12-28	19.32.13	Sleep:-132	Token:	yu=-133
+1200 Sended post ------ 12-28	19.32.13	Token:
+
+ £”‡ ±º‰£∫-133√Î
+1200 reply:No result
+1200 Insurance! ------ 
+1700 Ready do post ------ 12-28	19.32.13	Sleep:-132	Token:	yu=-133
+1700 Sended post ------ 12-28	19.32.13	Token:
+1700 reply:No result
+1700 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:14	target time:2020-12-29
+1700 Error: Init Token Dismiss!
+1700 Init ------ 12-28	19.32.14 seat:81 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-134√Î
+1700 Ready do post ------ 12-28	19.32.14	Sleep:-133	Token:	yu=-134
+1700 Sended post ------ 12-28	19.32.14	Token:
+1700 reply:No result
+1700 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:14	target time:2020-12-29
+1800 Error: Init Token Dismiss!
+1800 Init ------ 12-28	19.32.14 seat:82 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-134√Î
+1800 Ready do post ------ 12-28	19.32.14	Sleep:-133	Token:	yu=-134
+1800 Sended post ------ 12-28	19.32.14	Token:
+1800 reply:No result
+1800 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:14	target time:2020-12-29
+1300 Error: Init Token Dismiss!
+1300 Init ------ 12-28	19.32.14 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-134√Î
+1300 Ready do post ------ 12-28	19.32.14	Sleep:-133	Token:	yu=-134
+1300 Sended post ------ 12-28	19.32.14	Token:
+1300 reply:No result
+1300 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:14	target time:2020-12-29
+1900 Error: Init Token Dismiss!
+Init OneThread : real time: 2020-12-28 19:32:14	target time:2020-12-29
+1900 Init ------ 12-28	19.32.14 seat:82 target:12-29 8~22	Token:
+1800 Error: Init Token Dismiss!
+
+ £”‡ ±º‰£∫-134√Î
+1800 Init ------ 12-28	19.32.14 seat:81 target:12-29 8~22	Token:
+1900 Ready do post ------ 12-28	19.32.14	Sleep:-133	Token:	yu=-134
+
+ £”‡ ±º‰£∫-134√Î
+1900 Sended post ------ 12-28	19.32.14	Token:
+1900 reply:No result
+1800 Ready do post ------ 12-28	19.32.14	Sleep:-133	Token:	yu=-134
+1900 Insurance! ------ 
+1800 Sended post ------ 12-28	19.32.14	Token:
+1800 reply:No result
+1800 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:14	target time:2020-12-29
+Init OneThread : real time: 2020-12-28 19:32:14	target time:2020-12-29
+1400 Error: Init Token Dismiss!
+1400 Init ------ 12-28	19.32.14 seat:80 target:12-29 8~22	Token:
+
+ £”‡ ±º‰£∫-134√Î
+1400 Ready do post ------ 12-28	19.32.14	Sleep:-133	Token:	yu=-134
+1900 Error: Init Token Dismiss!
+1400 Sended post ------ 12-28	19.32.14	Token:
+1900 Init ------ 12-28	19.32.14 seat:81 target:12-29 8~22	Token:
+1400 reply:No result
+
+ £”‡ ±º‰£∫-134√Î
+1400 Insurance! ------ 
+1900 Ready do post ------ 12-28	19.32.14	Sleep:-133	Token:	yu=-134
+1900 Sended post ------ 12-28	19.32.14	Token:
+1900 reply:No result
+1900 Insurance! ------ 
+Init OneThread : real time: 2020-12-28 19:32:14	target time:2020-12-29
+2000 Init ------ 12-28	19.32.14 seat:81 target:12-29 8~22	Token:10053
+
+ £”‡ ±º‰£∫-134√Î
+Init OneThread : real time: 2020-12-28 19:32:14	target time:2020-12-29
+2100 Error: Init Token Dismiss!
