@@ -7,7 +7,7 @@
 using namespace std;
 
 //daily-modify
-const int default_st_time=8,default_ed_time=22;
+const int default_st_time=10,default_ed_time=22;
 
 string cancelgetm=(R"(GET /reservation/cancel/4431233 HTTP/1.1
 Host: seat.lib.bnu.edu.cn
