@@ -145,20 +145,26 @@ bool OneThread(
     yu=target-a-86400;
     cout<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
     output<<threadid<<" Ready do post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\tSleep:"<<1+yu<<"\t"<<"Token:"<<token<<"\tyu="<<yu<<endl;
-    Sleep( max(1.0+yu,0.0)*1000);
-    string reply=tk.GetResult(postm);
-    a.freshen();
-    cout<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
-    output<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
-    cout<<threadid<<" reply:"<<reply<<endl;
-    output<<threadid<<" reply:"<<reply<<endl;
-    tk.CloseSocket();
+    Sleep( max(0.5+yu,0.0)*1000);
+    tk.Send(postm);
+    tk.Send(postm);
+    tk.Send(postm);
+//    string reply=tk.GetResult(postm);
+//    a.freshen();
+//    cout<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
+//    output<<threadid<<" Sended post ------ "<<a.mon<<"-"<<a.day<<"\t"<<a.hour<<"."<<a.minn<<"."<<a.sec<<"\t"<<"Token:"<<token<<endl;
+//    cout<<threadid<<" reply:"<<reply<<endl;
+//    output<<threadid<<" reply:"<<reply<<endl;
+//    tk.CloseSocket();
 
     //Insurance
-    cout<<threadid<<" Insurance! ------ "<<endl;
-    output<<threadid<<" Insurance! ------ "<<endl;
+//    cout<<threadid<<" Insurance! ------ "<<endl;
+//    output<<threadid<<" Insurance! ------ "<<endl;
     for(int i=82-(rand()%10);i>=seat_ed;i--){
-        SingleSendAndPost(jsessionid,seat[tseat],year,month,day,st_time,ed_time,threadid);
+        string token=tk.GetToken();
+        GetHeader postm(initpostm,jsessionid,token,seat[i],year,month,day,st_time,ed_time);
+        tk.Send(postm);
+//        SingleSendAndPost(jsessionid,seat[tseat],year,month,day,st_time,ed_time,threadid);
     }
 //    SingleSendAndPost(jsessionid,66,year,month,day,st_time,ed_time);
 //    SingleSendAndPost(jsessionid,65,year,month,day,st_time,ed_time);
@@ -170,11 +176,12 @@ DWORD WINAPI Fun1(LPVOID lpParamter)
 {
     int nowcnt=cnt++;
     int id=100*nowcnt;
-    cout<<"Call FUN1: "<<nowcnt<<" cnt="<<cnt<<endl;
+    cout<<" INIT -- Call FUN1: "<<nowcnt<<" cnt="<<cnt<<endl;
+    output<<" INIT -- Call FUN1: "<<nowcnt<<" cnt="<<cnt<<endl;
     Time a;
     a.freshen();
     a.print();
-    if(a.hour>=20 || a.hour==19 && a.minn>=30 && a.sec>=30){
+    if(a.hour>=20 || a.hour==20 && a.minn>=0 && a.sec>=30){
         cout<<"Shall seek day after tomorrow"<<endl;
         output<<"Shall seek day after tomorrow"<<endl;
         a.getnext();
@@ -183,7 +190,24 @@ DWORD WINAPI Fun1(LPVOID lpParamter)
     else {
         a.getnext();
     }
-    while(OneThread(users[nowcnt].jsessionid,users[nowcnt].seat_num,users[nowcnt].st_time,users[nowcnt].ed_time,id+=100,a)==false);
+    int flag=0;
+    while(flag==0){
+        cout<<"Call FUN1: "<<nowcnt<<" cnt="<<cnt<<endl;
+        output<<"Call FUN1: "<<nowcnt<<" cnt="<<cnt<<endl;
+        Time a;
+        a.freshen();
+        a.print();
+        if(a.hour>=20 || a.hour==20 && a.minn>=0 && a.sec>=30){
+            cout<<"Shall seek day after tomorrow"<<endl;
+            output<<"Shall seek day after tomorrow"<<endl;
+            a.getnext();
+            a.getnext();
+        }
+        else {
+            a.getnext();
+        }
+        flag = OneThread(users[nowcnt].jsessionid,users[nowcnt].seat_num,users[nowcnt].st_time,users[nowcnt].ed_time,id+=100,a);
+    }
     cnt--;
     cout<<"End Fun1: "<<nowcnt<<" cnt="<<cnt<<endl;
     return 0L;

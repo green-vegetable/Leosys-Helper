@@ -1,0 +1,139 @@
+Start: ====== 1-2 19.54.12
+yyh	A880473D37C62A04EEFBBBEEB644F423	81	10-22
+zby	E2C5DD8E2EA75A2CF4580B74CA326090	82	10-22
+zjw	3A0066530C27627FFF39DFD86597F1E0	80	10-22
+Init OneThread : real time: 2021-1-2 19:54:13	target time:2021-1-3
+Init OneThread : real time: 2021-1-2 19:54:14	target time:2021-1-3
+100 Error: Init Token Dismiss!
+100 Init ------ 1-2	19.54.13 seat:81 target:1-3 10~22	Token:
+
+剩余时间：-1454秒
+100 Ready do post ------ 1-2	19.54.14	Sleep:-1453	Token:	yu=-1454
+100 Sended post ------ 1-2	19.54.14	Token:
+100 reply:No result
+100 Insurance! ------ 
+Init OneThread : real time: 2021-1-2 19:54:15	target time:2021-1-3
+200 Error: Init Token Dismiss!
+200 Init ------ 1-2	19.54.14 seat:82 target:1-3 10~22	Token:
+
+剩余时间：-1455秒
+200 Ready do post ------ 1-2	19.54.15	Sleep:-1454	Token:	yu=-1455
+200 Sended post ------ 1-2	19.54.15	Token:
+200 reply:No result
+200 Insurance! ------ 
+300 Error: Init Token Dismiss!
+300 Init ------ 1-2	19.54.15 seat:80 target:1-3 10~22	Token:
+
+剩余时间：-1456秒
+300 Ready do post ------ 1-2	19.54.16	Sleep:-1455	Token:	yu=-1456
+300 Sended post ------ 1-2	19.54.16	Token:
+300 reply:No result
+300 Insurance! ------ 
+Init OneThread : real time: 2021-1-2 19:54:17	target time:2021-1-3
+Init OneThread : real time: 2021-1-2 19:54:17	target time:2021-1-3
+400 Error: Init Token Dismiss!
+400 Init ------ 1-2	19.54.17 seat:80 target:1-3 10~22	Token:
+
+剩余时间：-1459秒
+400 Ready do post ------ 1-2	19.54.19	Sleep:-1458	Token:	yu=-1459
+200 Error: Init Token Dismiss!
+200 Init ------ 1-2	19.54.17 seat:81 target:1-3 10~22	Token:
+
+剩余时间：-1459秒
+200 Ready do post ------ 1-2	19.54.19	Sleep:-1458	Token:	yu=-1459
+400 Sended post ------ 1-2	19.54.19	Token:
+400 reply:No result
+400 Insurance! ------ 
+200 Sended post ------ 1-2	19.54.19	Token:
+200 reply:No result
+200 Insurance! ------ 
+Init OneThread : real time: 2021-1-2 19:54:20	target time:2021-1-3
+300 Error: Init Token Dismiss!
+300 Init ------ 1-2	19.54.20 seat:82 target:1-3 10~22	Token:
+Init OneThread : real time: 2021-1-2 19:54:20	target time:2021-1-3
+
+剩余时间：-1460秒
+300 Ready do post ------ 1-2	19.54.21	Sleep:-1460	Token:	yu=-1461
+300 Sended post ------ 1-2	19.54.21	Token:
+300 reply:No result
+300 Insurance! ------ 
+300 Error: Init Token Dismiss!
+300 Init ------ 1-2	19.54.20 seat:81 target:1-3 10~22	Token:
+
+剩余时间：-1461秒
+300 Ready do post ------ 1-2	19.54.21	Sleep:-1460	Token:	yu=-1461
+300 Sended post ------ 1-2	19.54.21	Token:
+300 reply:No result
+300 Insurance! ------ 
+Init OneThread : real time: 2021-1-2 19:54:21	target time:2021-1-3
+500 Error: Init Token Dismiss!
+500 Init ------ 1-2	19.54.21 seat:80 target:1-3 10~22	Token:
+
+剩余时间：-1461秒
+Init OneThread : real time: 2021-1-2 19:54:21	target time:2021-1-3
+500 Ready do post ------ 1-2	19.54.21	Sleep:-1460	Token:	yu=-1461
+500 Sended post ------ 1-2	19.54.21	Token:
+500 reply:No result
+500 Insurance! ------ 
+400 Error: Init Token Dismiss!
+400 Init ------ 1-2	19.54.21 seat:82 target:1-3 10~22	Token:
+
+剩余时间：-1461秒
+400 Ready do post ------ 1-2	19.54.21	Sleep:-1460	Token:	yu=-1461
+400 Sended post ------ 1-2	19.54.21	Token:
+400 reply:No result
+400 Insurance! ------ 
+Init OneThread : real time: 2021-1-2 19:54:21	target time:2021-1-3
+400 Error: Init Token Dismiss!
+400 Init ------ 1-2	19.54.21 seat:81 target:1-3 10~22	Token:
+
+剩余时间：-1463秒
+Init OneThread : real time: 2021-1-2 19:54:23	target time:2021-1-3
+400 Ready do post ------ 1-2	19.54.23	Sleep:-1462	Token:	yu=-1463
+400 Sended post ------ 1-2	19.54.23	Token:
+400 reply:No result
+400 Insurance! ------ 
+600 Error: Init Token Dismiss!
+600 Init ------ 1-2	19.54.23 seat:80 target:1-3 10~22	Token:
+
+剩余时间：-1464秒
+600 Ready do post ------ 1-2	19.54.24	Sleep:-1463	Token:	yu=-1464
+600 Sended post ------ 1-2	19.54.24	Token:
+600 reply:No result
+600 Insurance! ------ 
+Init OneThread : real time: 2021-1-2 19:54:24	target time:2021-1-3
+Init OneThread : real time: 2021-1-2 19:54:24	target time:2021-1-3
+Start: ====== 1-2 20.13.15
+yyh	A880473D37C62A04EEFBBBEEB644F423	81	10-22
+zby	E2C5DD8E2EA75A2CF4580B74CA326090	82	10-22
+zjw	3A0066530C27627FFF39DFD86597F1E0	80	10-22
+ INIT -- Call FUN1: 0 cnt=1
+Shall seek day after tomorrow
+Call FUN1: 0 cnt=1
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-2 20:13:16	target time:2021-1-4
+ INIT -- Call FUN1: 1 cnt=2
+Shall seek day after tomorrow
+Call FUN1: 1 cnt=2
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-2 20:13:17	target time:2021-1-4
+100 Error: Init Token Dismiss!
+100 Init ------ 1-2	20.13.16 seat:81 target:1-4 10~22	Token:
+
+剩余时间：83802秒
+ INIT -- Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-2 20:13:18	target time:2021-1-4
+200 Error: Init Token Dismiss!
+200 Init ------ 1-2	20.13.17 seat:82 target:1-4 10~22	Token:
+
+剩余时间：83801秒
+100 Keep alive ------ 1-2	20.13.19	Sleep:360	Token:	yu=83801 FinishTime=35
+300 Error: Init Token Dismiss!
+300 Init ------ 1-2	20.13.18 seat:80 target:1-4 10~22	Token:
+
+剩余时间：83800秒
+200 Keep alive ------ 1-2	20.13.20	Sleep:360	Token:	yu=83800 FinishTime=36
+300 Keep alive ------ 1-2	20.13.21	Sleep:360	Token:	yu=83799 FinishTime=31
