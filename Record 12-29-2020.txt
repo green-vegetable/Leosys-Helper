@@ -1,0 +1,363 @@
+Start: ====== 12-29 18.49.30
+yyh	A880473D37C62A04EEFBBBEEB644F423	81	10-22
+zby	E2C5DD8E2EA75A2CF4580B74CA326090	82	10-22
+zjw	3A0066530C27627FFF39DFD86597F1E0	80	10-22
+Init OneThread : real time: 2020-12-29 18:49:31	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 18:49:32	target time:2020-12-30
+100 Init ------ 12-29	18.49.31 seat:81 target:12-30 10~22	Token:799fa09e-cfe5-4f46-8f92-aa05d8648a9f
+
+剩余时间：2427秒
+Init OneThread : real time: 2020-12-29 18:49:33	target time:2020-12-30
+200 Init ------ 12-29	18.49.32 seat:82 target:12-30 10~22	Token:1cec43cc-ffcf-49de-a629-34845d1c0728
+
+剩余时间：2426秒
+100 Keep alive ------ 12-29	18.49.34	Sleep:360	Token:d5a070e6-a975-43f5-bb1a-dab4eb9d06f3	yu=2426 FinishTime=35
+300 Init ------ 12-29	18.49.33 seat:80 target:12-30 10~22	Token:22a93ff9-af6a-4f43-a59d-d44da4ce1a30
+
+剩余时间：2425秒
+200 Keep alive ------ 12-29	18.49.36	Sleep:360	Token:fd091b08-4a57-4cde-89cf-d436f2a8c53e	yu=2424 FinishTime=25
+300 Keep alive ------ 12-29	18.49.36	Sleep:360	Token:d0a75d7a-aa9f-4c8b-8424-f7ba98d68092	yu=2424 FinishTime=20
+Init OneThread : real time: 2020-12-29 18:55:34	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 18:55:36	target time:2020-12-30
+200 Init ------ 12-29	18.55.34 seat:81 target:12-30 10~22	Token:bf55f445-0b66-424a-9865-421e4dcc1884
+
+剩余时间：2064秒
+Init OneThread : real time: 2020-12-29 18:55:36	target time:2020-12-30
+300 Init ------ 12-29	18.55.36 seat:82 target:12-30 10~22	Token:57a11301-d973-4f10-803d-b9c856af4cff
+
+剩余时间：2063秒
+200 Keep alive ------ 12-29	18.55.38	Sleep:360	Token:bff3ebcc-7ec1-417a-984a-9045826a84d4	yu=2062 FinishTime=29
+400 Init ------ 12-29	18.55.36 seat:80 target:12-30 10~22	Token:c2046814-4a83-44f1-b62d-80ee07bd680e
+
+剩余时间：2062秒
+300 Keep alive ------ 12-29	18.55.39	Sleep:360	Token:c30797fe-2eca-4f9a-b787-db1d35753678	yu=2061 FinishTime=34
+400 Keep alive ------ 12-29	18.55.40	Sleep:360	Token:c22e6579-d42a-47cc-a443-c0178d0f9343	yu=2060 FinishTime=32
+Start: ====== 12-29 19.31.17
+yyh	A880473D37C62A04EEFBBBEEB644F423	81	10-22
+zby	E2C5DD8E2EA75A2CF4580B74CA326090	82	10-22
+zjw	3A0066530C27627FFF39DFD86597F1E0	80	10-22
+Init OneThread : real time: 2020-12-29 19:31:18	target time:2020-12-30
+100 Error: Init Token Dismiss!
+100 Init ------ 12-29	19.31.18 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-79秒
+100 Ready do post ------ 12-29	19.31.19	Sleep:-78	Token:	yu=-79
+100 Sended post ------ 12-29	19.31.19	Token:
+100 reply:No result
+100 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:19	target time:2020-12-30
+200 Error: Init Token Dismiss!
+200 Init ------ 12-29	19.31.19 seat:82 target:12-30 10~22	Token:
+
+剩余时间：-79秒
+200 Ready do post ------ 12-29	19.31.19	Sleep:-78	Token:	yu=-79
+200 Sended post ------ 12-29	19.31.19	Token:
+200 reply:No result
+200 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:20	target time:2020-12-30
+300 Init ------ 12-29	19.31.20 seat:80 target:12-30 10~22	Token:10053
+
+剩余时间：-80秒
+Init OneThread : real time: 2020-12-29 19:31:20	target time:2020-12-30
+400 Init ------ 12-29	19.31.20 seat:80 target:12-30 10~22	Token:10053
+
+剩余时间：-80秒
+Init OneThread : real time: 2020-12-29 19:31:20	target time:2020-12-30
+500 Error: Init Token Dismiss!
+500 Init ------ 12-29	19.31.20 seat:80 target:12-30 10~22	Token:
+
+剩余时间：-80秒
+500 Ready do post ------ 12-29	19.31.20	Sleep:-79	Token:	yu=-80
+500 Sended post ------ 12-29	19.31.20	Token:
+500 reply:No result
+500 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:20	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 19:31:20	target time:2020-12-30
+600 Error: Init Token Dismiss!
+200 Error: Init Token Dismiss!
+600 Init ------ 12-29	19.31.20 seat:80 target:12-30 10~22	Token:
+200 Init ------ 12-29	19.31.20 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-80秒
+
+剩余时间：-80秒
+600 Ready do post ------ 12-29	19.31.20	Sleep:-79	Token:	yu=-80
+200 Ready do post ------ 12-29	19.31.20	Sleep:-79	Token:	yu=-80
+600 Sended post ------ 12-29	19.31.20	Token:
+200 Sended post ------ 12-29	19.31.20	Token:
+600 reply:No result
+200 reply:No result
+600 Insurance! ------ 
+200 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:20	target time:2020-12-30
+300 Error: Init Token Dismiss!
+300 Init ------ 12-29	19.31.20 seat:82 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+300 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+300 Sended post ------ 12-29	19.31.21	Token:
+300 reply:No result
+300 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+300 Error: Init Token Dismiss!
+300 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+300 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+300 Sended post ------ 12-29	19.31.21	Token:
+300 reply:No result
+300 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+700 Error: Init Token Dismiss!
+400 Error: Init Token Dismiss!
+700 Init ------ 12-29	19.31.21 seat:80 target:12-30 10~22	Token:
+400 Init ------ 12-29	19.31.21 seat:82 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+
+剩余时间：-81秒
+700 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+400 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+700 Sended post ------ 12-29	19.31.21	Token:
+700 reply:No result
+400 Sended post ------ 12-29	19.31.21	Token:
+400 reply:No result
+700 Insurance! ------ 
+400 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+400 Error: Init Token Dismiss!
+400 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:
+800 Error: Init Token Dismiss!
+800 Init ------ 12-29	19.31.21 seat:80 target:12-30 10~22	Token:
+800 Init ------ 12-29	19.31.21 seat:80 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+
+剩余时间：-81秒
+400 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+800 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+800 Sended post ------ 12-29	19.31.21	Token:
+400 Sended post ------ 12-29	19.31.21	Token:
+800 reply:No result
+400 reply:No result
+400 Insurance! ------ 
+800 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+500 Error: Init Token Dismiss!
+500 Init ------ 12-29	19.31.21 seat:82 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+500 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+500 Sended post ------ 12-29	19.31.21	Token:
+500 reply:No result
+500 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+500 Error: Init Token Dismiss!
+500 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+500 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+500 Sended post ------ 12-29	19.31.21	Token:
+500 reply:No result
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+500 Insurance! ------ 
+900 Error: Init Token Dismiss!
+900 Init ------ 12-29	19.31.21 seat:80 target:12-30 10~22	Token:
+600 Error: Init Token Dismiss!
+
+剩余时间：-81秒
+900 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+600 Init ------ 12-29	19.31.21 seat:82 target:12-30 10~22	Token:
+900 Sended post ------ 12-29	19.31.21	Token:
+
+剩余时间：-81秒
+900 reply:No result
+600 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+900 Insurance! ------ 
+600 Sended post ------ 12-29	19.31.21	Token:
+600 reply:No result
+600 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+700 Error: Init Token Dismiss!
+700 Init ------ 12-29	19.31.21 seat:82 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+700 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+700 Sended post ------ 12-29	19.31.21	Token:
+700 reply:No result
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+700 Insurance! ------ 
+600 Error: Init Token Dismiss!
+600 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+600 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+600 Sended post ------ 12-29	19.31.21	Token:
+600 reply:No result
+600 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1000 Error: Init Token Dismiss!
+1000 Init ------ 12-29	19.31.21 seat:80 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+1000 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+1000 Sended post ------ 12-29	19.31.21	Token:
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1000 reply:No result
+1000 Insurance! ------ 
+700 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:10053
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+
+剩余时间：-81秒
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+800 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:10053
+800 Init ------ 12-29	19.31.21 seat:82 target:12-30 10~22	Token:10053
+
+剩余时间：-81秒
+
+剩余时间：-81秒
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+900 Error: Init Token Dismiss!
+900 Init ------ 12-29	19.31.21 seat:82 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+900 Error: Init Token Dismiss!
+900 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+900 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:
+900 Sended post ------ 12-29	19.31.21	Token:
+
+剩余时间：-81秒
+900 reply:No result
+900 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+900 Insurance! ------ 
+900 Sended post ------ 12-29	19.31.21	Token:
+900 reply:No result
+900 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1100 Error: Init Token Dismiss!
+1100 Init ------ 12-29	19.31.21 seat:80 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+1100 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+1100 Sended post ------ 12-29	19.31.21	Token:
+1100 reply:No result
+1100 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1000 Error: Init Token Dismiss!
+1000 Init ------ 12-29	19.31.21 seat:82 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+1000 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+1000 Sended post ------ 12-29	19.31.21	Token:
+1000 reply:No result
+1000 Insurance! ------ 
+1000 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:10053
+
+剩余时间：-81秒
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1100 Error: Init Token Dismiss!
+1100 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+1100 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+1100 Sended post ------ 12-29	19.31.21	Token:
+1100 reply:No result
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1100 Insurance! ------ 
+1200 Error: Init Token Dismiss!
+1200 Init ------ 12-29	19.31.21 seat:80 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+1200 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+1200 Sended post ------ 12-29	19.31.21	Token:
+1200 reply:No result
+1200 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1100 Error: Init Token Dismiss!
+1100 Init ------ 12-29	19.31.21 seat:82 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+1100 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+1100 Sended post ------ 12-29	19.31.21	Token:
+1100 reply:No result
+1100 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1200 Error: Init Token Dismiss!
+1200 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+1200 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1200 Sended post ------ 12-29	19.31.21	Token:
+1200 reply:No result
+1200 Insurance! ------ 
+1300 Init ------ 12-29	19.31.21 seat:80 target:12-30 10~22	Token:10053
+
+剩余时间：-81秒
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1400 Error: Init Token Dismiss!
+1400 Init ------ 12-29	19.31.21 seat:80 target:12-30 10~22	Token:
+
+剩余时间：-81秒
+1400 Ready do post ------ 12-29	19.31.21	Sleep:-80	Token:	yu=-81
+1400 Sended post ------ 12-29	19.31.21	Token:
+1400 reply:No result
+1400 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+Init OneThread : real time: 2020-12-29 19:31:21	target time:2020-12-30
+1200 Error: Init Token Dismiss!
+1200 Init ------ 12-29	19.31.21 seat:82 target:12-30 10~22	Token:
+
+剩余时间：-82秒
+1200 Ready do post ------ 12-29	19.31.22	Sleep:-81	Token:	yu=-82
+1200 Sended post ------ 12-29	19.31.22	Token:
+1200 reply:No result
+1300 Error: Init Token Dismiss!
+1200 Insurance! ------ 
+1300 Init ------ 12-29	19.31.21 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-82秒
+1300 Ready do post ------ 12-29	19.31.22	Sleep:-81	Token:	yu=-82
+1300 Sended post ------ 12-29	19.31.22	Token:
+1300 reply:No result
+1300 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:22	target time:2020-12-30
+1400 Error: Init Token Dismiss!
+1400 Init ------ 12-29	19.31.22 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-82秒
+1400 Ready do post ------ 12-29	19.31.22	Sleep:-81	Token:	yu=-82
+Init OneThread : real time: 2020-12-29 19:31:22	target time:2020-12-30
+1400 Sended post ------ 12-29	19.31.22	Token:
+1400 reply:No result
+1400 Insurance! ------ 
+1500 Error: Init Token Dismiss!
+1500 Init ------ 12-29	19.31.22 seat:80 target:12-30 10~22	Token:
+
+剩余时间：-82秒
+1500 Ready do post ------ 12-29	19.31.22	Sleep:-81	Token:	yu=-82
+1500 Sended post ------ 12-29	19.31.22	Token:
+1500 reply:No result
+1500 Insurance! ------ 
+Start: ====== 12-29 19.31.27
+yyh	A880473D37C62A04EEFBBBEEB644F423	81	10-22
+zby	E2C5DD8E2EA75A2CF4580B74CA326090	82	10-22
+zjw	3A0066530C27627FFF39DFD86597F1E0	80	10-22
+Init OneThread : real time: 2020-12-29 19:31:28	target time:2020-12-30
+100 Error: Init Token Dismiss!
+100 Init ------ 12-29	19.31.28 seat:81 target:12-30 10~22	Token:
+
+剩余时间：-88秒
+100 Ready do post ------ 12-29	19.31.28	Sleep:-87	Token:	yu=-88
+100 Sended post ------ 12-29	19.31.28	Token:
+100 reply:No result
+100 Insurance! ------ 
+Init OneThread : real time: 2020-12-29 19:31:29	target time:2020-12-30
+Shall seek day after tomorrow
+Init OneThread : real time: 2020-12-29 19:31:30	target time:2020-12-31

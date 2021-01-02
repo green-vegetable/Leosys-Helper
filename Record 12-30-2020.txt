@@ -1,0 +1,144 @@
+Start: ====== 12-30 19.28.38
+yyh	A880473D37C62A04EEFBBBEEB644F423	81	10-22
+zby	E2C5DD8E2EA75A2CF4580B74CA326090	82	10-22
+zjw	3A0066530C27627FFF39DFD86597F1E0	80	10-22
+Init OneThread : real time: 2020-12-30 19:28:39	target time:2020-12-31
+Init OneThread : real time: 2020-12-30 19:28:40	target time:2020-12-31
+100 Init ------ 12-30	19.28.39 seat:81 target:12-31 10~22	Token:b8a8f0de-906c-45ad-adc7-8edf2ba2557f
+
+Ê£ÓàÊ±¼ä£º79Ãë
+Init OneThread : real time: 2020-12-30 19:28:41	target time:2020-12-31
+200 Init ------ 12-30	19.28.40 seat:82 target:12-31 10~22	Token:d2806498-833c-4e23-a084-62d43bab5afa
+
+Ê£ÓàÊ±¼ä£º78Ãë
+100 Keep alive ------ 12-30	19.28.42	Sleep:52	Token:4d267a25-f89d-4d44-9915-56b0dbf6edab	yu=78 FinishTime=26
+300 Init ------ 12-30	19.28.41 seat:80 target:12-31 10~22	Token:32f2ed77-93b3-4eb0-924d-f26822f3d798
+
+Ê£ÓàÊ±¼ä£º77Ãë
+200 Keep alive ------ 12-30	19.28.44	Sleep:38	Token:b853f4db-5e86-4852-a252-adb2e507e3c0	yu=76 FinishTime=38
+300 Keep alive ------ 12-30	19.28.44	Sleep:52	Token:ba02b827-beff-4130-b78a-8ceffdf2b6ce	yu=76 FinishTime=24
+Start: ====== 12-30 19.29.6
+yyh	A880473D37C62A04EEFBBBEEB644F423	81	10-22
+zby	E2C5DD8E2EA75A2CF4580B74CA326090	82	10-22
+zjw	3A0066530C27627FFF39DFD86597F1E0	80	10-22
+Init OneThread : real time: 2020-12-30 19:29:7	target time:2020-12-31
+Init OneThread : real time: 2020-12-30 19:29:8	target time:2020-12-31
+100 Init ------ 12-30	19.29.7 seat:81 target:12-31 10~22	Token:451ddbf9-89fc-4c35-8769-ebd041c1d133
+
+Ê£ÓàÊ±¼ä£º52Ãë
+Init OneThread : real time: 2020-12-30 19:29:9	target time:2020-12-31
+200 Init ------ 12-30	19.29.8 seat:82 target:12-31 10~22	Token:a67ac976-d348-4f8b-a2ca-2c7e9c63004d
+
+Ê£ÓàÊ±¼ä£º51Ãë
+100 Keep alive ------ 12-30	19.29.10	Sleep:15	Token:ddd130a6-8651-42ab-aa34-31ea36d487a7	yu=50 FinishTime=35
+300 Init ------ 12-30	19.29.9 seat:80 target:12-31 10~22	Token:cc1898b5-8d31-4404-a68d-8777cb9c690b
+
+Ê£ÓàÊ±¼ä£º50Ãë
+200 Keep alive ------ 12-30	19.29.11	Sleep:25	Token:601fbe7c-bbdc-4ac6-9470-9f3165dc0005	yu=49 FinishTime=24
+300 Keep alive ------ 12-30	19.29.12	Sleep:21	Token:8ab8f5c0-2932-41e6-99cb-c6a7e8b94e9c	yu=48 FinishTime=27
+100 Ready do post ------ 12-30	19.29.27	Sleep:34	Token:067d6fe5-1116-46e1-8eb4-96758cd69c4b	yu=33
+300 Ready do post ------ 12-30	19.29.35	Sleep:26	Token:2c716781-044e-474c-bb60-3c6ebb499679	yu=25
+200 Ready do post ------ 12-30	19.29.38	Sleep:23	Token:822bbf38-fb4b-4bd8-a628-81e029761668	yu=22
+300 Sended post ------ 12-30	19.30.1	Token:2c716781-044e-474c-bb60-3c6ebb499679
+300 reply:
+
+<dt>ç³»ç»Ÿå·²ç»ä¸ºæ‚¨é¢„å®šå¥½äº†<span style="color:red">åº§ä½</span></dt>
+<dd><em>å‡­è¯å·  ï¼š </em>1181-042-4</d
+300 Insurance! ------ 
+200 Sended post ------ 12-30	19.30.2	Token:822bbf38-fb4b-4bd8-a628-81e029761668
+200 reply:<dd>é¢„çº¦å¤±è´¥! </dd>
+            <dd><span>å·²æœ‰1ä¸ªæœ‰æ•ˆé¢„çº¦ï¼Œè¯·åœ¨ä½¿ç”¨ç»“æŸåå†æ¬¡è¿›è¡Œé€‰æ‹©</span></d
+200 Insurance! ------ 
+100 Sended post ------ 12-30	19.30.2	Token:067d6fe5-1116-46e1-8eb4-96758cd69c4b
+100 reply:<dd>é¢„çº¦å¤±è´¥! </dd>
+            <dd><span>å·²æœ‰1ä¸ªæœ‰æ•ˆé¢„çº¦ï¼Œè¯·åœ¨ä½¿ç”¨ç»“æŸåå†æ¬¡è¿›è¡Œé€‰æ‹©</span></d
+100 Insurance! ------ 
+Init OneThread : real time: 2020-12-30 19:30:7	target time:2020-12-31
+300 Error: Init Token Dismiss!
+300 Init ------ 12-30	19.30.7 seat:82 target:12-31 10~22	Token:
+300 Init ------ 12-30	19.30.7 seat:82 target:12-31 10~22	Token:
+Init OneThread : real time: 2020-12-30 19:30:7	target time:2020-12-31
+
+Ê£ÓàÊ±¼ä£º-7Ãë
+300 Ready do post ------ 12-30	19.30.7	Sleep:-6	Token:	yu=-7
+300 Sended post ------ 12-30	19.30.7	Token:
+300 reply:No result
+300 Insurance! ------ 
+300 Insurance! ------ 
+400 Error: Init Token Dismiss!
+400 Init ------ 12-30	19.30.7 seat:80 target:12-31 10~22	Token:
+
+Ê£ÓàÊ±¼ä£º-7Ãë
+400 Ready do post ------ 12-30	19.30.7	Sleep:-6	Token:	yu=-7
+400 Sended post ------ 12-30	19.30.7	Token:
+400 reply:No result
+400 Insurance! ------ 
+Init OneThread : real time: 2020-12-30 19:30:9	target time:2020-12-31
+200 Init ------ 12-30	19.30.9 seat:81 target:12-31 10~22	Token:36d6fca2-c897-444e-b3b9-40f42e9562a7
+
+Ê£ÓàÊ±¼ä£º-10Ãë
+200 Ready do post ------ 12-30	19.30.10	Sleep:-9	Token:36d6fca2-c897-444e-b3b9-40f42e9562a7	yu=-10
+200 Sended post ------ 12-30	19.30.11	Token:36d6fca2-c897-444e-b3b9-40f42e9562a7
+200 reply:<dd>é¢„çº¦å¤±è´¥! </dd>
+            <dd><span>å·²æœ‰1ä¸ªæœ‰æ•ˆé¢„çº¦ï¼Œè¯·åœ¨ä½¿ç”¨ç»“æŸåå†æ¬¡è¿›è¡Œé€‰æ‹©</span></d
+200 Insurance! ------ 
+Init OneThread : real time: 2020-12-30 19:30:12	target time:2020-12-31
+Init OneThread : real time: 2020-12-30 19:30:12	target time:2020-12-31
+Init OneThread : real time: 2020-12-30 19:30:12	target time:2020-12-31
+500 Error: Init Token Dismiss!
+500 Init ------ 12-30	19.30.12 seat:80 target:12-31 10~22	Token:
+
+Ê£ÓàÊ±¼ä£º-12Ãë
+500 Ready do post ------ 12-30	19.30.12	Sleep:-11	Token:	yu=-12
+500 Sended post ------ 12-30	19.30.12	Token:
+500 reply:No result
+500 Insurance! ------ 
+300 Init ------ 12-30	19.30.12 seat:81 target:12-31 10~22	Token:e137e398-11a4-4071-bfa0-eab3319837c3
+
+Ê£ÓàÊ±¼ä£º-13Ãë
+300 Ready do post ------ 12-30	19.30.13	Sleep:-12	Token:e137e398-11a4-4071-bfa0-eab3319837c3	yu=-13
+300 Sended post ------ 12-30	19.30.13	Token:e137e398-11a4-4071-bfa0-eab3319837c3
+300 reply:No result
+300 Insurance! ------ 
+Init OneThread : real time: 2020-12-30 19:30:14	target time:2020-12-31
+400 Init ------ 12-30	19.30.14 seat:82 target:12-31 10~22	Token:eea012eb-c93e-4150-9c3a-3905a78f01a2
+
+Ê£ÓàÊ±¼ä£º-15Ãë
+400 Ready do post ------ 12-30	19.30.15	Sleep:-14	Token:eea012eb-c93e-4150-9c3a-3905a78f01a2	yu=-15
+400 Sended post ------ 12-30	19.30.15	Token:eea012eb-c93e-4150-9c3a-3905a78f01a2
+400 reply:<dd>é¢„çº¦å¤±è´¥! </dd>
+            <dd><span>å·²æœ‰1ä¸ªæœ‰æ•ˆé¢„çº¦ï¼Œè¯·åœ¨ä½¿ç”¨ç»“æŸåå†æ¬¡è¿›è¡Œé€‰æ‹©</span></d
+400 Insurance! ------ 
+Init OneThread : real time: 2020-12-30 19:30:15	target time:2020-12-31
+400 Error: Init Token Dismiss!
+400 Init ------ 12-30	19.30.15 seat:81 target:12-31 10~22	Token:
+
+Ê£ÓàÊ±¼ä£º-15Ãë
+400 Ready do post ------ 12-30	19.30.15	Sleep:-14	Token:	yu=-15
+400 Sended post ------ 12-30	19.30.15	Token:
+400 reply:No result
+400 Insurance! ------ 
+400 Insurance! ------ 
+Init OneThread : real time: 2020-12-30 19:30:15	target time:2020-12-31
+600 Error: Init Token Dismiss!
+600 Init ------ 12-30	19.30.15 seat:80 target:12-31 10~22	Token:
+2-30 19:30:15	target time:2020-12-31
+600 Init ------ 12-30	19.30.15 seat:80 target:12-31 10~22	Token:
+
+Ê£ÓàÊ±¼ä£º-15Ãë
+
+Ê£ÓàÊ±¼ä£º-15Ãë
+500 Error: Init Token Dismiss!
+500 Init ------ 12-30	19.30.15 seat:82 target:12-31 10~22	Token:
+
+Ê£ÓàÊ±¼ä£º-15Ãë
+
+Ê£ÓàÊ±¼ä£º-15Ãë
+600 Ready do post ------ 12-30	19.30.15	Sleep:-14	Token:	yu=-15
+500 Ready do post ------ 12-30	19.30.15	Sleep:-14	Token:	yu=-15
+600 Sended post ------ 12-30	19.30.15	Token:
+600 reply:No result
+500 Sended post ------ 12-30	19.30.15	Token:
+500 reply:No result
+600 Insurance! ------ 
+500 Insurance! ------ 
