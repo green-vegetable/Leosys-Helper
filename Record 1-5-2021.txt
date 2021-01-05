@@ -1,0 +1,27 @@
+Start: ====== 1-5 18.26.18
+yyh	84DB5F596296BCD7C9BBFE6CE99A7DCC	81	10-22
+zby	A831ADF3D7DD6C38ADC77E2B8D6D2986	82	10-22
+zjw	5EEC9A1DEC987734161F6EBB2283760B	80	10-22
+ INIT -- Call FUN1: 0 cnt=1
+Call FUN1: 0 cnt=1
+Init OneThread : real time: 2021-1-5 18:26:19	target time:2021-1-6
+ INIT -- Call FUN1: 1 cnt=2
+Call FUN1: 1 cnt=2
+Init OneThread : real time: 2021-1-5 18:26:20	target time:2021-1-6
+100 Error: Init Token Dismiss!
+100 Init ------ 1-5	18.26.19 seat:81 target:1-6 10~22	Token:
+
+剩余时间：3820秒
+ INIT -- Call FUN1: 2 cnt=3
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-5 18:26:21	target time:2021-1-6
+200 Error: Init Token Dismiss!
+200 Init ------ 1-5	18.26.20 seat:82 target:1-6 10~22	Token:
+
+剩余时间：3819秒
+100 Keep alive ------ 1-5	18.26.22	Sleep:360	Token:	yu=3818 FinishTime=27
+300 Error: Init Token Dismiss!
+300 Init ------ 1-5	18.26.21 seat:80 target:1-6 10~22	Token:
+
+剩余时间：3818秒
+200 Keep alive ------ 1-5	18.26.23	Sleep:360	Token:	yu=3817 FinishTime=22

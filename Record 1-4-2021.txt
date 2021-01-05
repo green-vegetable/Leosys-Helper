@@ -2,3 +2,2865 @@ Start: ====== 1-4 19.13.13
 yyh	84DB5F596296BCD7C9BBFE6CE99A7DCC	81	10-22
 zby	A831ADF3D7DD6C38ADC77E2B8D6D2986	82	10-22
 zjw	5EEC9A1DEC987734161F6EBB2283760B	80	10-22
+ INIT -- Call FUN1: 0 cnt=1
+Call FUN1: 0 cnt=1
+Init OneThread : real time: 2021-1-4 19:13:14	target time:2021-1-5
+ INIT -- Call FUN1: 1 cnt=2
+Call FUN1: 1 cnt=2
+Init OneThread : real time: 2021-1-4 19:13:15	target time:2021-1-5
+100 Init ------ 1-4	19.13.14 seat:81 target:1-5 10~22	Token:988d5f62-0c70-4a4c-80ba-1e1bdc86b3cd
+
+剩余时间：1004秒
+ INIT -- Call FUN1: 2 cnt=3
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:13:16	target time:2021-1-5
+200 Init ------ 1-4	19.13.15 seat:82 target:1-5 10~22	Token:7bed9176-3642-49b3-a572-20114842cf15
+
+剩余时间：1003秒
+100 Keep alive ------ 1-4	19.13.17	Sleep:360	Token:13b98db4-6dbc-44c6-8e43-dc75b57a570f	yu=1003 FinishTime=34
+300 Init ------ 1-4	19.13.16 seat:80 target:1-5 10~22	Token:fee9134a-07c1-4883-bb92-ae5fed4bcecc
+
+剩余时间：1002秒
+200 Keep alive ------ 1-4	19.13.18	Sleep:360	Token:b83f8f6f-d708-4524-8777-4be915afab89	yu=1002 FinishTime=35
+300 Keep alive ------ 1-4	19.13.19	Sleep:360	Token:b6ed9699-51dc-404d-84e2-97db48007504	yu=1001 FinishTime=29
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:19:17	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:19:18	target time:2021-1-5
+200 Init ------ 1-4	19.19.17 seat:81 target:1-5 10~22	Token:3645780a-edd5-4fa1-94f3-cd8b491eaaf7
+
+剩余时间：641秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:19:19	target time:2021-1-5
+300 Init ------ 1-4	19.19.18 seat:82 target:1-5 10~22	Token:e8a2f012-2520-4f60-ba74-f0ceb8571191
+
+剩余时间：640秒
+200 Keep alive ------ 1-4	19.19.21	Sleep:360	Token:8ea9f987-e645-4197-9ac6-a61675b962c9	yu=639 FinishTime=27
+400 Init ------ 1-4	19.19.19 seat:80 target:1-5 10~22	Token:703db83a-e397-4477-a3bf-affcaacba5df
+
+剩余时间：639秒
+300 Keep alive ------ 1-4	19.19.21	Sleep:360	Token:e7e1d571-e958-4f4d-b43b-24b2e33e542f	yu=639 FinishTime=23
+400 Keep alive ------ 1-4	19.19.22	Sleep:360	Token:38b6d983-1419-4805-a3f1-80be8a11dfb8	yu=638 FinishTime=20
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:25:21	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:25:21	target time:2021-1-5
+300 Init ------ 1-4	19.25.21 seat:81 target:1-5 10~22	Token:4f7c5fad-ba82-449a-910b-cb57b5895ac6
+
+剩余时间：278秒
+400 Keep alive ------ 1-4	19.25.22	Sleep:258	Token:38b6d983-1419-4805-a3f1-80be8a11dfb8	yu=278 FinishTime=20
+400 Init ------ 1-4	19.25.21 seat:82 target:1-5 10~22	Token:341adc95-a9f4-4d8b-bec4-cceede455ca3
+
+剩余时间：277秒
+300 Keep alive ------ 1-4	19.25.24	Sleep:239	Token:61a917ba-585c-4259-a1bc-aefe0c48132b	yu=276 FinishTime=37
+400 Keep alive ------ 1-4	19.25.25	Sleep:239	Token:6566b541-b470-4d37-b579-396d5e0e9aa7	yu=275 FinishTime=36
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:29:23	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:29:24	target time:2021-1-5
+400 Init ------ 1-4	19.29.23 seat:81 target:1-5 10~22	Token:aa553694-6847-463b-ac7b-9d0279480f59
+
+剩余时间：35秒
+500 Init ------ 1-4	19.29.24 seat:82 target:1-5 10~22	Token:3dae0806-16ce-4f91-ad14-2c04ba1c591b
+
+剩余时间：35秒
+400 Ready do post ------ 1-4	19.29.27	Sleep:34	Token:59acb688-129e-41fd-920a-58571ef16c95	yu=33
+500 Ready do post ------ 1-4	19.29.27	Sleep:34	Token:74334e5d-3e1f-4389-9aa5-26f0d0f7874f	yu=33
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:29:40	target time:2021-1-5
+500 Init ------ 1-4	19.29.40 seat:80 target:1-5 10~22	Token:5c466a9b-add8-4b67-8501-acaf23b6d019
+
+剩余时间：18秒
+500 Ready do post ------ 1-4	19.29.42	Sleep:19	Token:5c466a9b-add8-4b67-8501-acaf23b6d019	yu=18
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:0	target time:2021-1-5
+500 Error: Init Token Dismiss!
+500 Init ------ 1-4	19.30.0 seat:81 target:1-5 10~22	Token:
+
+剩余时间：0秒
+500 Ready do post ------ 1-4	19.30.0	Sleep:1	Token:	yu=0
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:0	target time:2021-1-5
+600 Error: Init Token Dismiss!
+600 Init ------ 1-4	19.30.0 seat:80 target:1-5 10~22	Token:
+
+剩余时间：0秒
+600 Ready do post ------ 1-4	19.30.0	Sleep:1	Token:	yu=0
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+600 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-1秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+700 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-1秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+800 Error: Init Token Dismiss!
+800 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-1秒
+800 Ready do post ------ 1-4	19.30.1	Sleep:0	Token:	yu=-1
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+900 Error: Init Token Dismiss!
+900 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-1秒
+900 Ready do post ------ 1-4	19.30.1	Sleep:0	Token:	yu=-1
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+1000 Error: Init Token Dismiss!
+1000 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-1秒
+Call FUN1: 1 cnt=3
+1000 Ready do post ------ 1-4	19.30.1	Sleep:0	Token:	yu=-1
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+1100 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-1秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+1200 Error: Init Token Dismiss!
+1200 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-1秒
+1200 Ready do post ------ 1-4	19.30.1	Sleep:0	Token:	yu=-1
+Call FUN1: 2 cnt=3
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+700 Error: Init Token Dismiss!
+700 Init ------ 1-4	19.30.1 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-1秒
+700 Ready do post ------ 1-4	19.30.1	Sleep:0	Token:	yu=-1
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+1300 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-1秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+1400 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-1秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:1	target time:2021-1-5
+600 Error: Init Token Dismiss!
+600 Init ------ 1-4	19.30.1 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-2秒
+600 Ready do post ------ 1-4	19.30.2	Sleep:-1	Token:	yu=-2
+800 Error: Init Token Dismiss!
+800 Init ------ 1-4	19.30.1 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-3秒
+800 Ready do post ------ 1-4	19.30.3	Sleep:-2	Token:	yu=-3
+1500 Error: Init Token Dismiss!
+1500 Init ------ 1-4	19.30.1 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-3秒
+1500 Ready do post ------ 1-4	19.30.3	Sleep:-2	Token:	yu=-3
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:12	target time:2021-1-5
+1600 Error: Init Token Dismiss!
+1600 Init ------ 1-4	19.30.12 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-12秒
+1600 Ready do post ------ 1-4	19.30.12	Sleep:-11	Token:	yu=-12
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:12	target time:2021-1-5
+1700 Error: Init Token Dismiss!
+1700 Init ------ 1-4	19.30.12 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-13秒
+1700 Ready do post ------ 1-4	19.30.13	Sleep:-12	Token:	yu=-13
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:16	target time:2021-1-5
+900 Error: Init Token Dismiss!
+900 Init ------ 1-4	19.30.16 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-18秒
+900 Ready do post ------ 1-4	19.30.18	Sleep:-17	Token:	yu=-18
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:22	target time:2021-1-5
+1800 Init ------ 1-4	19.30.22 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-23秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+1900 Error: Init Token Dismiss!
+1900 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-23秒
+1900 Ready do post ------ 1-4	19.30.23	Sleep:-22	Token:	yu=-23
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2000 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-23秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2100 Error: Init Token Dismiss!
+2100 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-23秒
+2100 Ready do post ------ 1-4	19.30.23	Sleep:-22	Token:	yu=-23
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2200 Error: Init Token Dismiss!
+2200 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-23秒
+2200 Ready do post ------ 1-4	19.30.23	Sleep:-22	Token:	yu=-23
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2300 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-23秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2400 Error: Init Token Dismiss!
+2400 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-23秒
+2400 Ready do post ------ 1-4	19.30.23	Sleep:-22	Token:	yu=-23
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2500 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-23秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2600 Error: Init Token Dismiss!
+2600 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-23秒
+2600 Ready do post ------ 1-4	19.30.23	Sleep:-22	Token:	yu=-23
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2700 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-23秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2800 Error: Init Token Dismiss!
+2800 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-23秒
+2800 Ready do post ------ 1-4	19.30.23	Sleep:-22	Token:	yu=-23
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+2900 Error: Init Token Dismiss!
+2900 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-23秒
+2900 Ready do post ------ 1-4	19.30.23	Sleep:-22	Token:	yu=-23
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+3000 Error: Init Token Dismiss!
+3000 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-23秒
+3000 Ready do post ------ 1-4	19.30.23	Sleep:-22	Token:	yu=-23
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:23	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:24	target time:2021-1-5
+3100 Error: Init Token Dismiss!
+3100 Init ------ 1-4	19.30.23 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-24秒
+3100 Ready do post ------ 1-4	19.30.24	Sleep:-23	Token:	yu=-24
+700 Error: Init Token Dismiss!
+700 Init ------ 1-4	19.30.24 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-25秒
+700 Ready do post ------ 1-4	19.30.25	Sleep:-24	Token:	yu=-25
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:34	target time:2021-1-5
+3200 Error: Init Token Dismiss!
+3200 Init ------ 1-4	19.30.34 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-34秒
+3200 Ready do post ------ 1-4	19.30.34	Sleep:-33	Token:	yu=-34
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:34	target time:2021-1-5
+3300 Error: Init Token Dismiss!
+3300 Init ------ 1-4	19.30.34 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-35秒
+3300 Ready do post ------ 1-4	19.30.35	Sleep:-34	Token:	yu=-35
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:37	target time:2021-1-5
+1000 Init ------ 1-4	19.30.37 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-37秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:37	target time:2021-1-5
+1100 Error: Init Token Dismiss!
+1100 Init ------ 1-4	19.30.37 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-38秒
+1100 Ready do post ------ 1-4	19.30.38	Sleep:-37	Token:	yu=-38
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:38	target time:2021-1-5
+1200 Error: Init Token Dismiss!
+1200 Init ------ 1-4	19.30.38 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-39秒
+1200 Ready do post ------ 1-4	19.30.39	Sleep:-38	Token:	yu=-39
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:40	target time:2021-1-5
+800 Error: Init Token Dismiss!
+800 Init ------ 1-4	19.30.40 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-42秒
+800 Ready do post ------ 1-4	19.30.42	Sleep:-41	Token:	yu=-42
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:53	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:30:53	target time:2021-1-5
+1300 Error: Init Token Dismiss!
+1300 Init ------ 1-4	19.30.53 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-54秒
+1300 Ready do post ------ 1-4	19.30.54	Sleep:-53	Token:	yu=-54
+3400 Error: Init Token Dismiss!
+3400 Init ------ 1-4	19.30.53 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-55秒
+3400 Ready do post ------ 1-4	19.30.55	Sleep:-54	Token:	yu=-55
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:0	target time:2021-1-5
+900 Error: Init Token Dismiss!
+900 Init ------ 1-4	19.31.0 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-60秒
+900 Ready do post ------ 1-4	19.31.0	Sleep:-59	Token:	yu=-60
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:0	target time:2021-1-5
+1000 Error: Init Token Dismiss!
+1000 Init ------ 1-4	19.31.0 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-60秒
+1000 Ready do post ------ 1-4	19.31.0	Sleep:-59	Token:	yu=-60
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:0	target time:2021-1-5
+1100 Init ------ 1-4	19.31.0 seat:82 target:1-5 10~22	Token:10053
+
+剩余时间：-60秒
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:0	target time:2021-1-5
+1200 Error: Init Token Dismiss!
+1200 Init ------ 1-4	19.31.0 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-62秒
+1200 Ready do post ------ 1-4	19.31.2	Sleep:-61	Token:	yu=-62
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:11	target time:2021-1-5
+1300 Init ------ 1-4	19.31.11 seat:82 target:1-5 10~22	Token:10053
+
+剩余时间：-71秒
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:11	target time:2021-1-5
+1400 Error: Init Token Dismiss!
+1400 Init ------ 1-4	19.31.11 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-72秒
+1400 Ready do post ------ 1-4	19.31.12	Sleep:-71	Token:	yu=-72
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+1400 Init ------ 1-4	19.31.14 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-74秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+1500 Error: Init Token Dismiss!
+1500 Init ------ 1-4	19.31.14 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-74秒
+1500 Ready do post ------ 1-4	19.31.14	Sleep:-73	Token:	yu=-74
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+1600 Error: Init Token Dismiss!
+1600 Init ------ 1-4	19.31.14 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-74秒
+1600 Ready do post ------ 1-4	19.31.14	Sleep:-73	Token:	yu=-74
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+1700 Init ------ 1-4	19.31.14 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-74秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+1800 Init ------ 1-4	19.31.14 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-74秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+1900 Error: Init Token Dismiss!
+1900 Init ------ 1-4	19.31.14 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-74秒
+1900 Ready do post ------ 1-4	19.31.14	Sleep:-73	Token:	yu=-74
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+3500 Error: Init Token Dismiss!
+3500 Init ------ 1-4	19.31.14 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-74秒
+3500 Ready do post ------ 1-4	19.31.14	Sleep:-73	Token:	yu=-74
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+3600 Error: Init Token Dismiss!
+3600 Init ------ 1-4	19.31.14 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-74秒
+3600 Ready do post ------ 1-4	19.31.14	Sleep:-73	Token:	yu=-74
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+3700 Error: Init Token Dismiss!
+3700 Init ------ 1-4	19.31.14 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-74秒
+3700 Ready do post ------ 1-4	19.31.14	Sleep:-73	Token:	yu=-74
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:14	target time:2021-1-5
+3800 Init ------ 1-4	19.31.14 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-75秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:15	target time:2021-1-5
+3900 Error: Init Token Dismiss!
+3900 Init ------ 1-4	19.31.15 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-75秒
+3900 Ready do post ------ 1-4	19.31.15	Sleep:-74	Token:	yu=-75
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:15	target time:2021-1-5
+4000 Error: Init Token Dismiss!
+4000 Init ------ 1-4	19.31.15 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-75秒
+4000 Ready do post ------ 1-4	19.31.15	Sleep:-74	Token:	yu=-75
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:15	target time:2021-1-5
+4100 Error: Init Token Dismiss!
+4100 Init ------ 1-4	19.31.15 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-75秒
+4100 Ready do post ------ 1-4	19.31.15	Sleep:-74	Token:	yu=-75
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:15	target time:2021-1-5
+4200 Error: Init Token Dismiss!
+4200 Init ------ 1-4	19.31.15 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-75秒
+4200 Ready do post ------ 1-4	19.31.15	Sleep:-74	Token:	yu=-75
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:15	target time:2021-1-5
+4300 Init ------ 1-4	19.31.15 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-75秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:15	target time:2021-1-5
+4400 Error: Init Token Dismiss!
+4400 Init ------ 1-4	19.31.15 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-75秒
+4400 Ready do post ------ 1-4	19.31.15	Sleep:-74	Token:	yu=-75
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:15	target time:2021-1-5
+2000 Error: Init Token Dismiss!
+2000 Init ------ 1-4	19.31.14 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-76秒
+2000 Ready do post ------ 1-4	19.31.16	Sleep:-75	Token:	yu=-76
+4500 Error: Init Token Dismiss!
+4500 Init ------ 1-4	19.31.15 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-76秒
+4500 Ready do post ------ 1-4	19.31.16	Sleep:-75	Token:	yu=-76
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:24	target time:2021-1-5
+1500 Init ------ 1-4	19.31.24 seat:82 target:1-5 10~22	Token:10053
+
+剩余时间：-84秒
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:24	target time:2021-1-5
+1600 Error: Init Token Dismiss!
+1600 Init ------ 1-4	19.31.24 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-84秒
+1600 Ready do post ------ 1-4	19.31.24	Sleep:-83	Token:	yu=-84
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:25	target time:2021-1-5
+1700 Init ------ 1-4	19.31.25 seat:82 target:1-5 10~22	Token:10053
+
+剩余时间：-85秒
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:25	target time:2021-1-5
+1800 Error: Init Token Dismiss!
+1800 Init ------ 1-4	19.31.25 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-85秒
+1800 Ready do post ------ 1-4	19.31.25	Sleep:-84	Token:	yu=-85
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:25	target time:2021-1-5
+1900 Error: Init Token Dismiss!
+1900 Init ------ 1-4	19.31.25 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-86秒
+1900 Ready do post ------ 1-4	19.31.26	Sleep:-85	Token:	yu=-86
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:27	target time:2021-1-5
+4600 Error: Init Token Dismiss!
+4600 Init ------ 1-4	19.31.27 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-88秒
+4600 Ready do post ------ 1-4	19.31.28	Sleep:-87	Token:	yu=-88
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:38	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:38	target time:2021-1-5
+2100 Error: Init Token Dismiss!
+2100 Init ------ 1-4	19.31.38 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-100秒
+2100 Ready do post ------ 1-4	19.31.40	Sleep:-99	Token:	yu=-100
+2000 Error: Init Token Dismiss!
+2000 Init ------ 1-4	19.31.38 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-100秒
+2000 Ready do post ------ 1-4	19.31.40	Sleep:-99	Token:	yu=-100
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:46	target time:2021-1-5
+4700 Error: Init Token Dismiss!
+4700 Init ------ 1-4	19.31.46 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-106秒
+4700 Ready do post ------ 1-4	19.31.46	Sleep:-105	Token:	yu=-106
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:46	target time:2021-1-5
+4800 Error: Init Token Dismiss!
+4800 Init ------ 1-4	19.31.46 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-107秒
+4800 Ready do post ------ 1-4	19.31.47	Sleep:-106	Token:	yu=-107
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:47	target time:2021-1-5
+4900 Error: Init Token Dismiss!
+4900 Init ------ 1-4	19.31.47 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-107秒
+4900 Ready do post ------ 1-4	19.31.47	Sleep:-106	Token:	yu=-107
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:47	target time:2021-1-5
+5000 Error: Init Token Dismiss!
+5000 Init ------ 1-4	19.31.47 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-108秒
+5000 Ready do post ------ 1-4	19.31.48	Sleep:-107	Token:	yu=-108
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:52	target time:2021-1-5
+2100 Error: Init Token Dismiss!
+2100 Init ------ 1-4	19.31.52 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-112秒
+2100 Ready do post ------ 1-4	19.31.52	Sleep:-111	Token:	yu=-112
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:52	target time:2021-1-5
+2200 Error: Init Token Dismiss!
+2200 Init ------ 1-4	19.31.52 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-112秒
+2200 Ready do post ------ 1-4	19.31.52	Sleep:-111	Token:	yu=-112
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:52	target time:2021-1-5
+2300 Error: Init Token Dismiss!
+2300 Init ------ 1-4	19.31.52 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-112秒
+2300 Ready do post ------ 1-4	19.31.52	Sleep:-111	Token:	yu=-112
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:52	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:53	target time:2021-1-5
+2200 Error: Init Token Dismiss!
+2200 Init ------ 1-4	19.31.53 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-113秒
+2200 Ready do post ------ 1-4	19.31.53	Sleep:-112	Token:	yu=-113
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:31:53	target time:2021-1-5
+2400 Error: Init Token Dismiss!
+2400 Init ------ 1-4	19.31.52 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-113秒
+2400 Ready do post ------ 1-4	19.31.53	Sleep:-112	Token:	yu=-113
+2300 Error: Init Token Dismiss!
+2300 Init ------ 1-4	19.31.53 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-115秒
+2300 Ready do post ------ 1-4	19.31.55	Sleep:-114	Token:	yu=-115
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:8	target time:2021-1-5
+2400 Init ------ 1-4	19.32.8 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-128秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:8	target time:2021-1-5
+2500 Error: Init Token Dismiss!
+2500 Init ------ 1-4	19.32.8 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-129秒
+2500 Ready do post ------ 1-4	19.32.9	Sleep:-128	Token:	yu=-129
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:9	target time:2021-1-5
+2600 Init ------ 1-4	19.32.9 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-129秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:9	target time:2021-1-5
+2700 Error: Init Token Dismiss!
+2700 Init ------ 1-4	19.32.9 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-129秒
+2700 Ready do post ------ 1-4	19.32.9	Sleep:-128	Token:	yu=-129
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:9	target time:2021-1-5
+2800 Init ------ 1-4	19.32.9 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-129秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:9	target time:2021-1-5
+2900 Error: Init Token Dismiss!
+2900 Init ------ 1-4	19.32.9 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-129秒
+2900 Ready do post ------ 1-4	19.32.9	Sleep:-128	Token:	yu=-129
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:9	target time:2021-1-5
+3000 Error: Init Token Dismiss!
+3000 Init ------ 1-4	19.32.9 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-129秒
+3000 Ready do post ------ 1-4	19.32.9	Sleep:-128	Token:	yu=-129
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:9	target time:2021-1-5
+3100 Error: Init Token Dismiss!
+3100 Init ------ 1-4	19.32.9 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-129秒
+3100 Ready do post ------ 1-4	19.32.9	Sleep:-128	Token:	yu=-129
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:9	target time:2021-1-5
+3200 Error: Init Token Dismiss!
+3200 Init ------ 1-4	19.32.9 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-129秒
+3200 Ready do post ------ 1-4	19.32.9	Sleep:-128	Token:	yu=-129
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:9	target time:2021-1-5
+3300 Init ------ 1-4	19.32.9 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-129秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:9	target time:2021-1-5
+3400 Error: Init Token Dismiss!
+3400 Init ------ 1-4	19.32.9 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-130秒
+3400 Ready do post ------ 1-4	19.32.10	Sleep:-129	Token:	yu=-130
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:11	target time:2021-1-5
+5100 Error: Init Token Dismiss!
+5100 Init ------ 1-4	19.32.11 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-132秒
+5100 Ready do post ------ 1-4	19.32.12	Sleep:-131	Token:	yu=-132
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:16	target time:2021-1-5
+2500 Error: Init Token Dismiss!
+2500 Init ------ 1-4	19.32.16 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-136秒
+2500 Ready do post ------ 1-4	19.32.16	Sleep:-135	Token:	yu=-136
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:16	target time:2021-1-5
+2600 Init ------ 1-4	19.32.16 seat:82 target:1-5 10~22	Token:10053
+
+剩余时间：-136秒
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:16	target time:2021-1-5
+2700 Init ------ 1-4	19.32.16 seat:82 target:1-5 10~22	Token:10053
+
+剩余时间：-136秒
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:16	target time:2021-1-5
+2800 Error: Init Token Dismiss!
+2800 Init ------ 1-4	19.32.16 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-138秒
+2800 Ready do post ------ 1-4	19.32.18	Sleep:-137	Token:	yu=-138
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:21	target time:2021-1-5
+3500 Error: Init Token Dismiss!
+3500 Init ------ 1-4	19.32.21 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-142秒
+3500 Ready do post ------ 1-4	19.32.22	Sleep:-141	Token:	yu=-142
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:27	target time:2021-1-5
+2900 Error: Init Token Dismiss!
+2900 Init ------ 1-4	19.32.27 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-147秒
+2900 Ready do post ------ 1-4	19.32.27	Sleep:-146	Token:	yu=-147
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:27	target time:2021-1-5
+3000 Error: Init Token Dismiss!
+3000 Init ------ 1-4	19.32.27 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-147秒
+3000 Ready do post ------ 1-4	19.32.27	Sleep:-146	Token:	yu=-147
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:27	target time:2021-1-5
+3100 Error: Init Token Dismiss!
+3100 Init ------ 1-4	19.32.27 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-150秒
+3100 Ready do post ------ 1-4	19.32.30	Sleep:-149	Token:	yu=-150
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:35	target time:2021-1-5
+5200 Init ------ 1-4	19.32.35 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-155秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:35	target time:2021-1-5
+5300 Error: Init Token Dismiss!
+5300 Init ------ 1-4	19.32.35 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-155秒
+5300 Ready do post ------ 1-4	19.32.35	Sleep:-154	Token:	yu=-155
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:35	target time:2021-1-5
+5400 Error: Init Token Dismiss!
+5400 Init ------ 1-4	19.32.35 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-155秒
+5400 Ready do post ------ 1-4	19.32.35	Sleep:-154	Token:	yu=-155
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:35	target time:2021-1-5
+5500 Init ------ 1-4	19.32.35 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-155秒
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:35	target time:2021-1-5
+5600 Error: Init Token Dismiss!
+5600 Init ------ 1-4	19.32.35 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-155秒
+5600 Ready do post ------ 1-4	19.32.35	Sleep:-154	Token:	yu=-155
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:35	target time:2021-1-5
+5700 Error: Init Token Dismiss!
+5700 Init ------ 1-4	19.32.35 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-155秒
+5700 Ready do post ------ 1-4	19.32.35	Sleep:-154	Token:	yu=-155
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:35	target time:2021-1-5
+5800 Error: Init Token Dismiss!
+5800 Init ------ 1-4	19.32.35 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-155秒
+5800 Ready do post ------ 1-4	19.32.35	Sleep:-154	Token:	yu=-155
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:35	target time:2021-1-5
+5900 Error: Init Token Dismiss!
+5900 Init ------ 1-4	19.32.35 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-157秒
+5900 Ready do post ------ 1-4	19.32.37	Sleep:-156	Token:	yu=-157
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:38	target time:2021-1-5
+3600 Error: Init Token Dismiss!
+3600 Init ------ 1-4	19.32.38 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-158秒
+3600 Ready do post ------ 1-4	19.32.38	Sleep:-157	Token:	yu=-158
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:38	target time:2021-1-5
+3700 Error: Init Token Dismiss!
+3700 Init ------ 1-4	19.32.38 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-158秒
+3700 Ready do post ------ 1-4	19.32.38	Sleep:-157	Token:	yu=-158
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:38	target time:2021-1-5
+3800 Error: Init Token Dismiss!
+3800 Init ------ 1-4	19.32.38 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-159秒
+3800 Ready do post ------ 1-4	19.32.39	Sleep:-158	Token:	yu=-159
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:52	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:54	target time:2021-1-5
+6000 Error: Init Token Dismiss!
+6000 Init ------ 1-4	19.32.54 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-174秒
+6000 Ready do post ------ 1-4	19.32.54	Sleep:-173	Token:	yu=-174
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:54	target time:2021-1-5
+6100 Error: Init Token Dismiss!
+6100 Init ------ 1-4	19.32.54 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-174秒
+6100 Ready do post ------ 1-4	19.32.54	Sleep:-173	Token:	yu=-174
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:54	target time:2021-1-5
+6200 Init ------ 1-4	19.32.54 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-174秒
+Call FUN1: 0 cnt=3
+3200 Error: Init Token Dismiss!
+Init OneThread : real time: 2021-1-4 19:32:54	target time:2021-1-5
+3200 Init ------ 1-4	19.32.52 seat:82 target:1-5 10~22	Token:
+6300 Init ------ 1-4	19.32.54 seat:81 target:1-5 10~22	Token:10053
+
+剩余时间：-174秒
+
+剩余时间：-174秒
+3200 Ready do post ------ 1-4	19.32.54	Sleep:-173	Token:	yu=-174
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:32:54	target time:2021-1-5
+6400 Error: Init Token Dismiss!
+6400 Init ------ 1-4	19.32.54 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-175秒
+6400 Ready do post ------ 1-4	19.32.55	Sleep:-174	Token:	yu=-175
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:0	target time:2021-1-5
+3900 Error: Init Token Dismiss!
+3900 Init ------ 1-4	19.33.0 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-180秒
+3900 Ready do post ------ 1-4	19.33.0	Sleep:-179	Token:	yu=-180
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:0	target time:2021-1-5
+4000 Init ------ 1-4	19.33.0 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-180秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:0	target time:2021-1-5
+4100 Error: Init Token Dismiss!
+4100 Init ------ 1-4	19.33.0 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-182秒
+4100 Ready do post ------ 1-4	19.33.2	Sleep:-181	Token:	yu=-182
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:6	target time:2021-1-5
+6500 Error: Init Token Dismiss!
+6500 Init ------ 1-4	19.33.6 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-186秒
+6500 Ready do post ------ 1-4	19.33.6	Sleep:-185	Token:	yu=-186
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:6	target time:2021-1-5
+6600 Error: Init Token Dismiss!
+6600 Init ------ 1-4	19.33.6 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-186秒
+6600 Ready do post ------ 1-4	19.33.6	Sleep:-185	Token:	yu=-186
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:6	target time:2021-1-5
+6700 Error: Init Token Dismiss!
+6700 Init ------ 1-4	19.33.6 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-188秒
+6700 Ready do post ------ 1-4	19.33.8	Sleep:-187	Token:	yu=-188
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:10	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:11	target time:2021-1-5
+4200 Init ------ 1-4	19.33.11 seat:80 target:1-5 10~22	Token:10053
+
+剩余时间：-191秒
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:11	target time:2021-1-5
+3300 Error: Init Token Dismiss!
+3300 Init ------ 1-4	19.33.10 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-192秒
+3300 Ready do post ------ 1-4	19.33.12	Sleep:-191	Token:	yu=-192
+4300 Error: Init Token Dismiss!
+4300 Init ------ 1-4	19.33.11 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-193秒
+4300 Ready do post ------ 1-4	19.33.13	Sleep:-192	Token:	yu=-193
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:20	target time:2021-1-5
+6800 Error: Init Token Dismiss!
+6800 Init ------ 1-4	19.33.20 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-201秒
+6800 Ready do post ------ 1-4	19.33.21	Sleep:-200	Token:	yu=-201
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:28	target time:2021-1-5
+3400 Error: Init Token Dismiss!
+3400 Init ------ 1-4	19.33.28 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-208秒
+3400 Ready do post ------ 1-4	19.33.28	Sleep:-207	Token:	yu=-208
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:28	target time:2021-1-5
+3500 Error: Init Token Dismiss!
+3500 Init ------ 1-4	19.33.28 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-208秒
+3500 Ready do post ------ 1-4	19.33.28	Sleep:-207	Token:	yu=-208
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:28	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:28	target time:2021-1-5
+3600 Error: Init Token Dismiss!
+3600 Init ------ 1-4	19.33.28 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-208秒
+3600 Ready do post ------ 1-4	19.33.28	Sleep:-207	Token:	yu=-208
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:28	target time:2021-1-5
+4400 Error: Init Token Dismiss!
+4400 Init ------ 1-4	19.33.28 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-210秒
+4400 Ready do post ------ 1-4	19.33.30	Sleep:-209	Token:	yu=-210
+3700 Error: Init Token Dismiss!
+3700 Init ------ 1-4	19.33.28 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-210秒
+3700 Ready do post ------ 1-4	19.33.30	Sleep:-209	Token:	yu=-210
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:31	target time:2021-1-5
+6900 Error: Init Token Dismiss!
+6900 Init ------ 1-4	19.33.31 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-213秒
+6900 Ready do post ------ 1-4	19.33.33	Sleep:-212	Token:	yu=-213
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:37	target time:2021-1-5
+4500 Error: Init Token Dismiss!
+4500 Init ------ 1-4	19.33.37 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-218秒
+4500 Ready do post ------ 1-4	19.33.38	Sleep:-217	Token:	yu=-218
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:41	target time:2021-1-5
+7000 Error: Init Token Dismiss!
+7000 Init ------ 1-4	19.33.41 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-221秒
+7000 Ready do post ------ 1-4	19.33.41	Sleep:-220	Token:	yu=-221
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:41	target time:2021-1-5
+7100 Error: Init Token Dismiss!
+7100 Init ------ 1-4	19.33.41 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-223秒
+7100 Ready do post ------ 1-4	19.33.43	Sleep:-222	Token:	yu=-223
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:43	target time:2021-1-5
+3800 Error: Init Token Dismiss!
+3800 Init ------ 1-4	19.33.43 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-224秒
+3800 Ready do post ------ 1-4	19.33.44	Sleep:-223	Token:	yu=-224
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:45	target time:2021-1-5
+4600 Error: Init Token Dismiss!
+4600 Init ------ 1-4	19.33.45 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-227秒
+4600 Ready do post ------ 1-4	19.33.47	Sleep:-226	Token:	yu=-227
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:48	target time:2021-1-5
+7200 Error: Init Token Dismiss!
+7200 Init ------ 1-4	19.33.48 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-230秒
+7200 Ready do post ------ 1-4	19.33.50	Sleep:-229	Token:	yu=-230
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:53	target time:2021-1-5
+3900 Error: Init Token Dismiss!
+3900 Init ------ 1-4	19.33.53 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-235秒
+3900 Ready do post ------ 1-4	19.33.55	Sleep:-234	Token:	yu=-235
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:58	target time:2021-1-5
+7300 Error: Init Token Dismiss!
+7300 Init ------ 1-4	19.33.58 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-238秒
+7300 Ready do post ------ 1-4	19.33.58	Sleep:-237	Token:	yu=-238
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:33:58	target time:2021-1-5
+7400 Error: Init Token Dismiss!
+7400 Init ------ 1-4	19.33.58 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-239秒
+7400 Ready do post ------ 1-4	19.33.59	Sleep:-238	Token:	yu=-239
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:1	target time:2021-1-5
+4700 Error: Init Token Dismiss!
+4700 Init ------ 1-4	19.34.1 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-243秒
+4700 Ready do post ------ 1-4	19.34.3	Sleep:-242	Token:	yu=-243
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:4	target time:2021-1-5
+4000 Error: Init Token Dismiss!
+4000 Init ------ 1-4	19.34.4 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-245秒
+4000 Ready do post ------ 1-4	19.34.5	Sleep:-244	Token:	yu=-245
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:6	target time:2021-1-5
+7500 Error: Init Token Dismiss!
+7500 Init ------ 1-4	19.34.6 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-248秒
+7500 Ready do post ------ 1-4	19.34.8	Sleep:-247	Token:	yu=-248
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:10	target time:2021-1-5
+4800 Error: Init Token Dismiss!
+4800 Init ------ 1-4	19.34.10 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-252秒
+4800 Ready do post ------ 1-4	19.34.12	Sleep:-251	Token:	yu=-252
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:14	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:15	target time:2021-1-5
+4100 Error: Init Token Dismiss!
+4100 Init ------ 1-4	19.34.14 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-255秒
+4100 Ready do post ------ 1-4	19.34.15	Sleep:-254	Token:	yu=-255
+7600 Error: Init Token Dismiss!
+7600 Init ------ 1-4	19.34.15 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-256秒
+7600 Ready do post ------ 1-4	19.34.16	Sleep:-255	Token:	yu=-256
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:19	target time:2021-1-5
+4900 Error: Init Token Dismiss!
+4900 Init ------ 1-4	19.34.19 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-260秒
+4900 Ready do post ------ 1-4	19.34.20	Sleep:-259	Token:	yu=-260
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:21	target time:2021-1-5
+4200 Error: Init Token Dismiss!
+4200 Init ------ 1-4	19.34.21 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-261秒
+4200 Ready do post ------ 1-4	19.34.21	Sleep:-260	Token:	yu=-261
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:21	target time:2021-1-5
+4300 Error: Init Token Dismiss!
+4300 Init ------ 1-4	19.34.21 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-263秒
+4300 Ready do post ------ 1-4	19.34.23	Sleep:-262	Token:	yu=-263
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:24	target time:2021-1-5
+7700 Error: Init Token Dismiss!
+7700 Init ------ 1-4	19.34.24 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-264秒
+7700 Ready do post ------ 1-4	19.34.24	Sleep:-263	Token:	yu=-264
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:24	target time:2021-1-5
+7800 Error: Init Token Dismiss!
+7800 Init ------ 1-4	19.34.24 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-266秒
+7800 Ready do post ------ 1-4	19.34.26	Sleep:-265	Token:	yu=-266
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:27	target time:2021-1-5
+5000 Error: Init Token Dismiss!
+5000 Init ------ 1-4	19.34.27 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-268秒
+5000 Ready do post ------ 1-4	19.34.28	Sleep:-267	Token:	yu=-268
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:29	target time:2021-1-5
+4400 Error: Init Token Dismiss!
+4400 Init ------ 1-4	19.34.29 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-270秒
+4400 Ready do post ------ 1-4	19.34.30	Sleep:-269	Token:	yu=-270
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:32	target time:2021-1-5
+7900 Error: Init Token Dismiss!
+7900 Init ------ 1-4	19.34.32 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-273秒
+7900 Ready do post ------ 1-4	19.34.33	Sleep:-272	Token:	yu=-273
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:35	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:36	target time:2021-1-5
+5100 Error: Init Token Dismiss!
+5100 Init ------ 1-4	19.34.35 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-277秒
+5100 Ready do post ------ 1-4	19.34.37	Sleep:-276	Token:	yu=-277
+4500 Error: Init Token Dismiss!
+4500 Init ------ 1-4	19.34.36 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-278秒
+4500 Ready do post ------ 1-4	19.34.38	Sleep:-277	Token:	yu=-278
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:40	target time:2021-1-5
+8000 Error: Init Token Dismiss!
+8000 Init ------ 1-4	19.34.40 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-281秒
+8000 Ready do post ------ 1-4	19.34.42	Sleep:-281	Token:	yu=-282
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:45	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:46	target time:2021-1-5
+4600 Error: Init Token Dismiss!
+4600 Init ------ 1-4	19.34.45 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-287秒
+4600 Ready do post ------ 1-4	19.34.47	Sleep:-286	Token:	yu=-287
+5200 Error: Init Token Dismiss!
+5200 Init ------ 1-4	19.34.46 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-287秒
+5200 Ready do post ------ 1-4	19.34.47	Sleep:-286	Token:	yu=-287
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:50	target time:2021-1-5
+8100 Error: Init Token Dismiss!
+8100 Init ------ 1-4	19.34.50 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-290秒
+8100 Ready do post ------ 1-4	19.34.50	Sleep:-289	Token:	yu=-290
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:50	target time:2021-1-5
+8200 Error: Init Token Dismiss!
+8200 Init ------ 1-4	19.34.50 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-292秒
+8200 Ready do post ------ 1-4	19.34.52	Sleep:-291	Token:	yu=-292
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:53	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:54	target time:2021-1-5
+4700 Error: Init Token Dismiss!
+4700 Init ------ 1-4	19.34.53 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-295秒
+4700 Ready do post ------ 1-4	19.34.55	Sleep:-294	Token:	yu=-295
+5300 Error: Init Token Dismiss!
+5300 Init ------ 1-4	19.34.54 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-296秒
+5300 Ready do post ------ 1-4	19.34.56	Sleep:-295	Token:	yu=-296
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:34:57	target time:2021-1-5
+8300 Error: Init Token Dismiss!
+8300 Init ------ 1-4	19.34.57 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-299秒
+8300 Ready do post ------ 1-4	19.34.59	Sleep:-298	Token:	yu=-299
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:0	target time:2021-1-5
+4800 Error: Init Token Dismiss!
+4800 Init ------ 1-4	19.35.0 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-300秒
+4800 Ready do post ------ 1-4	19.35.0	Sleep:-299	Token:	yu=-300
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:0	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:1	target time:2021-1-5
+4900 Error: Init Token Dismiss!
+4900 Init ------ 1-4	19.35.0 seat:82 target:1-5 10~22	Token:
+
+剩余时间：-302秒
+4900 Ready do post ------ 1-4	19.35.2	Sleep:-301	Token:	yu=-302
+5400 Error: Init Token Dismiss!
+5400 Init ------ 1-4	19.35.1 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-303秒
+5400 Ready do post ------ 1-4	19.35.3	Sleep:-302	Token:	yu=-303
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:3	target time:2021-1-5
+8400 Error: Init Token Dismiss!
+8400 Init ------ 1-4	19.35.3 seat:81 target:1-5 10~22	Token:
+
+剩余时间：-304秒
+8400 Ready do post ------ 1-4	19.35.4	Sleep:-303	Token:	yu=-304
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:5	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:5	target time:2021-1-5
+5500 Error: Init Token Dismiss!
+5500 Init ------ 1-4	19.35.5 seat:80 target:1-5 10~22	Token:
+
+剩余时间：-306秒
+5500 Ready do post ------ 1-4	19.35.6	Sleep:-305	Token:	yu=-306
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:7	target time:2021-1-5
+5000 Init ------ 1-4	19.35.5 seat:82 target:1-5 10~22	Token:ba7ffbdd-80fc-449b-b9fd-d204e60604d3
+
+剩余时间：-307秒
+5000 Ready do post ------ 1-4	19.35.7	Sleep:-306	Token:ba7ffbdd-80fc-449b-b9fd-d204e60604d3	yu=-307
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:7	target time:2021-1-5
+8500 Init ------ 1-4	19.35.7 seat:81 target:1-5 10~22	Token:a20df4d7-bca2-4b41-a68a-8528684ce336
+
+剩余时间：-309秒
+8500 Ready do post ------ 1-4	19.35.9	Sleep:-308	Token:a20df4d7-bca2-4b41-a68a-8528684ce336	yu=-309
+5600 Init ------ 1-4	19.35.7 seat:80 target:1-5 10~22	Token:40852aab-251d-4f84-aecc-453565abbcba
+
+剩余时间：-309秒
+5600 Ready do post ------ 1-4	19.35.9	Sleep:-308	Token:40852aab-251d-4f84-aecc-453565abbcba	yu=-309
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:13	target time:2021-1-5
+5700 Init ------ 1-4	19.35.13 seat:80 target:1-5 10~22	Token:89f82e24-6bc1-4fd0-8a2e-153f1966f18a
+
+剩余时间：-314秒
+5700 Ready do post ------ 1-4	19.35.14	Sleep:-313	Token:89f82e24-6bc1-4fd0-8a2e-153f1966f18a	yu=-314
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:24	target time:2021-1-5
+5100 Init ------ 1-4	19.35.24 seat:82 target:1-5 10~22	Token:a9c3e202-f80d-4309-8617-1c842f18babf
+
+剩余时间：-325秒
+5100 Ready do post ------ 1-4	19.35.25	Sleep:-324	Token:a9c3e202-f80d-4309-8617-1c842f18babf	yu=-325
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:32	target time:2021-1-5
+5800 Init ------ 1-4	19.35.32 seat:80 target:1-5 10~22	Token:0ad16420-47c8-4989-8b2c-8e2023e6ca88
+
+剩余时间：-334秒
+5800 Ready do post ------ 1-4	19.35.34	Sleep:-333	Token:0ad16420-47c8-4989-8b2c-8e2023e6ca88	yu=-334
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:37	target time:2021-1-5
+8600 Init ------ 1-4	19.35.37 seat:81 target:1-5 10~22	Token:2a6c8da8-8e0c-466b-a908-fa32e95d6fb1
+
+剩余时间：-339秒
+8600 Ready do post ------ 1-4	19.35.39	Sleep:-338	Token:2a6c8da8-8e0c-466b-a908-fa32e95d6fb1	yu=-339
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:39	target time:2021-1-5
+5200 Init ------ 1-4	19.35.39 seat:82 target:1-5 10~22	Token:384ff278-4ec1-48c5-8506-af50091d07dd
+
+剩余时间：-341秒
+5200 Ready do post ------ 1-4	19.35.41	Sleep:-340	Token:384ff278-4ec1-48c5-8506-af50091d07dd	yu=-341
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:51	target time:2021-1-5
+8700 Init ------ 1-4	19.35.51 seat:81 target:1-5 10~22	Token:fe7d5f1a-bc6a-450b-876e-1f50f04a7c78
+
+剩余时间：-352秒
+8700 Ready do post ------ 1-4	19.35.52	Sleep:-351	Token:fe7d5f1a-bc6a-450b-876e-1f50f04a7c78	yu=-352
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:35:59	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:0	target time:2021-1-5
+5900 Init ------ 1-4	19.35.59 seat:80 target:1-5 10~22	Token:e62926bc-b17e-4fdc-94d0-9662a16b6800
+
+剩余时间：-360秒
+5900 Ready do post ------ 1-4	19.36.0	Sleep:-359	Token:e62926bc-b17e-4fdc-94d0-9662a16b6800	yu=-360
+5300 Init ------ 1-4	19.36.0 seat:82 target:1-5 10~22	Token:300fbe85-1d38-46c7-af18-30812732a476
+
+剩余时间：-362秒
+5300 Ready do post ------ 1-4	19.36.2	Sleep:-361	Token:300fbe85-1d38-46c7-af18-30812732a476	yu=-362
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:4	target time:2021-1-5
+8800 Init ------ 1-4	19.36.4 seat:81 target:1-5 10~22	Token:e8dbef85-8cfd-443c-8c81-f6f0d7b41e0f
+
+剩余时间：-366秒
+8800 Ready do post ------ 1-4	19.36.6	Sleep:-365	Token:e8dbef85-8cfd-443c-8c81-f6f0d7b41e0f	yu=-366
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:20	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:21	target time:2021-1-5
+5400 Init ------ 1-4	19.36.20 seat:82 target:1-5 10~22	Token:a5b9764a-db58-46b8-85d1-965175eaff84
+
+剩余时间：-382秒
+5400 Ready do post ------ 1-4	19.36.22	Sleep:-381	Token:a5b9764a-db58-46b8-85d1-965175eaff84	yu=-382
+6000 Init ------ 1-4	19.36.21 seat:80 target:1-5 10~22	Token:0edd7933-ee64-457b-b8b9-4225d29c5446
+
+剩余时间：-383秒
+6000 Ready do post ------ 1-4	19.36.23	Sleep:-382	Token:0edd7933-ee64-457b-b8b9-4225d29c5446	yu=-383
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:31	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:32	target time:2021-1-5
+8900 Init ------ 1-4	19.36.31 seat:81 target:1-5 10~22	Token:ddab078d-3ff0-46b8-b5c8-f5626ea3a2ee
+
+剩余时间：-393秒
+8900 Ready do post ------ 1-4	19.36.33	Sleep:-392	Token:ddab078d-3ff0-46b8-b5c8-f5626ea3a2ee	yu=-393
+5500 Init ------ 1-4	19.36.32 seat:82 target:1-5 10~22	Token:534224ee-35d8-463e-8ef6-46188122e48f
+
+剩余时间：-394秒
+5500 Ready do post ------ 1-4	19.36.34	Sleep:-393	Token:534224ee-35d8-463e-8ef6-46188122e48f	yu=-394
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:34	target time:2021-1-5
+6100 Init ------ 1-4	19.36.34 seat:80 target:1-5 10~22	Token:5ebeb5a2-9bed-4ea9-bad0-9152ac6983a6
+
+剩余时间：-396秒
+6100 Ready do post ------ 1-4	19.36.36	Sleep:-395	Token:5ebeb5a2-9bed-4ea9-bad0-9152ac6983a6	yu=-396
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:44	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:46	target time:2021-1-5
+9000 Init ------ 1-4	19.36.44 seat:81 target:1-5 10~22	Token:43e8938b-2fbb-494a-b00c-e659c2eabfec
+
+剩余时间：-406秒
+9000 Ready do post ------ 1-4	19.36.46	Sleep:-405	Token:43e8938b-2fbb-494a-b00c-e659c2eabfec	yu=-406
+5600 Init ------ 1-4	19.36.46 seat:82 target:1-5 10~22	Token:db04173c-e0ce-4952-9229-a4b71c2bc83b
+
+剩余时间：-408秒
+5600 Ready do post ------ 1-4	19.36.48	Sleep:-407	Token:db04173c-e0ce-4952-9229-a4b71c2bc83b	yu=-408
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:36:54	target time:2021-1-5
+6200 Init ------ 1-4	19.36.54 seat:80 target:1-5 10~22	Token:8d64e11c-840e-404a-9451-4495f6af9222
+
+剩余时间：-416秒
+6200 Ready do post ------ 1-4	19.36.56	Sleep:-415	Token:8d64e11c-840e-404a-9451-4495f6af9222	yu=-416
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:3	target time:2021-1-5
+5700 Init ------ 1-4	19.37.3 seat:82 target:1-5 10~22	Token:2ea1c148-a57f-4cba-8dca-679381013c8a
+
+剩余时间：-424秒
+5700 Ready do post ------ 1-4	19.37.4	Sleep:-423	Token:2ea1c148-a57f-4cba-8dca-679381013c8a	yu=-424
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:5	target time:2021-1-5
+6300 Init ------ 1-4	19.37.5 seat:80 target:1-5 10~22	Token:e5402467-6cbb-4a04-9cd9-e18ad80b9a55
+
+剩余时间：-427秒
+6300 Ready do post ------ 1-4	19.37.7	Sleep:-426	Token:e5402467-6cbb-4a04-9cd9-e18ad80b9a55	yu=-427
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:11	target time:2021-1-5
+9100 Init ------ 1-4	19.37.11 seat:81 target:1-5 10~22	Token:4f8d0bb7-6926-4788-ba4e-ba1f298c4bbe
+
+剩余时间：-433秒
+9100 Ready do post ------ 1-4	19.37.13	Sleep:-432	Token:4f8d0bb7-6926-4788-ba4e-ba1f298c4bbe	yu=-433
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:14	target time:2021-1-5
+5800 Init ------ 1-4	19.37.14 seat:82 target:1-5 10~22	Token:48593eff-e8f4-480b-8cb2-ec65d1fc15d8
+
+剩余时间：-436秒
+5800 Ready do post ------ 1-4	19.37.16	Sleep:-435	Token:48593eff-e8f4-480b-8cb2-ec65d1fc15d8	yu=-436
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:20	target time:2021-1-5
+6400 Init ------ 1-4	19.37.20 seat:80 target:1-5 10~22	Token:41309bae-ec2e-46f8-a067-d41235e2a1b0
+
+剩余时间：-441秒
+6400 Ready do post ------ 1-4	19.37.21	Sleep:-440	Token:41309bae-ec2e-46f8-a067-d41235e2a1b0	yu=-441
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:31	target time:2021-1-5
+9200 Init ------ 1-4	19.37.31 seat:81 target:1-5 10~22	Token:30675f55-8d81-4780-a012-3baa3b8cd297
+
+剩余时间：-453秒
+9200 Ready do post ------ 1-4	19.37.33	Sleep:-452	Token:30675f55-8d81-4780-a012-3baa3b8cd297	yu=-453
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:34	target time:2021-1-5
+5900 Init ------ 1-4	19.37.34 seat:82 target:1-5 10~22	Token:df6f154a-9ef1-4f19-b884-fc0069db585f
+
+剩余时间：-456秒
+5900 Ready do post ------ 1-4	19.37.36	Sleep:-455	Token:df6f154a-9ef1-4f19-b884-fc0069db585f	yu=-456
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:46	target time:2021-1-5
+6500 Init ------ 1-4	19.37.46 seat:80 target:1-5 10~22	Token:39c63fce-ef15-4ccc-a416-b8a96e84b977
+
+剩余时间：-467秒
+6500 Ready do post ------ 1-4	19.37.47	Sleep:-466	Token:39c63fce-ef15-4ccc-a416-b8a96e84b977	yu=-467
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:48	target time:2021-1-5
+9300 Init ------ 1-4	19.37.48 seat:81 target:1-5 10~22	Token:100231f8-e969-4420-ac1e-c42082424c53
+
+剩余时间：-470秒
+9300 Ready do post ------ 1-4	19.37.50	Sleep:-469	Token:100231f8-e969-4420-ac1e-c42082424c53	yu=-470
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:37:51	target time:2021-1-5
+6000 Init ------ 1-4	19.37.51 seat:82 target:1-5 10~22	Token:e771596c-3061-4699-8b53-4083d34cfd0a
+
+剩余时间：-473秒
+6000 Ready do post ------ 1-4	19.37.53	Sleep:-472	Token:e771596c-3061-4699-8b53-4083d34cfd0a	yu=-473
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:38:3	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:38:4	target time:2021-1-5
+9400 Init ------ 1-4	19.38.3 seat:81 target:1-5 10~22	Token:0f4c4579-7e74-4583-815f-d8ef8a07b68f
+
+剩余时间：-485秒
+9400 Ready do post ------ 1-4	19.38.5	Sleep:-484	Token:0f4c4579-7e74-4583-815f-d8ef8a07b68f	yu=-485
+6600 Init ------ 1-4	19.38.4 seat:80 target:1-5 10~22	Token:d86b31bc-dfbe-492b-bbd3-e679f145f4bd
+
+剩余时间：-485秒
+6600 Ready do post ------ 1-4	19.38.5	Sleep:-484	Token:d86b31bc-dfbe-492b-bbd3-e679f145f4bd	yu=-485
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:38:10	target time:2021-1-5
+6100 Init ------ 1-4	19.38.10 seat:82 target:1-5 10~22	Token:7a98725b-36bc-4d17-bfde-a4c1ed3b153f
+
+剩余时间：-491秒
+6100 Ready do post ------ 1-4	19.38.11	Sleep:-490	Token:7a98725b-36bc-4d17-bfde-a4c1ed3b153f	yu=-491
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:38:22	target time:2021-1-5
+9500 Init ------ 1-4	19.38.22 seat:81 target:1-5 10~22	Token:a6182fd4-357b-4b06-9a81-534442e77aee
+
+剩余时间：-503秒
+9500 Ready do post ------ 1-4	19.38.23	Sleep:-502	Token:a6182fd4-357b-4b06-9a81-534442e77aee	yu=-503
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:38:30	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:38:30	target time:2021-1-5
+6700 Init ------ 1-4	19.38.30 seat:80 target:1-5 10~22	Token:f5645aa3-9224-43b7-87bd-8828933b5228
+
+剩余时间：-511秒
+6700 Ready do post ------ 1-4	19.38.31	Sleep:-510	Token:f5645aa3-9224-43b7-87bd-8828933b5228	yu=-511
+6200 Init ------ 1-4	19.38.30 seat:82 target:1-5 10~22	Token:085d7a88-4953-4c9d-b34f-2345c3887634
+
+剩余时间：-511秒
+6200 Ready do post ------ 1-4	19.38.31	Sleep:-510	Token:085d7a88-4953-4c9d-b34f-2345c3887634	yu=-511
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:38:46	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:38:47	target time:2021-1-5
+6800 Init ------ 1-4	19.38.46 seat:80 target:1-5 10~22	Token:41a4e21b-0427-4466-a2e8-e618062fea55
+
+剩余时间：-527秒
+6800 Ready do post ------ 1-4	19.38.47	Sleep:-526	Token:41a4e21b-0427-4466-a2e8-e618062fea55	yu=-527
+9600 Init ------ 1-4	19.38.47 seat:81 target:1-5 10~22	Token:b12201bf-0003-4d67-866c-8be68bba8b1d
+
+剩余时间：-528秒
+9600 Ready do post ------ 1-4	19.38.48	Sleep:-527	Token:b12201bf-0003-4d67-866c-8be68bba8b1d	yu=-528
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:38:52	target time:2021-1-5
+6300 Init ------ 1-4	19.38.52 seat:82 target:1-5 10~22	Token:e2cb0dfb-44ed-4dcc-8a79-2dd50d1aecc7
+
+剩余时间：-533秒
+6300 Ready do post ------ 1-4	19.38.53	Sleep:-532	Token:e2cb0dfb-44ed-4dcc-8a79-2dd50d1aecc7	yu=-533
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:2	target time:2021-1-5
+9700 Init ------ 1-4	19.39.2 seat:81 target:1-5 10~22	Token:e43f5263-3a2b-4415-9e03-b84b5fc2efa8
+Call FUN1: 1 cnt=3
+
+剩余时间：-543秒
+9700 Ready do post ------ 1-4	19.39.3	Sleep:-542	Token:e43f5263-3a2b-4415-9e03-b84b5fc2efa8	yu=-543
+Init OneThread : real time: 2021-1-4 19:39:3	target time:2021-1-5
+6400 Init ------ 1-4	19.39.3 seat:82 target:1-5 10~22	Token:d43b0008-9f1b-459e-ba9a-3ebf35b4f183
+
+剩余时间：-545秒
+6400 Ready do post ------ 1-4	19.39.5	Sleep:-544	Token:d43b0008-9f1b-459e-ba9a-3ebf35b4f183	yu=-545
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:10	target time:2021-1-5
+6900 Init ------ 1-4	19.39.10 seat:80 target:1-5 10~22	Token:fb73be8e-d596-49f6-85fc-60304072a202
+
+剩余时间：-552秒
+6900 Ready do post ------ 1-4	19.39.12	Sleep:-551	Token:fb73be8e-d596-49f6-85fc-60304072a202	yu=-552
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:13	target time:2021-1-5
+9800 Init ------ 1-4	19.39.13 seat:81 target:1-5 10~22	Token:e2360985-695c-4bd6-b745-7cc4e985bee1
+
+剩余时间：-555秒
+9800 Ready do post ------ 1-4	19.39.15	Sleep:-554	Token:e2360985-695c-4bd6-b745-7cc4e985bee1	yu=-555
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:15	target time:2021-1-5
+7000 Init ------ 1-4	19.39.15 seat:80 target:1-5 10~22	Token:64d24acc-6d30-4bc0-b065-e6610d5315d3
+
+剩余时间：-557秒
+7000 Ready do post ------ 1-4	19.39.17	Sleep:-556	Token:64d24acc-6d30-4bc0-b065-e6610d5315d3	yu=-557
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:22	target time:2021-1-5
+6500 Init ------ 1-4	19.39.22 seat:82 target:1-5 10~22	Token:502e335c-8dfe-480c-88e8-ca06ab6112e8
+
+剩余时间：-563秒
+6500 Ready do post ------ 1-4	19.39.23	Sleep:-562	Token:502e335c-8dfe-480c-88e8-ca06ab6112e8	yu=-563
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:29	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:30	target time:2021-1-5
+6600 Init ------ 1-4	19.39.29 seat:82 target:1-5 10~22	Token:0dbc881a-2aec-4bbe-b5ce-d27053d846af
+
+剩余时间：-570秒
+6600 Ready do post ------ 1-4	19.39.30	Sleep:-569	Token:0dbc881a-2aec-4bbe-b5ce-d27053d846af	yu=-570
+7100 Init ------ 1-4	19.39.30 seat:80 target:1-5 10~22	Token:e2c19b01-6ea6-4602-a812-8369654eec82
+
+剩余时间：-571秒
+7100 Ready do post ------ 1-4	19.39.31	Sleep:-570	Token:e2c19b01-6ea6-4602-a812-8369654eec82	yu=-571
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:35	target time:2021-1-5
+9900 Init ------ 1-4	19.39.35 seat:81 target:1-5 10~22	Token:7befb633-ac01-42b0-9b91-fd8ce4a17518
+
+剩余时间：-577秒
+9900 Ready do post ------ 1-4	19.39.37	Sleep:-576	Token:7befb633-ac01-42b0-9b91-fd8ce4a17518	yu=-577
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:44	target time:2021-1-5
+6700 Init ------ 1-4	19.39.44 seat:82 target:1-5 10~22	Token:9bc29cf1-3c1d-4ddc-8593-d25c72731dc2
+
+剩余时间：-585秒
+6700 Ready do post ------ 1-4	19.39.45	Sleep:-584	Token:9bc29cf1-3c1d-4ddc-8593-d25c72731dc2	yu=-585
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:51	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:39:52	target time:2021-1-5
+7200 Init ------ 1-4	19.39.51 seat:80 target:1-5 10~22	Token:f20de6bd-4626-49f5-963e-11ecb6a76dc7
+
+剩余时间：-593秒
+7200 Ready do post ------ 1-4	19.39.53	Sleep:-592	Token:f20de6bd-4626-49f5-963e-11ecb6a76dc7	yu=-593
+10000 Init ------ 1-4	19.39.52 seat:81 target:1-5 10~22	Token:ae0fb55f-7cd2-439e-90a7-8df35b3e0faf
+
+剩余时间：-594秒
+10000 Ready do post ------ 1-4	19.39.54	Sleep:-593	Token:ae0fb55f-7cd2-439e-90a7-8df35b3e0faf	yu=-594
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:3	target time:2021-1-5
+7300 Init ------ 1-4	19.40.3 seat:80 target:1-5 10~22	Token:888c5290-c4fb-45ba-b4ef-8fc52853558f
+
+剩余时间：-604秒
+7300 Ready do post ------ 1-4	19.40.4	Sleep:-603	Token:888c5290-c4fb-45ba-b4ef-8fc52853558f	yu=-604
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:5	target time:2021-1-5
+6800 Init ------ 1-4	19.40.5 seat:82 target:1-5 10~22	Token:acdb9ab9-b9a1-4ae8-8c50-fe401fbfe4a6
+
+剩余时间：-607秒
+6800 Ready do post ------ 1-4	19.40.7	Sleep:-606	Token:acdb9ab9-b9a1-4ae8-8c50-fe401fbfe4a6	yu=-607
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:12	target time:2021-1-5
+10100 Init ------ 1-4	19.40.12 seat:81 target:1-5 10~22	Token:da30edce-f999-477e-a568-fcde301bedda
+
+剩余时间：-614秒
+10100 Ready do post ------ 1-4	19.40.14	Sleep:-613	Token:da30edce-f999-477e-a568-fcde301bedda	yu=-614
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:17	target time:2021-1-5
+7400 Init ------ 1-4	19.40.17 seat:80 target:1-5 10~22	Token:bd86b46b-33de-4913-a56f-4a3bd44ad237
+
+剩余时间：-619秒
+7400 Ready do post ------ 1-4	19.40.19	Sleep:-618	Token:bd86b46b-33de-4913-a56f-4a3bd44ad237	yu=-619
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:24	target time:2021-1-5
+6900 Init ------ 1-4	19.40.24 seat:82 target:1-5 10~22	Token:4560bedf-29a0-4034-84d0-7a6f32a7bc6b
+
+剩余时间：-625秒
+6900 Ready do post ------ 1-4	19.40.25	Sleep:-624	Token:4560bedf-29a0-4034-84d0-7a6f32a7bc6b	yu=-625
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:28	target time:2021-1-5
+7500 Init ------ 1-4	19.40.28 seat:80 target:1-5 10~22	Token:8eb13ef1-3f83-4c18-90af-4ecf2468a7e1
+
+剩余时间：-630秒
+7500 Ready do post ------ 1-4	19.40.30	Sleep:-629	Token:8eb13ef1-3f83-4c18-90af-4ecf2468a7e1	yu=-630
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:32	target time:2021-1-5
+10200 Init ------ 1-4	19.40.32 seat:81 target:1-5 10~22	Token:d1bcaa1e-fb4d-4629-a564-a12d3b80fa7a
+
+剩余时间：-634秒
+10200 Ready do post ------ 1-4	19.40.34	Sleep:-633	Token:d1bcaa1e-fb4d-4629-a564-a12d3b80fa7a	yu=-634
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:43	target time:2021-1-5
+7600 Init ------ 1-4	19.40.43 seat:80 target:1-5 10~22	Token:7ca424e3-4e66-49fc-9b19-374d19fb7bb0
+
+剩余时间：-645秒
+7600 Ready do post ------ 1-4	19.40.45	Sleep:-644	Token:7ca424e3-4e66-49fc-9b19-374d19fb7bb0	yu=-645
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:48	target time:2021-1-5
+7000 Init ------ 1-4	19.40.48 seat:82 target:1-5 10~22	Token:6c55a5e0-d7f3-4d5c-a740-4a0dfce2a13a
+
+剩余时间：-649秒
+7000 Ready do post ------ 1-4	19.40.49	Sleep:-648	Token:6c55a5e0-d7f3-4d5c-a740-4a0dfce2a13a	yu=-649
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:40:51	target time:2021-1-5
+10300 Init ------ 1-4	19.40.51 seat:81 target:1-5 10~22	Token:c55e2602-0abb-491c-89e7-d9ddad651cbe
+
+剩余时间：-652秒
+10300 Ready do post ------ 1-4	19.40.52	Sleep:-651	Token:c55e2602-0abb-491c-89e7-d9ddad651cbe	yu=-652
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:41:8	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:41:8	target time:2021-1-5
+7100 Init ------ 1-4	19.41.8 seat:82 target:1-5 10~22	Token:0a38696b-478a-4f2b-847d-5460b1c12140
+
+剩余时间：-669秒
+7100 Ready do post ------ 1-4	19.41.9	Sleep:-668	Token:0a38696b-478a-4f2b-847d-5460b1c12140	yu=-669
+7700 Init ------ 1-4	19.41.8 seat:80 target:1-5 10~22	Token:59535b61-15e0-4a80-9474-4fb18beed0b6
+
+剩余时间：-670秒
+7700 Ready do post ------ 1-4	19.41.10	Sleep:-669	Token:59535b61-15e0-4a80-9474-4fb18beed0b6	yu=-670
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:41:18	target time:2021-1-5
+10400 Init ------ 1-4	19.41.18 seat:81 target:1-5 10~22	Token:6da2435b-f471-4006-800d-7a07bea461ed
+
+剩余时间：-679秒
+10400 Ready do post ------ 1-4	19.41.19	Sleep:-678	Token:6da2435b-f471-4006-800d-7a07bea461ed	yu=-679
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:41:23	target time:2021-1-5
+7800 Init ------ 1-4	19.41.23 seat:80 target:1-5 10~22	Token:2f97b488-b033-4aa9-bfbc-f8e69e494317
+
+剩余时间：-684秒
+7800 Ready do post ------ 1-4	19.41.24	Sleep:-683	Token:2f97b488-b033-4aa9-bfbc-f8e69e494317	yu=-684
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:41:30	target time:2021-1-5
+7200 Init ------ 1-4	19.41.30 seat:82 target:1-5 10~22	Token:e1b9751a-6ff8-40e3-a70b-e12f482fb3c5
+
+剩余时间：-691秒
+7200 Ready do post ------ 1-4	19.41.31	Sleep:-690	Token:e1b9751a-6ff8-40e3-a70b-e12f482fb3c5	yu=-691
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:41:43	target time:2021-1-5
+10500 Init ------ 1-4	19.41.43 seat:81 target:1-5 10~22	Token:73fe765e-3541-463d-a134-8b8f9686adaf
+
+剩余时间：-704秒
+10500 Ready do post ------ 1-4	19.41.44	Sleep:-703	Token:73fe765e-3541-463d-a134-8b8f9686adaf	yu=-704
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:41:49	target time:2021-1-5
+7900 Init ------ 1-4	19.41.49 seat:80 target:1-5 10~22	Token:78eef221-1c89-4557-b970-446dad652d6c
+
+剩余时间：-710秒
+7900 Ready do post ------ 1-4	19.41.50	Sleep:-709	Token:78eef221-1c89-4557-b970-446dad652d6c	yu=-710
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:41:57	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:41:58	target time:2021-1-5
+7300 Init ------ 1-4	19.41.57 seat:82 target:1-5 10~22	Token:6aba46b7-c7c9-4847-ac67-75b9f6c7af71
+
+剩余时间：-718秒
+7300 Ready do post ------ 1-4	19.41.58	Sleep:-717	Token:6aba46b7-c7c9-4847-ac67-75b9f6c7af71	yu=-718
+10600 Init ------ 1-4	19.41.58 seat:81 target:1-5 10~22	Token:3185bc7f-b13a-40ba-86fb-d9137e4c09e0
+
+剩余时间：-719秒
+10600 Ready do post ------ 1-4	19.41.59	Sleep:-718	Token:3185bc7f-b13a-40ba-86fb-d9137e4c09e0	yu=-719
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:42:8	target time:2021-1-5
+8000 Init ------ 1-4	19.42.8 seat:80 target:1-5 10~22	Token:7e227bd3-94b8-46a2-90c1-6611c0a66342
+
+剩余时间：-730秒
+8000 Ready do post ------ 1-4	19.42.10	Sleep:-729	Token:7e227bd3-94b8-46a2-90c1-6611c0a66342	yu=-730
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:42:21	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:42:21	target time:2021-1-5
+8100 Init ------ 1-4	19.42.21 seat:80 target:1-5 10~22	Token:1e901e34-e6af-4004-bc9e-5953fab97d90
+
+剩余时间：-743秒
+8100 Ready do post ------ 1-4	19.42.23	Sleep:-742	Token:1e901e34-e6af-4004-bc9e-5953fab97d90	yu=-743
+10700 Init ------ 1-4	19.42.21 seat:81 target:1-5 10~22	Token:165d2a1e-97f1-455d-a139-ff86b20f32bd
+
+剩余时间：-743秒
+10700 Ready do post ------ 1-4	19.42.23	Sleep:-742	Token:165d2a1e-97f1-455d-a139-ff86b20f32bd	yu=-743
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:42:23	target time:2021-1-5
+7400 Init ------ 1-4	19.42.23 seat:82 target:1-5 10~22	Token:6b8ad445-062a-46e9-ae52-6539bb171d79
+
+剩余时间：-745秒
+7400 Ready do post ------ 1-4	19.42.25	Sleep:-744	Token:6b8ad445-062a-46e9-ae52-6539bb171d79	yu=-745
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:42:36	target time:2021-1-5
+7500 Init ------ 1-4	19.42.36 seat:82 target:1-5 10~22	Token:24bde90a-3057-447e-9fcf-becf06c8b10d
+
+剩余时间：-757秒
+7500 Ready do post ------ 1-4	19.42.37	Sleep:-756	Token:24bde90a-3057-447e-9fcf-becf06c8b10d	yu=-757
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:42:41	target time:2021-1-5
+10800 Init ------ 1-4	19.42.41 seat:81 target:1-5 10~22	Token:1c3b527c-d9e5-476c-b699-c35dbcb74d08
+
+剩余时间：-763秒
+10800 Ready do post ------ 1-4	19.42.43	Sleep:-762	Token:1c3b527c-d9e5-476c-b699-c35dbcb74d08	yu=-763
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:42:44	target time:2021-1-5
+8200 Init ------ 1-4	19.42.44 seat:80 target:1-5 10~22	Token:c572ccd8-4c3d-4d4f-b147-a364403625a7
+
+剩余时间：-765秒
+8200 Ready do post ------ 1-4	19.42.45	Sleep:-764	Token:c572ccd8-4c3d-4d4f-b147-a364403625a7	yu=-765
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:42:55	target time:2021-1-5
+10900 Init ------ 1-4	19.42.55 seat:81 target:1-5 10~22	Token:c3a29c8f-f364-4a65-88e4-0e08ef46c90b
+
+剩余时间：-776秒
+10900 Ready do post ------ 1-4	19.42.56	Sleep:-775	Token:c3a29c8f-f364-4a65-88e4-0e08ef46c90b	yu=-776
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:43:1	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:43:2	target time:2021-1-5
+7600 Init ------ 1-4	19.43.1 seat:82 target:1-5 10~22	Token:da1dcf3e-74e0-4910-8c5f-d21f5379d499
+
+剩余时间：-782秒
+7600 Ready do post ------ 1-4	19.43.2	Sleep:-781	Token:da1dcf3e-74e0-4910-8c5f-d21f5379d499	yu=-782
+8300 Init ------ 1-4	19.43.2 seat:80 target:1-5 10~22	Token:175b2dc0-6e3e-4502-9fbc-7d6b6578ce71
+
+剩余时间：-783秒
+8300 Ready do post ------ 1-4	19.43.3	Sleep:-782	Token:175b2dc0-6e3e-4502-9fbc-7d6b6578ce71	yu=-783
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:43:13	target time:2021-1-5
+8400 Init ------ 1-4	19.43.13 seat:80 target:1-5 10~22	Token:3cdad05e-eac8-4205-bce4-b659f6686024
+
+剩余时间：-795秒
+8400 Ready do post ------ 1-4	19.43.15	Sleep:-794	Token:3cdad05e-eac8-4205-bce4-b659f6686024	yu=-795
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:43:22	target time:2021-1-5
+11000 Init ------ 1-4	19.43.22 seat:81 target:1-5 10~22	Token:650fe7cf-a0e5-4fc4-8d95-f7252de176de
+
+剩余时间：-803秒
+11000 Ready do post ------ 1-4	19.43.23	Sleep:-802	Token:650fe7cf-a0e5-4fc4-8d95-f7252de176de	yu=-803
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:43:27	target time:2021-1-5
+7700 Init ------ 1-4	19.43.27 seat:82 target:1-5 10~22	Token:0a145d1d-a7db-4f71-b86f-ed0daf224f45
+
+剩余时间：-809秒
+7700 Ready do post ------ 1-4	19.43.29	Sleep:-808	Token:0a145d1d-a7db-4f71-b86f-ed0daf224f45	yu=-809
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:43:34	target time:2021-1-5
+8500 Init ------ 1-4	19.43.34 seat:80 target:1-5 10~22	Token:cd8388a6-2757-4394-b999-054fba7aac33
+
+剩余时间：-816秒
+8500 Ready do post ------ 1-4	19.43.36	Sleep:-815	Token:cd8388a6-2757-4394-b999-054fba7aac33	yu=-816
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:43:38	target time:2021-1-5
+11100 Init ------ 1-4	19.43.38 seat:81 target:1-5 10~22	Token:47ccdc4a-14e7-4465-a9ac-66f4f07bb027
+
+剩余时间：-820秒
+11100 Ready do post ------ 1-4	19.43.40	Sleep:-819	Token:47ccdc4a-14e7-4465-a9ac-66f4f07bb027	yu=-820
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:43:49	target time:2021-1-5
+7800 Init ------ 1-4	19.43.49 seat:82 target:1-5 10~22	Token:7852b1c1-09ae-4f34-b6e0-778a79c22a92
+
+剩余时间：-831秒
+7800 Ready do post ------ 1-4	19.43.51	Sleep:-830	Token:7852b1c1-09ae-4f34-b6e0-778a79c22a92	yu=-831
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:43:58	target time:2021-1-5
+8600 Init ------ 1-4	19.43.58 seat:80 target:1-5 10~22	Token:d2890460-0e34-4f27-bf25-8221fc3ae71b
+
+剩余时间：-840秒
+8600 Ready do post ------ 1-4	19.44.0	Sleep:-839	Token:d2890460-0e34-4f27-bf25-8221fc3ae71b	yu=-840
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:44:2	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:44:3	target time:2021-1-5
+11200 Init ------ 1-4	19.44.2 seat:81 target:1-5 10~22	Token:6bb49195-64dd-4aed-af6e-add5679aae38
+
+剩余时间：-843秒
+11200 Ready do post ------ 1-4	19.44.3	Sleep:-842	Token:6bb49195-64dd-4aed-af6e-add5679aae38	yu=-843
+7900 Init ------ 1-4	19.44.3 seat:82 target:1-5 10~22	Token:22a41af5-21af-4dfe-9f18-314914ee5351
+
+剩余时间：-844秒
+7900 Ready do post ------ 1-4	19.44.4	Sleep:-843	Token:22a41af5-21af-4dfe-9f18-314914ee5351	yu=-844
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:44:21	target time:2021-1-5
+8700 Init ------ 1-4	19.44.21 seat:80 target:1-5 10~22	Token:2fdb8e84-73d6-4e97-89a0-843201e5a7b0
+
+剩余时间：-863秒
+8700 Ready do post ------ 1-4	19.44.23	Sleep:-862	Token:2fdb8e84-73d6-4e97-89a0-843201e5a7b0	yu=-863
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:44:24	target time:2021-1-5
+11300 Init ------ 1-4	19.44.24 seat:81 target:1-5 10~22	Token:a7dd2c02-0076-4b97-8b8b-d870cb7259b8
+
+剩余时间：-865秒
+11300 Ready do post ------ 1-4	19.44.25	Sleep:-864	Token:a7dd2c02-0076-4b97-8b8b-d870cb7259b8	yu=-865
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:44:29	target time:2021-1-5
+8000 Init ------ 1-4	19.44.29 seat:82 target:1-5 10~22	Token:a9638f27-c38b-49e1-9956-c64899568014
+
+剩余时间：-871秒
+8000 Ready do post ------ 1-4	19.44.31	Sleep:-870	Token:a9638f27-c38b-49e1-9956-c64899568014	yu=-871
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:44:39	target time:2021-1-5
+11400 Init ------ 1-4	19.44.39 seat:81 target:1-5 10~22	Token:f4efa913-19ec-4a9d-8a7c-dec91977f581
+
+剩余时间：-880秒
+11400 Ready do post ------ 1-4	19.44.40	Sleep:-879	Token:f4efa913-19ec-4a9d-8a7c-dec91977f581	yu=-880
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:44:47	target time:2021-1-5
+8800 Init ------ 1-4	19.44.47 seat:80 target:1-5 10~22	Token:8bd8b374-d25b-4522-8601-cedef36aad6e
+
+剩余时间：-889秒
+8800 Ready do post ------ 1-4	19.44.49	Sleep:-888	Token:8bd8b374-d25b-4522-8601-cedef36aad6e	yu=-889
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:44:49	target time:2021-1-5
+8100 Init ------ 1-4	19.44.49 seat:82 target:1-5 10~22	Token:9e706ae0-12e4-422b-9ddf-9b40271be854
+
+剩余时间：-891秒
+8100 Ready do post ------ 1-4	19.44.51	Sleep:-890	Token:9e706ae0-12e4-422b-9ddf-9b40271be854	yu=-891
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:44:57	target time:2021-1-5
+11500 Init ------ 1-4	19.44.57 seat:81 target:1-5 10~22	Token:ebb52868-49f4-4dc0-8a28-640cccec9737
+
+剩余时间：-898秒
+11500 Ready do post ------ 1-4	19.44.58	Sleep:-897	Token:ebb52868-49f4-4dc0-8a28-640cccec9737	yu=-898
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:5	target time:2021-1-5
+8200 Init ------ 1-4	19.45.5 seat:82 target:1-5 10~22	Token:90cff5aa-4197-49be-8ceb-21be543d2503
+
+剩余时间：-906秒
+8200 Ready do post ------ 1-4	19.45.6	Sleep:-905	Token:90cff5aa-4197-49be-8ceb-21be543d2503	yu=-906
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:8	target time:2021-1-5
+8900 Init ------ 1-4	19.45.8 seat:80 target:1-5 10~22	Token:8d5aad2d-6cad-4d2a-9a5a-8fea33194fb1
+
+剩余时间：-910秒
+8900 Ready do post ------ 1-4	19.45.10	Sleep:-909	Token:8d5aad2d-6cad-4d2a-9a5a-8fea33194fb1	yu=-910
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:19	target time:2021-1-5
+11600 Init ------ 1-4	19.45.19 seat:81 target:1-5 10~22	Token:2d69a96b-ee4e-4918-9344-b4a6226e9775
+
+剩余时间：-920秒
+11600 Ready do post ------ 1-4	19.45.20	Sleep:-919	Token:2d69a96b-ee4e-4918-9344-b4a6226e9775	yu=-920
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:28	target time:2021-1-5
+8300 Init ------ 1-4	19.45.28 seat:82 target:1-5 10~22	Token:190663c2-9a21-4368-8695-9af08084957b
+
+剩余时间：-930秒
+8300 Ready do post ------ 1-4	19.45.30	Sleep:-929	Token:190663c2-9a21-4368-8695-9af08084957b	yu=-930
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:31	target time:2021-1-5
+9000 Init ------ 1-4	19.45.31 seat:80 target:1-5 10~22	Token:f9498c29-ee58-4872-9fbc-9accf5bc83b5
+
+剩余时间：-933秒
+9000 Ready do post ------ 1-4	19.45.33	Sleep:-932	Token:f9498c29-ee58-4872-9fbc-9accf5bc83b5	yu=-933
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:44	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:46	target time:2021-1-5
+11700 Init ------ 1-4	19.45.44 seat:81 target:1-5 10~22	Token:d8d804b2-5223-4620-8da5-a3e8f885176c
+
+剩余时间：-946秒
+11700 Ready do post ------ 1-4	19.45.46	Sleep:-945	Token:d8d804b2-5223-4620-8da5-a3e8f885176c	yu=-946
+9100 Init ------ 1-4	19.45.46 seat:80 target:1-5 10~22	Token:7a031771-39c0-446a-89f8-3d2a6c981e57
+
+剩余时间：-947秒
+9100 Ready do post ------ 1-4	19.45.47	Sleep:-946	Token:7a031771-39c0-446a-89f8-3d2a6c981e57	yu=-947
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:48	target time:2021-1-5
+8400 Init ------ 1-4	19.45.48 seat:82 target:1-5 10~22	Token:03e8d2c4-7148-4e94-a6c9-b120c630da91
+
+剩余时间：-950秒
+8400 Ready do post ------ 1-4	19.45.50	Sleep:-949	Token:03e8d2c4-7148-4e94-a6c9-b120c630da91	yu=-950
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:59	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:45:59	target time:2021-1-5
+9200 Init ------ 1-4	19.45.59 seat:80 target:1-5 10~22	Token:a865f3d0-c218-4421-982d-07cc2d2d5181
+
+剩余时间：-960秒
+9200 Ready do post ------ 1-4	19.46.0	Sleep:-959	Token:a865f3d0-c218-4421-982d-07cc2d2d5181	yu=-960
+11800 Init ------ 1-4	19.45.59 seat:81 target:1-5 10~22	Token:a5cad486-3f24-428b-a057-f588e4df3a1b
+
+剩余时间：-961秒
+11800 Ready do post ------ 1-4	19.46.1	Sleep:-960	Token:a5cad486-3f24-428b-a057-f588e4df3a1b	yu=-961
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:46:10	target time:2021-1-5
+9300 Init ------ 1-4	19.46.10 seat:80 target:1-5 10~22	Token:3891d6e3-2dc4-4e1a-8611-25bba79ddeb7
+
+剩余时间：-971秒
+9300 Ready do post ------ 1-4	19.46.11	Sleep:-970	Token:3891d6e3-2dc4-4e1a-8611-25bba79ddeb7	yu=-971
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:46:14	target time:2021-1-5
+8500 Init ------ 1-4	19.46.14 seat:82 target:1-5 10~22	Token:48fcbc04-36ab-4462-bf69-fc8372cbf75b
+
+剩余时间：-975秒
+8500 Ready do post ------ 1-4	19.46.15	Sleep:-974	Token:48fcbc04-36ab-4462-bf69-fc8372cbf75b	yu=-975
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:46:21	target time:2021-1-5
+11900 Init ------ 1-4	19.46.21 seat:81 target:1-5 10~22	Token:d7462a3e-2059-443b-8dfe-6e329ed4153c
+
+剩余时间：-983秒
+11900 Ready do post ------ 1-4	19.46.23	Sleep:-982	Token:d7462a3e-2059-443b-8dfe-6e329ed4153c	yu=-983
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:46:25	target time:2021-1-5
+8600 Init ------ 1-4	19.46.25 seat:82 target:1-5 10~22	Token:99a20b3b-913a-4474-b68f-547a62d36a53
+
+剩余时间：-987秒
+8600 Ready do post ------ 1-4	19.46.27	Sleep:-986	Token:99a20b3b-913a-4474-b68f-547a62d36a53	yu=-987
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:46:34	target time:2021-1-5
+9400 Init ------ 1-4	19.46.34 seat:80 target:1-5 10~22	Token:d0e7b24b-7b65-4a37-97d2-cd1b04f21846
+
+剩余时间：-996秒
+9400 Ready do post ------ 1-4	19.46.36	Sleep:-995	Token:d0e7b24b-7b65-4a37-97d2-cd1b04f21846	yu=-996
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:46:36	target time:2021-1-5
+12000 Init ------ 1-4	19.46.36 seat:81 target:1-5 10~22	Token:0d1a21b7-8dbe-49d1-892b-a9b19b1921ac
+
+剩余时间：-998秒
+12000 Ready do post ------ 1-4	19.46.38	Sleep:-997	Token:0d1a21b7-8dbe-49d1-892b-a9b19b1921ac	yu=-998
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:46:50	target time:2021-1-5
+8700 Init ------ 1-4	19.46.50 seat:82 target:1-5 10~22	Token:22fed1f6-c5e8-47e1-a178-6bab96ef110a
+
+剩余时间：-1012秒
+8700 Ready do post ------ 1-4	19.46.52	Sleep:-1011	Token:22fed1f6-c5e8-47e1-a178-6bab96ef110a	yu=-1012
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:46:54	target time:2021-1-5
+9500 Init ------ 1-4	19.46.54 seat:80 target:1-5 10~22	Token:7efa9309-6fcd-44e3-971a-32d825e78cdb
+
+剩余时间：-1015秒
+9500 Ready do post ------ 1-4	19.46.55	Sleep:-1014	Token:7efa9309-6fcd-44e3-971a-32d825e78cdb	yu=-1015
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:46:59	target time:2021-1-5
+12100 Init ------ 1-4	19.46.59 seat:81 target:1-5 10~22	Token:fb0f00bf-8fec-467e-9922-7e612b0e4bed
+
+剩余时间：-1021秒
+12100 Ready do post ------ 1-4	19.47.1	Sleep:-1020	Token:fb0f00bf-8fec-467e-9922-7e612b0e4bed	yu=-1021
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:11	target time:2021-1-5
+12200 Init ------ 1-4	19.47.11 seat:81 target:1-5 10~22	Token:817d33e4-2dec-4de2-b98b-0e2cf26b22b0
+
+剩余时间：-1033秒
+12200 Ready do post ------ 1-4	19.47.13	Sleep:-1032	Token:817d33e4-2dec-4de2-b98b-0e2cf26b22b0	yu=-1033
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:14	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:15	target time:2021-1-5
+8800 Init ------ 1-4	19.47.14 seat:82 target:1-5 10~22	Token:514c81d1-05ae-4566-b586-c09a1cbc088a
+
+剩余时间：-1036秒
+8800 Ready do post ------ 1-4	19.47.16	Sleep:-1035	Token:514c81d1-05ae-4566-b586-c09a1cbc088a	yu=-1036
+9600 Init ------ 1-4	19.47.15 seat:80 target:1-5 10~22	Token:50ed6a37-a4c3-43d8-8e1c-7012f9696835
+
+剩余时间：-1037秒
+9600 Ready do post ------ 1-4	19.47.17	Sleep:-1036	Token:50ed6a37-a4c3-43d8-8e1c-7012f9696835	yu=-1037
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:29	target time:2021-1-5
+8900 Init ------ 1-4	19.47.29 seat:82 target:1-5 10~22	Token:052abe5c-6242-45b5-947f-9d4e4517d364
+
+剩余时间：-1051秒
+8900 Ready do post ------ 1-4	19.47.31	Sleep:-1050	Token:052abe5c-6242-45b5-947f-9d4e4517d364	yu=-1051
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:31	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:32	target time:2021-1-5
+9700 Init ------ 1-4	19.47.31 seat:80 target:1-5 10~22	Token:557bd32b-6822-49d8-9e65-b13f21f06d1e
+
+剩余时间：-1053秒
+9700 Ready do post ------ 1-4	19.47.33	Sleep:-1052	Token:557bd32b-6822-49d8-9e65-b13f21f06d1e	yu=-1053
+12300 Init ------ 1-4	19.47.32 seat:81 target:1-5 10~22	Token:2d694213-87c9-479f-9aad-dfb80b2170e1
+
+剩余时间：-1053秒
+12300 Ready do post ------ 1-4	19.47.33	Sleep:-1052	Token:2d694213-87c9-479f-9aad-dfb80b2170e1	yu=-1053
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:43	target time:2021-1-5
+9800 Init ------ 1-4	19.47.43 seat:80 target:1-5 10~22	Token:534c1b4e-92e6-4a7f-a64d-9fca7f412d4f
+
+剩余时间：-1064秒
+9800 Ready do post ------ 1-4	19.47.44	Sleep:-1063	Token:534c1b4e-92e6-4a7f-a64d-9fca7f412d4f	yu=-1064
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:54	target time:2021-1-5
+9000 Init ------ 1-4	19.47.54 seat:82 target:1-5 10~22	Token:f0add78c-6882-493a-979f-a92b0d335899
+
+剩余时间：-1076秒
+9000 Ready do post ------ 1-4	19.47.56	Sleep:-1075	Token:f0add78c-6882-493a-979f-a92b0d335899	yu=-1076
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:57	target time:2021-1-5
+12400 Init ------ 1-4	19.47.57 seat:81 target:1-5 10~22	Token:24ba7efd-a8d5-4151-a23f-7e9e4053bb14
+
+剩余时间：-1078秒
+12400 Ready do post ------ 1-4	19.47.58	Sleep:-1077	Token:24ba7efd-a8d5-4151-a23f-7e9e4053bb14	yu=-1078
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:47:59	target time:2021-1-5
+9900 Init ------ 1-4	19.47.59 seat:80 target:1-5 10~22	Token:0ed1c166-846e-46e6-9309-75ec63e07797
+
+剩余时间：-1081秒
+9900 Ready do post ------ 1-4	19.48.1	Sleep:-1080	Token:0ed1c166-846e-46e6-9309-75ec63e07797	yu=-1081
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:48:12	target time:2021-1-5
+12500 Init ------ 1-4	19.48.12 seat:81 target:1-5 10~22	Token:66257c1c-3790-4bb4-aba7-39dfba1d471a
+
+剩余时间：-1093秒
+12500 Ready do post ------ 1-4	19.48.13	Sleep:-1092	Token:66257c1c-3790-4bb4-aba7-39dfba1d471a	yu=-1093
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:48:14	target time:2021-1-5
+10000 Init ------ 1-4	19.48.14 seat:80 target:1-5 10~22	Token:1f923e57-3dcd-435a-b127-7d8174726f0d
+
+剩余时间：-1095秒
+10000 Ready do post ------ 1-4	19.48.16	Sleep:-1095	Token:1f923e57-3dcd-435a-b127-7d8174726f0d	yu=-1096
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:48:21	target time:2021-1-5
+9100 Init ------ 1-4	19.48.21 seat:82 target:1-5 10~22	Token:e372480b-97bd-4089-9d3f-4d9bb92a7fd4
+
+剩余时间：-1103秒
+9100 Ready do post ------ 1-4	19.48.23	Sleep:-1102	Token:e372480b-97bd-4089-9d3f-4d9bb92a7fd4	yu=-1103
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:48:30	target time:2021-1-5
+12600 Init ------ 1-4	19.48.30 seat:81 target:1-5 10~22	Token:5ede2d85-e8bd-4411-b7bd-c26309a3acfb
+
+剩余时间：-1112秒
+12600 Ready do post ------ 1-4	19.48.32	Sleep:-1111	Token:5ede2d85-e8bd-4411-b7bd-c26309a3acfb	yu=-1112
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:48:35	target time:2021-1-5
+10100 Init ------ 1-4	19.48.35 seat:80 target:1-5 10~22	Token:52b2e8a0-5747-4be2-a19e-a131292509ec
+
+剩余时间：-1117秒
+10100 Ready do post ------ 1-4	19.48.37	Sleep:-1116	Token:52b2e8a0-5747-4be2-a19e-a131292509ec	yu=-1117
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:48:38	target time:2021-1-5
+9200 Init ------ 1-4	19.48.38 seat:82 target:1-5 10~22	Token:0c2acc99-c60c-4d84-860d-1e35136cfe99
+
+剩余时间：-1120秒
+9200 Ready do post ------ 1-4	19.48.40	Sleep:-1119	Token:0c2acc99-c60c-4d84-860d-1e35136cfe99	yu=-1120
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:48:50	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:48:50	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:48:50	target time:2021-1-5
+10200 Init ------ 1-4	19.48.50 seat:80 target:1-5 10~22	Token:2c49179f-bdb1-489b-8b8a-48fd3af7cb07
+
+剩余时间：-1131秒
+10200 Ready do post ------ 1-4	19.48.51	Sleep:-1130	Token:2c49179f-bdb1-489b-8b8a-48fd3af7cb07	yu=-1131
+9300 Init ------ 1-4	19.48.50 seat:82 target:1-5 10~22	Token:80db984e-d83b-44d4-bdc1-1243866800b6
+
+剩余时间：-1132秒
+9300 Ready do post ------ 1-4	19.48.52	Sleep:-1131	Token:80db984e-d83b-44d4-bdc1-1243866800b6	yu=-1132
+12700 Init ------ 1-4	19.48.50 seat:81 target:1-5 10~22	Token:a8174975-6dc7-4f68-b691-4565d67ac2f1
+
+剩余时间：-1132秒
+12700 Ready do post ------ 1-4	19.48.52	Sleep:-1131	Token:a8174975-6dc7-4f68-b691-4565d67ac2f1	yu=-1132
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:2	target time:2021-1-5
+9400 Init ------ 1-4	19.49.2 seat:82 target:1-5 10~22	Token:6d9a8dfe-d3a7-4419-8089-5595e3c32ca6
+
+剩余时间：-1143秒
+9400 Ready do post ------ 1-4	19.49.3	Sleep:-1142	Token:6d9a8dfe-d3a7-4419-8089-5595e3c32ca6	yu=-1143
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:4	target time:2021-1-5
+10300 Init ------ 1-4	19.49.4 seat:80 target:1-5 10~22	Token:dc64a62f-546c-4032-8554-feb5b8c074ff
+
+剩余时间：-1146秒
+10300 Ready do post ------ 1-4	19.49.6	Sleep:-1145	Token:dc64a62f-546c-4032-8554-feb5b8c074ff	yu=-1146
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:9	target time:2021-1-5
+12800 Init ------ 1-4	19.49.9 seat:81 target:1-5 10~22	Token:118578ef-0bcf-4aed-bd34-95974d17bd7d
+
+剩余时间：-1150秒
+12800 Ready do post ------ 1-4	19.49.10	Sleep:-1149	Token:118578ef-0bcf-4aed-bd34-95974d17bd7d	yu=-1150
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:20	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:22	target time:2021-1-5
+10400 Init ------ 1-4	19.49.20 seat:80 target:1-5 10~22	Token:b21f20ed-8492-4cff-9dcf-c171a8e0a727
+
+剩余时间：-1162秒
+10400 Ready do post ------ 1-4	19.49.22	Sleep:-1161	Token:b21f20ed-8492-4cff-9dcf-c171a8e0a727	yu=-1162
+9500 Init ------ 1-4	19.49.22 seat:82 target:1-5 10~22	Token:08e90604-fa2a-40cd-b9d1-670dc10237ff
+
+剩余时间：-1163秒
+9500 Ready do post ------ 1-4	19.49.23	Sleep:-1162	Token:08e90604-fa2a-40cd-b9d1-670dc10237ff	yu=-1163
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:24	target time:2021-1-5
+12900 Init ------ 1-4	19.49.24 seat:81 target:1-5 10~22	Token:2ee00fd3-849b-4259-aa00-8a33c4cddcc1
+
+剩余时间：-1165秒
+12900 Ready do post ------ 1-4	19.49.25	Sleep:-1164	Token:2ee00fd3-849b-4259-aa00-8a33c4cddcc1	yu=-1165
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:33	target time:2021-1-5
+10500 Init ------ 1-4	19.49.33 seat:80 target:1-5 10~22	Token:a58530a9-b12a-4616-8261-cae661f1174d
+
+剩余时间：-1175秒
+10500 Ready do post ------ 1-4	19.49.35	Sleep:-1174	Token:a58530a9-b12a-4616-8261-cae661f1174d	yu=-1175
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:39	target time:2021-1-5
+13000 Init ------ 1-4	19.49.39 seat:81 target:1-5 10~22	Token:01bd21b2-ae4d-40fe-bc76-3fd2fc77611e
+
+剩余时间：-1181秒
+13000 Ready do post ------ 1-4	19.49.41	Sleep:-1180	Token:01bd21b2-ae4d-40fe-bc76-3fd2fc77611e	yu=-1181
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:45	target time:2021-1-5
+9600 Init ------ 1-4	19.49.45 seat:82 target:1-5 10~22	Token:fe312030-8360-4614-a973-fbb8d0eeeff9
+
+剩余时间：-1187秒
+9600 Ready do post ------ 1-4	19.49.47	Sleep:-1186	Token:fe312030-8360-4614-a973-fbb8d0eeeff9	yu=-1187
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:50	target time:2021-1-5
+10600 Init ------ 1-4	19.49.50 seat:80 target:1-5 10~22	Token:a3447ed2-bba9-4b30-b3f5-200051cfd538
+
+剩余时间：-1191秒
+10600 Ready do post ------ 1-4	19.49.51	Sleep:-1190	Token:a3447ed2-bba9-4b30-b3f5-200051cfd538	yu=-1191
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:56	target time:2021-1-5
+13100 Init ------ 1-4	19.49.56 seat:81 target:1-5 10~22	Token:22007272-5285-43bb-830d-59d2a12792d2
+
+剩余时间：-1197秒
+13100 Ready do post ------ 1-4	19.49.57	Sleep:-1196	Token:22007272-5285-43bb-830d-59d2a12792d2	yu=-1197
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:49:59	target time:2021-1-5
+9700 Init ------ 1-4	19.49.59 seat:82 target:1-5 10~22	Token:d3850006-0bc4-4947-90b8-fd99080a4c93
+
+剩余时间：-1201秒
+9700 Ready do post ------ 1-4	19.50.1	Sleep:-1200	Token:d3850006-0bc4-4947-90b8-fd99080a4c93	yu=-1201
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:50:14	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:50:14	target time:2021-1-5
+10700 Init ------ 1-4	19.50.14 seat:80 target:1-5 10~22	Token:7854ef8c-ae67-4356-a2b5-23ccd2a64335
+
+剩余时间：-1216秒
+10700 Ready do post ------ 1-4	19.50.16	Sleep:-1215	Token:7854ef8c-ae67-4356-a2b5-23ccd2a64335	yu=-1216
+9800 Init ------ 1-4	19.50.14 seat:82 target:1-5 10~22	Token:141b7137-2788-4f61-beb7-865093490e50
+
+剩余时间：-1216秒
+9800 Ready do post ------ 1-4	19.50.16	Sleep:-1215	Token:141b7137-2788-4f61-beb7-865093490e50	yu=-1216
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:50:16	target time:2021-1-5
+13200 Init ------ 1-4	19.50.16 seat:81 target:1-5 10~22	Token:d02ca3cd-a896-4391-8684-ea461d6bf1ca
+
+剩余时间：-1218秒
+13200 Ready do post ------ 1-4	19.50.18	Sleep:-1217	Token:d02ca3cd-a896-4391-8684-ea461d6bf1ca	yu=-1218
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:50:31	target time:2021-1-5
+10800 Init ------ 1-4	19.50.31 seat:80 target:1-5 10~22	Token:98966d8d-2d1f-4098-b53b-8d76d36e9f0b
+
+剩余时间：-1233秒
+10800 Ready do post ------ 1-4	19.50.33	Sleep:-1232	Token:98966d8d-2d1f-4098-b53b-8d76d36e9f0b	yu=-1233
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:50:33	target time:2021-1-5
+9900 Init ------ 1-4	19.50.33 seat:82 target:1-5 10~22	Token:ba1499cc-a625-47e5-83b1-4a693c3de45c
+
+剩余时间：-1235秒
+9900 Ready do post ------ 1-4	19.50.35	Sleep:-1234	Token:ba1499cc-a625-47e5-83b1-4a693c3de45c	yu=-1235
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:50:38	target time:2021-1-5
+13300 Init ------ 1-4	19.50.38 seat:81 target:1-5 10~22	Token:fc61cfcc-b664-413a-8e1f-ac312e020c86
+
+剩余时间：-1240秒
+13300 Ready do post ------ 1-4	19.50.40	Sleep:-1239	Token:fc61cfcc-b664-413a-8e1f-ac312e020c86	yu=-1240
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:50:54	target time:2021-1-5
+10900 Init ------ 1-4	19.50.54 seat:80 target:1-5 10~22	Token:3effdce2-3353-458f-b3b7-b9644e914064
+
+剩余时间：-1255秒
+10900 Ready do post ------ 1-4	19.50.55	Sleep:-1254	Token:3effdce2-3353-458f-b3b7-b9644e914064	yu=-1255
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:50:58	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:50:58	target time:2021-1-5
+10000 Init ------ 1-4	19.50.58 seat:82 target:1-5 10~22	Token:285cd777-6ceb-46dc-b027-c3a194faf755
+
+剩余时间：-1260秒
+10000 Ready do post ------ 1-4	19.51.0	Sleep:-1259	Token:285cd777-6ceb-46dc-b027-c3a194faf755	yu=-1260
+13400 Init ------ 1-4	19.50.58 seat:81 target:1-5 10~22	Token:8d2de026-ae3f-4db3-b546-8ce6e6c8dde7
+
+剩余时间：-1260秒
+13400 Ready do post ------ 1-4	19.51.0	Sleep:-1259	Token:8d2de026-ae3f-4db3-b546-8ce6e6c8dde7	yu=-1260
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:51:12	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:51:13	target time:2021-1-5
+10100 Init ------ 1-4	19.51.12 seat:82 target:1-5 10~22	Token:2f24f9ac-bbff-4f9b-9d47-88570a12d477
+
+剩余时间：-1273秒
+10100 Ready do post ------ 1-4	19.51.13	Sleep:-1272	Token:2f24f9ac-bbff-4f9b-9d47-88570a12d477	yu=-1273
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:51:13	target time:2021-1-5
+11000 Init ------ 1-4	19.51.13 seat:80 target:1-5 10~22	Token:46cf7a8f-a559-450b-b908-99e0604e7f0e
+13500 Init ------ 1-4	19.51.13 seat:81 target:1-5 10~22	Token:3fe4bdb9-9caa-410b-90e0-606658953dfc
+
+剩余时间：-1275秒
+
+剩余时间：-1275秒
+11000 Ready do post ------ 1-4	19.51.15	Sleep:-1274	Token:46cf7a8f-a559-450b-b908-99e0604e7f0e	yu=-1275
+13500 Ready do post ------ 1-4	19.51.15	Sleep:-1274	Token:3fe4bdb9-9caa-410b-90e0-606658953dfc	yu=-1275
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:51:32	target time:2021-1-5
+13600 Init ------ 1-4	19.51.32 seat:81 target:1-5 10~22	Token:7f4093a9-b69f-447d-94ac-0c58d07031f7
+
+剩余时间：-1294秒
+13600 Ready do post ------ 1-4	19.51.34	Sleep:-1293	Token:7f4093a9-b69f-447d-94ac-0c58d07031f7	yu=-1294
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:51:34	target time:2021-1-5
+10200 Init ------ 1-4	19.51.34 seat:82 target:1-5 10~22	Token:eb0d6c27-4c9b-4610-9fc3-e1e5e91826b3
+
+剩余时间：-1295秒
+10200 Ready do post ------ 1-4	19.51.35	Sleep:-1294	Token:eb0d6c27-4c9b-4610-9fc3-e1e5e91826b3	yu=-1295
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:51:38	target time:2021-1-5
+11100 Init ------ 1-4	19.51.38 seat:80 target:1-5 10~22	Token:63472e86-d7b6-4a9b-881b-ce40a07bbaea
+
+剩余时间：-1300秒
+11100 Ready do post ------ 1-4	19.51.40	Sleep:-1299	Token:63472e86-d7b6-4a9b-881b-ce40a07bbaea	yu=-1300
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:51:46	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:51:46	target time:2021-1-5
+13700 Init ------ 1-4	19.51.46 seat:81 target:1-5 10~22	Token:a65099f9-363f-4993-be1d-91779561658a
+
+剩余时间：-1307秒
+13700 Ready do post ------ 1-4	19.51.47	Sleep:-1306	Token:a65099f9-363f-4993-be1d-91779561658a	yu=-1307
+10300 Init ------ 1-4	19.51.46 seat:82 target:1-5 10~22	Token:d55ab571-ac1e-4bdf-b84a-d97a65be9f5b
+
+剩余时间：-1307秒
+10300 Ready do post ------ 1-4	19.51.48	Sleep:-1307	Token:d55ab571-ac1e-4bdf-b84a-d97a65be9f5b	yu=-1308
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:51:58	target time:2021-1-5
+11200 Init ------ 1-4	19.51.58 seat:80 target:1-5 10~22	Token:e9b827cd-38c9-42c7-9b0e-402cbb39087d
+
+剩余时间：-1319秒
+11200 Ready do post ------ 1-4	19.51.59	Sleep:-1318	Token:e9b827cd-38c9-42c7-9b0e-402cbb39087d	yu=-1319
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:52:2	target time:2021-1-5
+13800 Init ------ 1-4	19.52.2 seat:81 target:1-5 10~22	Token:0fab90d1-9a7c-4432-b420-c87744d15dab
+
+剩余时间：-1324秒
+13800 Ready do post ------ 1-4	19.52.4	Sleep:-1323	Token:0fab90d1-9a7c-4432-b420-c87744d15dab	yu=-1324
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:52:4	target time:2021-1-5
+10400 Init ------ 1-4	19.52.4 seat:82 target:1-5 10~22	Token:cffb0e4b-4d47-42f0-8219-28a1d639d3bd
+
+剩余时间：-1326秒
+10400 Ready do post ------ 1-4	19.52.6	Sleep:-1325	Token:cffb0e4b-4d47-42f0-8219-28a1d639d3bd	yu=-1326
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:52:13	target time:2021-1-5
+11300 Init ------ 1-4	19.52.13 seat:80 target:1-5 10~22	Token:d8f660f6-fb48-4079-9b4a-3fb889819433
+
+剩余时间：-1334秒
+11300 Ready do post ------ 1-4	19.52.14	Sleep:-1333	Token:d8f660f6-fb48-4079-9b4a-3fb889819433	yu=-1334
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:52:18	target time:2021-1-5
+10500 Init ------ 1-4	19.52.18 seat:82 target:1-5 10~22	Token:986a94f1-877f-4dae-9307-805ee36db515
+
+剩余时间：-1339秒
+10500 Ready do post ------ 1-4	19.52.19	Sleep:-1338	Token:986a94f1-877f-4dae-9307-805ee36db515	yu=-1339
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:52:24	target time:2021-1-5
+13900 Init ------ 1-4	19.52.24 seat:81 target:1-5 10~22	Token:f6cc5747-24a2-4b83-867a-9bec3ad754cc
+
+剩余时间：-1346秒
+13900 Ready do post ------ 1-4	19.52.26	Sleep:-1345	Token:f6cc5747-24a2-4b83-867a-9bec3ad754cc	yu=-1346
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:52:32	target time:2021-1-5
+11400 Init ------ 1-4	19.52.32 seat:80 target:1-5 10~22	Token:5784b352-82b7-498a-b009-98bcf262579e
+
+剩余时间：-1354秒
+11400 Ready do post ------ 1-4	19.52.34	Sleep:-1353	Token:5784b352-82b7-498a-b009-98bcf262579e	yu=-1354
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:52:36	target time:2021-1-5
+14000 Init ------ 1-4	19.52.36 seat:81 target:1-5 10~22	Token:70f23a28-6a30-4086-9da1-d2448baa5982
+
+剩余时间：-1358秒
+14000 Ready do post ------ 1-4	19.52.38	Sleep:-1357	Token:70f23a28-6a30-4086-9da1-d2448baa5982	yu=-1358
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:52:43	target time:2021-1-5
+10600 Init ------ 1-4	19.52.43 seat:82 target:1-5 10~22	Token:de6945fd-5cc7-429a-9b91-024e0a514f24
+
+剩余时间：-1365秒
+10600 Ready do post ------ 1-4	19.52.45	Sleep:-1364	Token:de6945fd-5cc7-429a-9b91-024e0a514f24	yu=-1365
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:52:49	target time:2021-1-5
+11500 Init ------ 1-4	19.52.49 seat:80 target:1-5 10~22	Token:bb640dda-4eeb-4c70-916f-6c2b29f8048f
+
+剩余时间：-1370秒
+11500 Ready do post ------ 1-4	19.52.50	Sleep:-1369	Token:bb640dda-4eeb-4c70-916f-6c2b29f8048f	yu=-1370
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:0	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:2	target time:2021-1-5
+10700 Init ------ 1-4	19.53.0 seat:82 target:1-5 10~22	Token:bc7750db-af3b-464b-971e-23f47c4e62b2
+
+剩余时间：-1382秒
+10700 Ready do post ------ 1-4	19.53.2	Sleep:-1381	Token:bc7750db-af3b-464b-971e-23f47c4e62b2	yu=-1382
+11600 Init ------ 1-4	19.53.2 seat:80 target:1-5 10~22	Token:f2c4b34e-f0c9-496b-ab8f-b2f2ca4d7df9
+
+剩余时间：-1383秒
+11600 Ready do post ------ 1-4	19.53.3	Sleep:-1382	Token:f2c4b34e-f0c9-496b-ab8f-b2f2ca4d7df9	yu=-1383
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:4	target time:2021-1-5
+14100 Init ------ 1-4	19.53.4 seat:81 target:1-5 10~22	Token:e1beeb9c-1a38-484d-bb94-e40121b70a50
+
+剩余时间：-1385秒
+14100 Ready do post ------ 1-4	19.53.5	Sleep:-1384	Token:e1beeb9c-1a38-484d-bb94-e40121b70a50	yu=-1385
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:18	target time:2021-1-5
+11700 Init ------ 1-4	19.53.18 seat:80 target:1-5 10~22	Token:f6ba829e-7f9e-48b1-9931-e0d0a6b759ea
+
+剩余时间：-1400秒
+11700 Ready do post ------ 1-4	19.53.20	Sleep:-1399	Token:f6ba829e-7f9e-48b1-9931-e0d0a6b759ea	yu=-1400
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:21	target time:2021-1-5
+10800 Init ------ 1-4	19.53.21 seat:82 target:1-5 10~22	Token:4521eb7f-2e57-4ded-b7c0-52e710425e18
+
+剩余时间：-1403秒
+10800 Ready do post ------ 1-4	19.53.23	Sleep:-1402	Token:4521eb7f-2e57-4ded-b7c0-52e710425e18	yu=-1403
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:23	target time:2021-1-5
+14200 Init ------ 1-4	19.53.23 seat:81 target:1-5 10~22	Token:ac67d3db-105e-4bc4-ba6d-b825787de370
+
+剩余时间：-1404秒
+14200 Ready do post ------ 1-4	19.53.24	Sleep:-1403	Token:ac67d3db-105e-4bc4-ba6d-b825787de370	yu=-1404
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:33	target time:2021-1-5
+11800 Init ------ 1-4	19.53.33 seat:80 target:1-5 10~22	Token:59e9c74e-2f46-46da-9337-030f06602df9
+
+剩余时间：-1415秒
+11800 Ready do post ------ 1-4	19.53.35	Sleep:-1414	Token:59e9c74e-2f46-46da-9337-030f06602df9	yu=-1415
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:43	target time:2021-1-5
+14300 Init ------ 1-4	19.53.43 seat:81 target:1-5 10~22	Token:a78c2dbe-4460-43fa-b81f-050f28f8adc4
+
+剩余时间：-1425秒
+14300 Ready do post ------ 1-4	19.53.45	Sleep:-1424	Token:a78c2dbe-4460-43fa-b81f-050f28f8adc4	yu=-1425
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:47	target time:2021-1-5
+10900 Init ------ 1-4	19.53.47 seat:82 target:1-5 10~22	Token:fc5b5606-1d4e-41c3-9595-fe26f5889277
+
+剩余时间：-1429秒
+10900 Ready do post ------ 1-4	19.53.49	Sleep:-1428	Token:fc5b5606-1d4e-41c3-9595-fe26f5889277	yu=-1429
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:53:59	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:54:0	target time:2021-1-5
+14400 Init ------ 1-4	19.53.59 seat:81 target:1-5 10~22	Token:8cc243d7-8e5e-4129-b001-3bdd238c7e48
+
+剩余时间：-1440秒
+14400 Ready do post ------ 1-4	19.54.0	Sleep:-1439	Token:8cc243d7-8e5e-4129-b001-3bdd238c7e48	yu=-1440
+11900 Init ------ 1-4	19.54.0 seat:80 target:1-5 10~22	Token:91b331fd-c0f2-402d-98e7-a7c8938d3137
+
+剩余时间：-1442秒
+11900 Ready do post ------ 1-4	19.54.2	Sleep:-1441	Token:91b331fd-c0f2-402d-98e7-a7c8938d3137	yu=-1442
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:54:9	target time:2021-1-5
+11000 Init ------ 1-4	19.54.9 seat:82 target:1-5 10~22	Token:11ea2853-da75-4fb1-8c63-427aed16faba
+
+剩余时间：-1451秒
+11000 Ready do post ------ 1-4	19.54.11	Sleep:-1450	Token:11ea2853-da75-4fb1-8c63-427aed16faba	yu=-1451
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:54:12	target time:2021-1-5
+14500 Init ------ 1-4	19.54.12 seat:81 target:1-5 10~22	Token:e522665f-2a04-45f4-b30d-1d6a6ad49a57
+
+剩余时间：-1454秒
+14500 Ready do post ------ 1-4	19.54.14	Sleep:-1453	Token:e522665f-2a04-45f4-b30d-1d6a6ad49a57	yu=-1454
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:54:25	target time:2021-1-5
+12000 Init ------ 1-4	19.54.25 seat:80 target:1-5 10~22	Token:f9d3d68e-7531-4ef9-b347-ae778aad3135
+
+剩余时间：-1467秒
+12000 Ready do post ------ 1-4	19.54.27	Sleep:-1466	Token:f9d3d68e-7531-4ef9-b347-ae778aad3135	yu=-1467
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:54:34	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:54:35	target time:2021-1-5
+14600 Init ------ 1-4	19.54.34 seat:81 target:1-5 10~22	Token:94574a4d-bcc5-4ba1-b3db-c0e4f23e0106
+
+剩余时间：-1476秒
+14600 Ready do post ------ 1-4	19.54.36	Sleep:-1475	Token:94574a4d-bcc5-4ba1-b3db-c0e4f23e0106	yu=-1476
+11100 Init ------ 1-4	19.54.35 seat:82 target:1-5 10~22	Token:4381248a-ea18-4c60-b455-dbfe1e9eb439
+
+剩余时间：-1476秒
+11100 Ready do post ------ 1-4	19.54.36	Sleep:-1475	Token:4381248a-ea18-4c60-b455-dbfe1e9eb439	yu=-1476
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:54:48	target time:2021-1-5
+12100 Init ------ 1-4	19.54.48 seat:80 target:1-5 10~22	Token:3958c276-f95c-465a-b24f-c80b90e34a8f
+
+剩余时间：-1489秒
+12100 Ready do post ------ 1-4	19.54.49	Sleep:-1488	Token:3958c276-f95c-465a-b24f-c80b90e34a8f	yu=-1489
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:54:55	target time:2021-1-5
+11200 Init ------ 1-4	19.54.55 seat:82 target:1-5 10~22	Token:f91e9504-8e56-422f-950e-98d0c941780c
+
+剩余时间：-1497秒
+11200 Ready do post ------ 1-4	19.54.57	Sleep:-1496	Token:f91e9504-8e56-422f-950e-98d0c941780c	yu=-1497
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:54:59	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:55:0	target time:2021-1-5
+12200 Init ------ 1-4	19.54.59 seat:80 target:1-5 10~22	Token:c1e0dcf3-4d43-4f69-8a6b-71bbca6d9477
+
+剩余时间：-1501秒
+12200 Ready do post ------ 1-4	19.55.1	Sleep:-1500	Token:c1e0dcf3-4d43-4f69-8a6b-71bbca6d9477	yu=-1501
+14700 Init ------ 1-4	19.55.0 seat:81 target:1-5 10~22	Token:a1d86fe1-95c8-491b-b228-87ee0deff077
+
+剩余时间：-1501秒
+14700 Ready do post ------ 1-4	19.55.1	Sleep:-1500	Token:a1d86fe1-95c8-491b-b228-87ee0deff077	yu=-1501
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:55:16	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:55:17	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:55:17	target time:2021-1-5
+14800 Init ------ 1-4	19.55.16 seat:81 target:1-5 10~22	Token:9000f14e-098e-4a4e-852c-623dcc02f3b6
+
+剩余时间：-1518秒
+14800 Ready do post ------ 1-4	19.55.18	Sleep:-1517	Token:9000f14e-098e-4a4e-852c-623dcc02f3b6	yu=-1518
+11300 Init ------ 1-4	19.55.17 seat:82 target:1-5 10~22	Token:320b6c62-ea5a-4da0-b2c8-04d4d1d9aa58
+
+剩余时间：-1518秒
+11300 Ready do post ------ 1-4	19.55.18	Sleep:-1517	Token:320b6c62-ea5a-4da0-b2c8-04d4d1d9aa58	yu=-1518
+12300 Init ------ 1-4	19.55.17 seat:80 target:1-5 10~22	Token:8a4b2477-bcc7-44ed-b595-ce40eb4a3dca
+
+剩余时间：-1519秒
+12300 Ready do post ------ 1-4	19.55.19	Sleep:-1518	Token:8a4b2477-bcc7-44ed-b595-ce40eb4a3dca	yu=-1519
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:55:30	target time:2021-1-5
+12400 Init ------ 1-4	19.55.30 seat:80 target:1-5 10~22	Token:8fe20e0a-77a8-425e-a723-a6c4f3c0c0b5
+
+剩余时间：-1532秒
+12400 Ready do post ------ 1-4	19.55.32	Sleep:-1531	Token:8fe20e0a-77a8-425e-a723-a6c4f3c0c0b5	yu=-1532
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:55:33	target time:2021-1-5
+14900 Init ------ 1-4	19.55.33 seat:81 target:1-5 10~22	Token:f74d7423-5ac9-4b16-9921-9145adb55646
+
+剩余时间：-1535秒
+14900 Ready do post ------ 1-4	19.55.35	Sleep:-1534	Token:f74d7423-5ac9-4b16-9921-9145adb55646	yu=-1535
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:55:40	target time:2021-1-5
+11400 Init ------ 1-4	19.55.40 seat:82 target:1-5 10~22	Token:b4cb6a6b-fc31-4652-85fe-b83ba53b81c4
+
+剩余时间：-1542秒
+11400 Ready do post ------ 1-4	19.55.42	Sleep:-1541	Token:b4cb6a6b-fc31-4652-85fe-b83ba53b81c4	yu=-1542
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:55:48	target time:2021-1-5
+12500 Init ------ 1-4	19.55.48 seat:80 target:1-5 10~22	Token:db964699-1329-4bde-851a-9839569ce4a4
+
+剩余时间：-1550秒
+12500 Ready do post ------ 1-4	19.55.50	Sleep:-1549	Token:db964699-1329-4bde-851a-9839569ce4a4	yu=-1550
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:55:52	target time:2021-1-5
+15000 Init ------ 1-4	19.55.52 seat:81 target:1-5 10~22	Token:c0b9b09c-323e-496b-8311-9c052663a5ae
+
+剩余时间：-1554秒
+15000 Ready do post ------ 1-4	19.55.54	Sleep:-1553	Token:c0b9b09c-323e-496b-8311-9c052663a5ae	yu=-1554
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:3	target time:2021-1-5
+12600 Init ------ 1-4	19.56.3 seat:80 target:1-5 10~22	Token:f55dc02b-dfac-437d-adb3-06852c2b2457
+
+剩余时间：-1564秒
+12600 Ready do post ------ 1-4	19.56.4	Sleep:-1563	Token:f55dc02b-dfac-437d-adb3-06852c2b2457	yu=-1564
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:6	target time:2021-1-5
+11500 Init ------ 1-4	19.56.6 seat:82 target:1-5 10~22	Token:43cc6942-446c-40d7-903b-d6302e69dcc9
+
+剩余时间：-1567秒
+11500 Ready do post ------ 1-4	19.56.7	Sleep:-1566	Token:43cc6942-446c-40d7-903b-d6302e69dcc9	yu=-1567
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:17	target time:2021-1-5
+12700 Init ------ 1-4	19.56.17 seat:80 target:1-5 10~22	Token:e460a5d2-8d42-4981-8827-e20fc5a385f2
+
+剩余时间：-1579秒
+12700 Ready do post ------ 1-4	19.56.19	Sleep:-1578	Token:e460a5d2-8d42-4981-8827-e20fc5a385f2	yu=-1579
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:19	target time:2021-1-5
+15100 Init ------ 1-4	19.56.19 seat:81 target:1-5 10~22	Token:579245ba-030a-45b3-92e8-3c7b0d0a49df
+
+剩余时间：-1581秒
+15100 Ready do post ------ 1-4	19.56.21	Sleep:-1580	Token:579245ba-030a-45b3-92e8-3c7b0d0a49df	yu=-1581
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:23	target time:2021-1-5
+11600 Init ------ 1-4	19.56.23 seat:82 target:1-5 10~22	Token:9d66ab00-f887-4e50-8f10-1d6e209fda39
+
+剩余时间：-1584秒
+11600 Ready do post ------ 1-4	19.56.24	Sleep:-1583	Token:9d66ab00-f887-4e50-8f10-1d6e209fda39	yu=-1584
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:35	target time:2021-1-5
+12800 Init ------ 1-4	19.56.35 seat:80 target:1-5 10~22	Token:edb43e26-db55-49d8-81c0-131260dac9c5
+
+剩余时间：-1597秒
+12800 Ready do post ------ 1-4	19.56.37	Sleep:-1596	Token:edb43e26-db55-49d8-81c0-131260dac9c5	yu=-1597
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:43	target time:2021-1-5
+15200 Init ------ 1-4	19.56.43 seat:81 target:1-5 10~22	Token:38c6ec3d-d295-47b1-af2f-3431125452c9
+
+剩余时间：-1604秒
+15200 Ready do post ------ 1-4	19.56.44	Sleep:-1603	Token:38c6ec3d-d295-47b1-af2f-3431125452c9	yu=-1604
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:50	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:50	target time:2021-1-5
+12900 Init ------ 1-4	19.56.50 seat:80 target:1-5 10~22	Token:60fafcf5-37d6-4f8c-99e6-21f02bb8ad65
+
+剩余时间：-1611秒
+12900 Ready do post ------ 1-4	19.56.51	Sleep:-1610	Token:60fafcf5-37d6-4f8c-99e6-21f02bb8ad65	yu=-1611
+11700 Init ------ 1-4	19.56.50 seat:82 target:1-5 10~22	Token:e781e7d7-136e-4f60-abd5-0606ee24e00a
+
+剩余时间：-1612秒
+11700 Ready do post ------ 1-4	19.56.52	Sleep:-1611	Token:e781e7d7-136e-4f60-abd5-0606ee24e00a	yu=-1612
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:56:58	target time:2021-1-5
+15300 Init ------ 1-4	19.56.58 seat:81 target:1-5 10~22	Token:7543b073-3bdb-4f40-8c5d-e1827c4c2e6f
+
+剩余时间：-1620秒
+15300 Ready do post ------ 1-4	19.57.0	Sleep:-1619	Token:7543b073-3bdb-4f40-8c5d-e1827c4c2e6f	yu=-1620
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:13	target time:2021-1-5
+13000 Init ------ 1-4	19.57.13 seat:80 target:1-5 10~22	Token:7b4a4aa7-6e9f-421c-b0e5-153e09de33b5
+
+剩余时间：-1634秒
+13000 Ready do post ------ 1-4	19.57.14	Sleep:-1633	Token:7b4a4aa7-6e9f-421c-b0e5-153e09de33b5	yu=-1634
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:17	target time:2021-1-5
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:18	target time:2021-1-5
+11800 Init ------ 1-4	19.57.17 seat:82 target:1-5 10~22	Token:f5fe75ba-7f87-4cfa-99b9-329a22c8126b
+
+剩余时间：-1638秒
+11800 Ready do post ------ 1-4	19.57.18	Sleep:-1637	Token:f5fe75ba-7f87-4cfa-99b9-329a22c8126b	yu=-1638
+15400 Init ------ 1-4	19.57.18 seat:81 target:1-5 10~22	Token:c44378c5-4437-4c11-8956-9afaebdeddc0
+
+剩余时间：-1640秒
+15400 Ready do post ------ 1-4	19.57.20	Sleep:-1639	Token:c44378c5-4437-4c11-8956-9afaebdeddc0	yu=-1640
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:27	target time:2021-1-5
+13100 Init ------ 1-4	19.57.27 seat:80 target:1-5 10~22	Token:45937d2d-74d8-4491-8c49-b724eb551076
+
+剩余时间：-1649秒
+13100 Ready do post ------ 1-4	19.57.29	Sleep:-1648	Token:45937d2d-74d8-4491-8c49-b724eb551076	yu=-1649
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:35	target time:2021-1-5
+11900 Init ------ 1-4	19.57.35 seat:82 target:1-5 10~22	Token:05261992-9c25-4fa6-9472-8733144cb786
+
+剩余时间：-1657秒
+11900 Ready do post ------ 1-4	19.57.37	Sleep:-1656	Token:05261992-9c25-4fa6-9472-8733144cb786	yu=-1657
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:38	target time:2021-1-5
+15500 Init ------ 1-4	19.57.38 seat:81 target:1-5 10~22	Token:7f3a293a-e08f-4136-aebd-597f91ddc8fa
+
+剩余时间：-1660秒
+15500 Ready do post ------ 1-4	19.57.40	Sleep:-1659	Token:7f3a293a-e08f-4136-aebd-597f91ddc8fa	yu=-1660
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:45	target time:2021-1-5
+13200 Init ------ 1-4	19.57.45 seat:80 target:1-5 10~22	Token:18864b1d-6c52-4fe0-b5f2-942c63df2ba6
+
+剩余时间：-1666秒
+13200 Ready do post ------ 1-4	19.57.46	Sleep:-1665	Token:18864b1d-6c52-4fe0-b5f2-942c63df2ba6	yu=-1666
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:50	target time:2021-1-5
+12000 Init ------ 1-4	19.57.50 seat:82 target:1-5 10~22	Token:3919e910-184d-4c51-9886-7d277556a704
+
+剩余时间：-1672秒
+12000 Ready do post ------ 1-4	19.57.52	Sleep:-1671	Token:3919e910-184d-4c51-9886-7d277556a704	yu=-1672
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:55	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:57:56	target time:2021-1-5
+15600 Init ------ 1-4	19.57.55 seat:81 target:1-5 10~22	Token:dedbb66a-07e3-46f7-95bd-034b504a23a8
+
+剩余时间：-1677秒
+15600 Ready do post ------ 1-4	19.57.57	Sleep:-1676	Token:dedbb66a-07e3-46f7-95bd-034b504a23a8	yu=-1677
+13300 Init ------ 1-4	19.57.56 seat:80 target:1-5 10~22	Token:6d2869fe-91f1-4564-9670-0905899ed218
+
+剩余时间：-1678秒
+13300 Ready do post ------ 1-4	19.57.58	Sleep:-1677	Token:6d2869fe-91f1-4564-9670-0905899ed218	yu=-1678
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:2	target time:2021-1-5
+12100 Init ------ 1-4	19.58.2 seat:82 target:1-5 10~22	Token:43298fe4-62f2-4987-abac-c6df64dbd265
+
+剩余时间：-1684秒
+12100 Ready do post ------ 1-4	19.58.4	Sleep:-1683	Token:43298fe4-62f2-4987-abac-c6df64dbd265	yu=-1684
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:13	target time:2021-1-5
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:14	target time:2021-1-5
+15700 Init ------ 1-4	19.58.13 seat:81 target:1-5 10~22	Token:8f42cfe3-9cd7-45d9-ac1a-871cf3bb2f3e
+
+剩余时间：-1695秒
+15700 Ready do post ------ 1-4	19.58.15	Sleep:-1694	Token:8f42cfe3-9cd7-45d9-ac1a-871cf3bb2f3e	yu=-1695
+13400 Init ------ 1-4	19.58.14 seat:80 target:1-5 10~22	Token:f55254fe-4c50-4d76-aa2f-e952caaaf35e
+
+剩余时间：-1696秒
+13400 Ready do post ------ 1-4	19.58.16	Sleep:-1695	Token:f55254fe-4c50-4d76-aa2f-e952caaaf35e	yu=-1696
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:22	target time:2021-1-5
+12200 Init ------ 1-4	19.58.22 seat:82 target:1-5 10~22	Token:2ae38d4c-93f0-46e1-8645-5510254c4301
+
+剩余时间：-1704秒
+12200 Ready do post ------ 1-4	19.58.24	Sleep:-1703	Token:2ae38d4c-93f0-46e1-8645-5510254c4301	yu=-1704
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:25	target time:2021-1-5
+13500 Init ------ 1-4	19.58.25 seat:80 target:1-5 10~22	Token:33b60ce3-33d5-4244-a848-77d0c5c64578
+
+剩余时间：-1707秒
+13500 Ready do post ------ 1-4	19.58.27	Sleep:-1706	Token:33b60ce3-33d5-4244-a848-77d0c5c64578	yu=-1707
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:28	target time:2021-1-5
+15800 Init ------ 1-4	19.58.28 seat:81 target:1-5 10~22	Token:a610600d-28f4-41a7-8652-9da0af42493a
+
+剩余时间：-1710秒
+15800 Ready do post ------ 1-4	19.58.30	Sleep:-1709	Token:a610600d-28f4-41a7-8652-9da0af42493a	yu=-1710
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:38	target time:2021-1-5
+13600 Init ------ 1-4	19.58.38 seat:80 target:1-5 10~22	Token:29e75911-d597-4771-9140-200067e67c06
+
+剩余时间：-1720秒
+13600 Ready do post ------ 1-4	19.58.40	Sleep:-1719	Token:29e75911-d597-4771-9140-200067e67c06	yu=-1720
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:49	target time:2021-1-5
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:49	target time:2021-1-5
+15900 Init ------ 1-4	19.58.49 seat:81 target:1-5 10~22	Token:0dd4f3d4-fb81-49c9-b144-1793db99793a
+
+剩余时间：-1730秒
+15900 Ready do post ------ 1-4	19.58.50	Sleep:-1729	Token:0dd4f3d4-fb81-49c9-b144-1793db99793a	yu=-1730
+12300 Init ------ 1-4	19.58.49 seat:82 target:1-5 10~22	Token:73605f64-b70b-48b3-bb9c-4d230538395b
+
+剩余时间：-1731秒
+12300 Ready do post ------ 1-4	19.58.51	Sleep:-1730	Token:73605f64-b70b-48b3-bb9c-4d230538395b	yu=-1731
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:58:58	target time:2021-1-5
+13700 Init ------ 1-4	19.58.58 seat:80 target:1-5 10~22	Token:9af7f71a-0073-40c9-838a-3e62063b97fe
+
+剩余时间：-1739秒
+13700 Ready do post ------ 1-4	19.58.59	Sleep:-1738	Token:9af7f71a-0073-40c9-838a-3e62063b97fe	yu=-1739
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:59:14	target time:2021-1-5
+16000 Init ------ 1-4	19.59.14 seat:81 target:1-5 10~22	Token:98bca801-c06c-4170-ac83-8061160e0ced
+
+剩余时间：-1756秒
+16000 Ready do post ------ 1-4	19.59.16	Sleep:-1755	Token:98bca801-c06c-4170-ac83-8061160e0ced	yu=-1756
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:59:16	target time:2021-1-5
+12400 Init ------ 1-4	19.59.16 seat:82 target:1-5 10~22	Token:8144e7aa-2cfa-4d12-bba3-f8a5ce12d5a8
+
+剩余时间：-1758秒
+12400 Ready do post ------ 1-4	19.59.18	Sleep:-1757	Token:8144e7aa-2cfa-4d12-bba3-f8a5ce12d5a8	yu=-1758
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:59:24	target time:2021-1-5
+13800 Init ------ 1-4	19.59.24 seat:80 target:1-5 10~22	Token:ea917efd-4ea3-45bc-9baf-f45488e29ed8
+
+剩余时间：-1765秒
+13800 Ready do post ------ 1-4	19.59.25	Sleep:-1764	Token:ea917efd-4ea3-45bc-9baf-f45488e29ed8	yu=-1765
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:59:31	target time:2021-1-5
+12500 Init ------ 1-4	19.59.31 seat:82 target:1-5 10~22	Token:254669de-1da5-4300-a7ba-be9eee6bb9ed
+
+剩余时间：-1773秒
+12500 Ready do post ------ 1-4	19.59.33	Sleep:-1772	Token:254669de-1da5-4300-a7ba-be9eee6bb9ed	yu=-1773
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:59:39	target time:2021-1-5
+16100 Init ------ 1-4	19.59.39 seat:81 target:1-5 10~22	Token:7a57eece-1365-45bb-b05c-5f5a231f6274
+
+剩余时间：-1781秒
+16100 Ready do post ------ 1-4	19.59.41	Sleep:-1780	Token:7a57eece-1365-45bb-b05c-5f5a231f6274	yu=-1781
+Call FUN1: 2 cnt=3
+Init OneThread : real time: 2021-1-4 19:59:41	target time:2021-1-5
+13900 Init ------ 1-4	19.59.41 seat:80 target:1-5 10~22	Token:d93f7acc-b88f-4709-a3e0-998226e18189
+
+剩余时间：-1783秒
+13900 Ready do post ------ 1-4	19.59.43	Sleep:-1782	Token:d93f7acc-b88f-4709-a3e0-998226e18189	yu=-1783
+Call FUN1: 1 cnt=3
+Init OneThread : real time: 2021-1-4 19:59:45	target time:2021-1-5
+12600 Init ------ 1-4	19.59.45 seat:82 target:1-5 10~22	Token:0cd04d65-1087-4e8f-b50b-f82f7f6a18de
+
+剩余时间：-1786秒
+12600 Ready do post ------ 1-4	19.59.46	Sleep:-1785	Token:0cd04d65-1087-4e8f-b50b-f82f7f6a18de	yu=-1786
+Call FUN1: 0 cnt=3
+Init OneThread : real time: 2021-1-4 19:59:51	target time:2021-1-5
+16200 Init ------ 1-4	19.59.51 seat:81 target:1-5 10~22	Token:3587d761-159b-40b1-b884-fae14bebce27
+
+剩余时间：-1793秒
+16200 Ready do post ------ 1-4	19.59.53	Sleep:-1792	Token:3587d761-159b-40b1-b884-fae14bebce27	yu=-1793
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:0:1	target time:2021-1-6
+14000 Init ------ 1-4	20.0.1 seat:80 target:1-6 10~22	Token:0fdd0be9-d678-4852-ab36-e5d7b95a28cf
+
+剩余时间：84597秒
+14000 Keep alive ------ 1-4	20.0.4	Sleep:360	Token:5dd62c74-0157-4ef4-a45e-81327dfdd6dc	yu=84596 FinishTime=27
+Call FUN1: 1 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:0:5	target time:2021-1-6
+12700 Init ------ 1-4	20.0.5 seat:82 target:1-6 10~22	Token:6e01368f-ba7c-4f5d-afe9-e8db78923ab4
+
+剩余时间：84593秒
+12700 Keep alive ------ 1-4	20.0.8	Sleep:360	Token:c16933f0-2284-40e2-9b7d-dbf60a6bba26	yu=84592 FinishTime=28
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:0:11	target time:2021-1-6
+16300 Init ------ 1-4	20.0.11 seat:81 target:1-6 10~22	Token:55fea625-acba-4e16-8a63-c1645ed1bda9
+
+剩余时间：84587秒
+16300 Keep alive ------ 1-4	20.0.15	Sleep:360	Token:da567a00-b38a-4eff-956d-8feea59d08a9	yu=84585 FinishTime=34
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:6:4	target time:2021-1-6
+14100 Init ------ 1-4	20.6.4 seat:80 target:1-6 10~22	Token:76462b02-d696-45bc-bddb-8db92285b790
+
+剩余时间：84234秒
+14100 Keep alive ------ 1-4	20.6.8	Sleep:360	Token:623ce848-2352-4faa-bbf1-248a8f439b4d	yu=84232 FinishTime=33
+Call FUN1: 1 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:6:8	target time:2021-1-6
+12800 Init ------ 1-4	20.6.8 seat:82 target:1-6 10~22	Token:4ca3b112-0e85-4258-8d4e-4940e525b1ac
+
+剩余时间：84230秒
+12800 Keep alive ------ 1-4	20.6.12	Sleep:360	Token:bb5e0788-af9e-436d-a56a-6df8cd084b39	yu=84228 FinishTime=30
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:6:15	target time:2021-1-6
+16400 Init ------ 1-4	20.6.15 seat:81 target:1-6 10~22	Token:e08938c7-e016-403f-b4cc-e37b49870035
+
+剩余时间：84224秒
+16400 Keep alive ------ 1-4	20.6.18	Sleep:360	Token:761bbc7c-38d5-4c43-8d89-a0db0f523d3e	yu=84222 FinishTime=33
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:12:8	target time:2021-1-6
+14200 Init ------ 1-4	20.12.8 seat:80 target:1-6 10~22	Token:704ceb18-01bd-423c-a971-7c545f85044c
+
+剩余时间：83871秒
+14200 Keep alive ------ 1-4	20.12.11	Sleep:360	Token:f1b976c4-7911-433a-a60a-a8155f1a8cdc	yu=83869 FinishTime=24
+Call FUN1: 1 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:12:12	target time:2021-1-6
+12900 Init ------ 1-4	20.12.12 seat:82 target:1-6 10~22	Token:3e7c923d-0789-4cbb-9437-69fd6e171487
+
+剩余时间：83867秒
+12900 Keep alive ------ 1-4	20.12.15	Sleep:360	Token:10b6dd5d-cf25-4179-a57d-6355b1ba0bd6	yu=83865 FinishTime=36
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:12:18	target time:2021-1-6
+16500 Init ------ 1-4	20.12.18 seat:81 target:1-6 10~22	Token:7a0f89bc-26eb-41ba-a342-1fcceb1d809a
+
+剩余时间：83860秒
+16500 Keep alive ------ 1-4	20.12.21	Sleep:360	Token:0111dd53-42bb-4193-9f79-a851baa7912d	yu=83859 FinishTime=24
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:18:11	target time:2021-1-6
+14300 Init ------ 1-4	20.18.11 seat:80 target:1-6 10~22	Token:d65eebfe-7dfe-4090-9764-7a37bc37bbae
+
+剩余时间：83508秒
+14300 Keep alive ------ 1-4	20.18.14	Sleep:360	Token:22bc400c-73dd-41b8-bd83-f13fa22f88b2	yu=83506 FinishTime=20
+Call FUN1: 1 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:18:15	target time:2021-1-6
+13000 Init ------ 1-4	20.18.15 seat:82 target:1-6 10~22	Token:ad7e6752-12b4-416d-9d67-cc1cde0c44a6
+
+剩余时间：83503秒
+13000 Keep alive ------ 1-4	20.18.18	Sleep:360	Token:33b09a9d-ecc3-45a8-a0be-845aa901518a	yu=83502 FinishTime=24
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:18:21	target time:2021-1-6
+16600 Init ------ 1-4	20.18.21 seat:81 target:1-6 10~22	Token:ccd83299-d645-449b-a965-afb9cbd630b3
+
+剩余时间：83497秒
+16600 Keep alive ------ 1-4	20.18.24	Sleep:360	Token:3f789172-c98d-4a98-a01b-9a9d9f997eb9	yu=83496 FinishTime=32
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:24:14	target time:2021-1-6
+14400 Init ------ 1-4	20.24.14 seat:80 target:1-6 10~22	Token:9ec31e26-a0dc-4f0a-90d5-ee7e38e46886
+
+剩余时间：83144秒
+14400 Keep alive ------ 1-4	20.24.17	Sleep:360	Token:a2d4054a-683f-4d97-84ae-224395c068a2	yu=83143 FinishTime=30
+Call FUN1: 1 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:24:18	target time:2021-1-6
+13100 Init ------ 1-4	20.24.18 seat:82 target:1-6 10~22	Token:7a9493db-1ae6-4fb4-9f8b-9dd827420c4c
+
+剩余时间：83140秒
+13100 Keep alive ------ 1-4	20.24.22	Sleep:360	Token:0cd998b7-1dd0-49a0-80a7-aba479a5efcf	yu=83138 FinishTime=27
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:24:24	target time:2021-1-6
+16700 Init ------ 1-4	20.24.24 seat:81 target:1-6 10~22	Token:db1fff24-5e94-4d43-a08d-096a665c5ce4
+
+剩余时间：83134秒
+16700 Keep alive ------ 1-4	20.24.28	Sleep:360	Token:7129e51c-a459-4598-b065-42a061163970	yu=83132 FinishTime=26
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:30:17	target time:2021-1-6
+14500 Init ------ 1-4	20.30.17 seat:80 target:1-6 10~22	Token:0a129ae1-6602-49b0-bf4c-f59ee3047370
+
+剩余时间：82781秒
+14500 Keep alive ------ 1-4	20.30.21	Sleep:360	Token:294dce28-b58a-4fa9-bc96-810f965e4680	yu=82779 FinishTime=35
+Call FUN1: 1 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:30:22	target time:2021-1-6
+13200 Init ------ 1-4	20.30.22 seat:82 target:1-6 10~22	Token:fc1a40e3-266e-4267-b9d5-3f8a9b3adced
+
+剩余时间：82777秒
+13200 Keep alive ------ 1-4	20.30.25	Sleep:360	Token:3fa392ac-10d8-415e-af35-e2321a02e6cb	yu=82775 FinishTime=28
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:30:28	target time:2021-1-6
+16800 Init ------ 1-4	20.30.28 seat:81 target:1-6 10~22	Token:df2d678e-e3c2-4f54-86b0-928fc35f405c
+
+剩余时间：82770秒
+16800 Keep alive ------ 1-4	20.30.31	Sleep:360	Token:b798ef81-5527-4c19-afec-4d7a3ac67312	yu=82769 FinishTime=38
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:36:21	target time:2021-1-6
+14600 Init ------ 1-4	20.36.21 seat:80 target:1-6 10~22	Token:edbad0fa-5265-4e22-ac62-94301353272a
+
+剩余时间：82418秒
+14600 Keep alive ------ 1-4	20.36.24	Sleep:360	Token:d9e28b62-7823-4b3d-9c9e-71a8a9e68e8a	yu=82416 FinishTime=25
+Call FUN1: 1 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:36:25	target time:2021-1-6
+13300 Init ------ 1-4	20.36.25 seat:82 target:1-6 10~22	Token:72a7e481-a6b1-40c6-ae50-d6008f3a7578
+
+剩余时间：82413秒
+13300 Keep alive ------ 1-4	20.36.28	Sleep:360	Token:b3cebdce-fd21-4a23-85a7-153d04510de7	yu=82412 FinishTime=29
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:36:31	target time:2021-1-6
+16900 Init ------ 1-4	20.36.31 seat:81 target:1-6 10~22	Token:b9b6be5a-da19-44e8-a72f-b02e9ddbbe30
+
+剩余时间：82407秒
+16900 Keep alive ------ 1-4	20.36.34	Sleep:360	Token:c0a68898-3cfc-46f7-86c2-535b9df3e01b	yu=82406 FinishTime=20
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:42:24	target time:2021-1-6
+14700 Init ------ 1-4	20.42.24 seat:80 target:1-6 10~22	Token:8dc68fd7-6975-4fa1-825f-af4404f50ff1
+
+剩余时间：82055秒
+14700 Keep alive ------ 1-4	20.42.27	Sleep:360	Token:a3d373fb-8353-4aec-a65d-07a5ac2b7909	yu=82053 FinishTime=39
+Call FUN1: 1 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:42:28	target time:2021-1-6
+13400 Init ------ 1-4	20.42.28 seat:82 target:1-6 10~22	Token:a1a1b14b-9849-40be-acc7-f7549ae4177b
+
+剩余时间：82050秒
+13400 Keep alive ------ 1-4	20.42.32	Sleep:360	Token:c260a544-681e-473a-9daa-a1ae8ab14ff2	yu=82048 FinishTime=26
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:42:35	target time:2021-1-6
+17000 Init ------ 1-4	20.42.35 seat:81 target:1-6 10~22	Token:866867bf-ac6e-4b47-8e34-1abaa3925b7f
+
+剩余时间：82044秒
+17000 Keep alive ------ 1-4	20.42.38	Sleep:360	Token:beae6c7d-2d57-4faa-853c-03cc2921103f	yu=82042 FinishTime=35
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:48:27	target time:2021-1-6
+14800 Init ------ 1-4	20.48.27 seat:80 target:1-6 10~22	Token:59995db6-d427-47dd-a96b-8f27dcf5369c
+
+剩余时间：81691秒
+14800 Keep alive ------ 1-4	20.48.30	Sleep:360	Token:a1bb45ab-6c57-492f-ac3c-4ce219bbfe6d	yu=81690 FinishTime=34
+13400 Keep alive ------ 1-4	20.48.32	Sleep:360	Token:c260a544-681e-473a-9daa-a1ae8ab14ff2	yu=81688 FinishTime=26
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:48:38	target time:2021-1-6
+17100 Init ------ 1-4	20.48.38 seat:81 target:1-6 10~22	Token:1f99fe97-7204-4ccb-944e-fb8397a6d1fc
+
+剩余时间：81680秒
+17100 Keep alive ------ 1-4	20.48.41	Sleep:360	Token:5bc3f070-dd51-4888-a788-6dd3eaf236c8	yu=81679 FinishTime=33
+Call FUN1: 2 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:54:30	target time:2021-1-6
+Call FUN1: 1 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:54:32	target time:2021-1-6
+14900 Init ------ 1-4	20.54.30 seat:80 target:1-6 10~22	Token:aa6433be-479b-45e5-881d-d946e8f45b94
+
+剩余时间：81328秒
+14900 Keep alive ------ 1-4	20.54.33	Sleep:360	Token:c458c87e-5acf-4222-836e-6d57aa2f5e33	yu=81327 FinishTime=37
+13500 Init ------ 1-4	20.54.32 seat:82 target:1-6 10~22	Token:ae29bc62-cf7c-48b2-bb71-92e60bb804bc
+
+剩余时间：81327秒
+13500 Keep alive ------ 1-4	20.54.35	Sleep:360	Token:f67b49d2-e705-4e3c-bd73-b3b4bc4e768a	yu=81325 FinishTime=23
+Call FUN1: 0 cnt=3
+Shall seek day after tomorrow
+Init OneThread : real time: 2021-1-4 20:54:41	target time:2021-1-6
+17200 Init ------ 1-4	20.54.41 seat:81 target:1-6 10~22	Token:05cdb7b6-8c1b-4bf8-8f7f-3bda6baef3d8
+
+剩余时间：81317秒
+17200 Keep alive ------ 1-4	20.54.45	Sleep:360	Token:4ba46db5-6370-42ea-b5e6-afa12082a859	yu=81315 FinishTime=36
